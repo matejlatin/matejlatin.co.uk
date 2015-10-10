@@ -608,11 +608,13 @@ body, html {
   background: white;
   height: 100%;
   margin: 0;
+  padding: 10%;
 }
 
 body, html {
   color: #343434;
   font: 100% "pt-sans", Georgia, serif;
+  line-height: 1.7;
 }
 body a, html a {
   color: #678bd5;
@@ -630,6 +632,21 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 0.2em;
   text-align: center;
+  position: relative;
+  margin-bottom: 3em;
+}
+
+h1:after {
+  content: '';
+  position: absolute;
+  top: inherit;
+  bottom: -40px;
+  left: 50%;
+  width: 10%;
+  height: 20px;
+  margin-left: -5%;
+  background: white;
+  border-bottom: 2px #e5e5e5 solid;
 }
 
 /*# sourceMappingURL=main.css.map */

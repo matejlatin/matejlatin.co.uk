@@ -1,6 +1,7 @@
 body, html {
 	color: $colorMedium;
 	font: $typeDefault $fontBody;
+	line-height: 1.7;
 
 	a {
 		color: $linkNormal;
@@ -21,4 +22,19 @@ h1 {
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
 	text-align: center;
+	position: relative;
+	margin-bottom: 3em;
+}
+
+h1:after {
+	content: '';
+	position: absolute;
+	top: inherit;
+	bottom: -40px;
+	left: 50%;
+	width: 10%;
+	height: 20px;
+	margin-left: -5%;
+	background: white;
+	border-bottom: 2px #e5e5e5 solid;
 }
