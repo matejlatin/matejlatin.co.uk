@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"padd",
+				"padding-bottom: "
+			],
+			[
+				"bord",
+				"border-bottom: "
+			],
+			[
+				"back",
+				"background: "
+			],
+			[
+				"border",
+				"border: "
+			],
+			[
+				"font",
+				"font-style: "
+			],
+			[
+				"padding",
+				"padding-bottom: "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2854,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 169.0,
+		"last_filter": "wrap",
+		"selected_items":
+		[
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"package enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"thml",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"wp",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/css/scss/_responsive.scss",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/event.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/emails/duedil-elements.hbs",
+		"/Users/matejlatin/Desktop/email-elements.html",
+		"/Users/matejlatin/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/dist/duedil-elements.html",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/css/scss/_layout.scss",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/h2.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/css/scss/_type.scss",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/css/scss/_global.scss",
+		"/Users/matejlatin/Desktop/follows-email",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/sign-off.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/css/scss/_config.scss",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/css/scss/_buttons.scss",
+		"/Users/matejlatin/Desktop/feedback email",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/secondary-news.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/small-print.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/feature-description.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/face.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/header.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/ol.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/section-title.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/title.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/css/scss/_other.scss",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/ul.hbs.html",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/comment.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/layouts/duedil.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/h1.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/h3.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/footer.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/secrets.json",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/attention-grabber.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/paragraph.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/partials/horizontal-rule.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/emails/branded.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/Gruntfile.js",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/css/scss/main.scss",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/css/scss/_normalize.scss",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/src/layouts/default.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/DD-email-workflow/DD-emails.sublime-project",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/secrets.json",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/package.json",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/css/scss/_config.scss",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/css/scss/_layout.scss",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/dist/branded.html",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/data/matej.yml",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/css/scss/_responsive.scss",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/layouts/default.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/emails/transaction.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/emails/branded.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/partials/follow_matej.hbs",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/DD-emails.sublime-project",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/helpers/helper-button.js",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/css/scss/_buttons.scss",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/css/scss/_global.scss",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/css/scss/_other.scss",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/css/scss/_type.scss",
+		"/Users/matejlatin/Documents/Email Redesign/grunt-email-workflow/src/css/scss/main.scss",
+		"/Users/matejlatin/Downloads/Future of Sales final list - Pardot_export_for_lucy.csv-2.csv",
+		"/Users/matejlatin/Mega/Portable ToolKit/Code/Sublime Text/Sublime Text.icns",
+		"/Users/matejlatin/Library/Application Support/Sublime Text 3/Packages/User/Package Syncing.sublime-settings",
+		"/Users/matejlatin/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Package Syncing.sublime-settings",
+		"/Users/matejlatin/Desktop/haus",
+		"/Users/matejlatin/Library/Mail/V2/MailData/Signatures/3300496B-2EDC-4320-BB4E-B85766AF1E56.mailsignature",
+		"/Users/matejlatin/Desktop/Verify your DueDil account.eml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"section titl",
+			"padding",
+			"litmus",
+			"12px",
+			"image",
+			"imagemin",
+			"footer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "matejlatin.co.uk.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sign",
+				"src/partials/sign-off.hbs"
+			],
+			[
+				"respon",
+				"src/css/scss/_responsive.scss"
+			],
+			[
+				"face",
+				"src/partials/face.hbs"
+			],
+			[
+				"featu",
+				"src/partials/feature-description.hbs"
+			],
+			[
+				"image",
+				"src/partials/image.hbs"
+			],
+			[
+				"secon",
+				"src/partials/secondary-news.hbs"
+			],
+			[
+				"respo",
+				"src/css/scss/_responsive.scss"
+			],
+			[
+				"primar",
+				"src/partials/primary-news.hbs"
+			],
+			[
+				"head",
+				"src/partials/header.hbs"
+			],
+			[
+				"small",
+				"src/partials/small-print.hbs"
+			],
+			[
+				"ul.hbs",
+				"src/partials/ul.hbs"
+			],
+			[
+				"titl",
+				"src/partials/title.hbs"
+			],
+			[
+				"section",
+				"src/partials/section-title.hbs"
+			],
+			[
+				"h3",
+				"src/partials/h3.hbs"
+			],
+			[
+				"h2",
+				"src/partials/h2.hbs"
+			],
+			[
+				"h1",
+				"src/partials/h1.hbs"
+			],
+			[
+				"foo",
+				"src/partials/footer.hbs"
+			],
+			[
+				"duedil",
+				"dist/duedil-elements.html"
+			],
+			[
+				"sec",
+				"secrets.json"
+			],
+			[
+				"parag",
+				"src/partials/paragraph.hbs"
+			],
+			[
+				"type",
+				"src/css/scss/_type.scss"
+			],
+			[
+				"title",
+				"src/partials/title.hbs"
+			],
+			[
+				"hori",
+				"src/partials/horizontal-rule.hbs"
+			],
+			[
+				"gruntfile",
+				"Gruntfile.js"
+			],
+			[
+				"secret",
+				"secrets.json"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"brand",
+				"src/emails/branded.hbs"
+			],
+			[
+				"normal",
+				"src/css/scss/_normalize.scss"
+			],
+			[
+				"norm",
+				"src/css/scss/_normalize.scss"
+			],
+			[
+				"main",
+				"src/css/scss/main.scss"
+			],
+			[
+				"default",
+				"src/layouts/default.hbs"
+			],
+			[
+				"trans",
+				"src/emails/transaction.hbs"
+			],
+			[
+				"tran",
+				"src/emails/transaction.hbs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 211.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

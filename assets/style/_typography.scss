@@ -15,3 +15,10 @@ body, html {
 		color: $linkVisited;
 	}
 }
+
+h1 {
+	font-family: $fontH1;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	text-align: center;
+}
