@@ -48,7 +48,7 @@ module.exports = function(grunt){
 					mode: 'gzip'
 				},
 				files: [
-					{expand: true, src: ['src/combined.min.css'], dest: '', ext: '.gz.css'}
+					{expand: true, src: ['src/combined.min.css'], dest: '', ext: '.min.gz.css'}
 				]
 			},
 			js: {
@@ -56,7 +56,7 @@ module.exports = function(grunt){
 					mode: 'gzip'
 				},
 				files: [
-					{expand: true, src: ['src/combined.min.js'], dest: '', ext: '.gz.js'}
+					{expand: true, src: ['src/combined.min.js'], dest: '', ext: '.min.gz.js'}
 				]
 			}
 		},

@@ -606,47 +606,137 @@ Copyright (c) 2014 Daniel Eden
 
 body, html {
   background: white;
-  height: 100%;
   margin: 0;
-  padding: 10%;
+  padding: 10% 0;
+}
+
+footer {
+  padding-top: 20%;
+}
+
+section small {
+  color: #A0A1A3;
+}
+
+ul.elsewhere {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+ul.elsewhere li {
+  display: inline;
+  padding: 0 15px;
 }
 
 body, html {
-  color: #343434;
-  font: 100% "pt-sans", Georgia, serif;
+  color: #373C40;
+  font: 100% "pt-serif", Georgia, serif;
   line-height: 1.7;
-}
-body a, html a {
-  color: #678bd5;
-  text-decoration: underline;
-}
-body a:active, html a:active {
-  color: #7198e9;
-}
-body a:visited, html a:visited {
-  color: #6284ca;
+  -moz-font-feature-settings: "smcp";
+  -moz-font-feature-settings: "liga=1, dlig=1";
+  -ms-font-feature-settings: "liga", "dlig";
+  -webkit-font-feature-settings: "liga", "dlig";
+  -o-font-feature-settings: "liga", "dlig";
+  font-feature-settings: "liga", "dlig";
 }
 
-h1 {
+a {
+  color: #373C40;
+  text-decoration: none;
+}
+
+a:active {
+  color: #7198e9;
+}
+
+h1, h2 {
   font-family: "futura-pt", "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 0.2em;
   text-align: center;
   position: relative;
-  margin-bottom: 3em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5rem;
 }
-
-h1:after {
+h1:after, h2:after {
   content: '';
   position: absolute;
   top: inherit;
-  bottom: -40px;
+  bottom: -25px;
   left: 50%;
-  width: 10%;
-  height: 20px;
-  margin-left: -5%;
+  width: 60px;
+  height: 25px;
+  margin-left: -30px;
   background: white;
-  border-bottom: 2px #e5e5e5 solid;
+  border-bottom: 2px #E5E5E5 solid;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.1rem;
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+}
+h2:after {
+  height: 10px;
+  bottom: -10px;
+}
+
+h3 {
+  font-size: 1.5rem;
+  line-height: 1.3;
+}
+
+a h3 {
+  text-decoration: none;
+}
+
+.dropcap {
+  padding-right: 5px !important;
+}
+
+p {
+  text-align: justify;
+  max-width: 70%;
+  margin: 0 auto 2rem;
+}
+p a {
+  text-decoration: underline;
+}
+p a:visited {
+  color: #A0A1A3;
+}
+
+h3, small {
+  display: block;
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+small {
+  font-family: "pt-serif-caption", "pt-serif", Georgia, sans-serif;
+  font-size: 0.75rem;
+  line-height: 1.5;
+  padding: 5px 0;
+}
+
+footer {
+  font-family: "futura-pt", "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  padding-bottom: 10%;
+}
+
+@media (min-width: 32rem) {
+  p, h2, h3, small {
+    max-width: 25rem;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */

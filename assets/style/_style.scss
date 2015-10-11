@@ -1,10 +1,26 @@
 body, html {
 	background: white;
-	height: 100%;
 	margin: 0;
-	padding: 10%;
+	padding: 10% 0;
 }
 
-// article {
-// 	padding-top: 10%;
-// }
+footer {
+	padding-top: 20%;
+}
+
+section {
+	small {
+		color: $gray;
+	}
+}
+
+ul.elsewhere  {
+	list-style: none;
+	text-align: center;
+	padding: 0;
+
+	li {
+		display: inline;
+		padding: 0 15px;
+	}
+}

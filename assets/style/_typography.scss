@@ -1,15 +1,86 @@
 body, html {
-	color: $colorMedium;
+	color: $fontColor;
 	font: $typeDefault $fontBody;
 	line-height: 1.7;
+	-moz-font-feature-settings: "smcp";
+	-moz-font-feature-settings: "liga=1, dlig=1";
+    -ms-font-feature-settings: "liga", "dlig";
+    -webkit-font-feature-settings: "liga", "dlig";
+    -o-font-feature-settings: "liga", "dlig";
+    font-feature-settings: "liga", "dlig";
+}
+
+a {
+	color: $linkNormal;
+	text-decoration: none;
+}
+
+a:active {
+	color: $linkActive;
+}
+
+h1, h2 {
+	font-family: $fontHeadings;
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	text-align: center;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5rem;
+
+	&:after {
+		content: '';
+		position: absolute;
+		top: inherit;
+		bottom: -25px;
+		left: 50%;
+		width: 60px;
+		height: 25px;
+		margin-left: -30px;
+		background: white;
+		border-bottom: 2px $lightGray solid;
+	}
+}
+
+h1 {
+	font-size: 1.5rem;
+}
+
+h2 {
+	font-size: 1.1rem;
+	margin-top: 5rem;
+	margin-bottom: 3rem;
+
+	&:after {
+		height: 10px;
+		bottom: -10px;
+	}
+}
+
+h3 {
+	font-size: 1.5rem;
+	line-height: 1.3;
+}
+
+a {
+	h3 {
+		text-decoration: none;
+	}
+}
+
+.dropcap {
+	padding-right: 5px!important;
+}
+
+p {
+	text-align: justify;
+	max-width: $widthMobile;
+	margin: 0 auto 2rem;
 
 	a {
-		color: $linkNormal;
 		text-decoration: underline;
-	}
-
-	a:active {
-		color: $linkActive;
 	}
 
 	a:visited {
@@ -17,24 +88,23 @@ body, html {
 	}
 }
 
-h1 {
-	font-family: $fontH1;
-	text-transform: uppercase;
-	letter-spacing: 0.2em;
-	text-align: center;
-	position: relative;
-	margin-bottom: 3em;
+h3, small {
+	display: block;
+	max-width: $widthMobile;
+	margin: 0 auto;
 }
 
-h1:after {
-	content: '';
-	position: absolute;
-	top: inherit;
-	bottom: -40px;
-	left: 50%;
-	width: 10%;
-	height: 20px;
-	margin-left: -5%;
-	background: white;
-	border-bottom: 2px #e5e5e5 solid;
+small {
+	font-family: "pt-serif-caption", "pt-serif", Georgia, sans-serif;
+	font-size: 0.75rem;
+	line-height: 1.5;
+	padding: 5px 0;
+}
+
+footer {
+	font-family: $fontHeadings;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	padding-bottom: 10%;
 }

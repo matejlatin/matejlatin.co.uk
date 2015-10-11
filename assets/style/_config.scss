@@ -35,23 +35,17 @@ Pixels		Ems			Ems @ 16
 */
 
 // Colors
-$colorDark:			#1a1a1a;
-$colorMedium:		#343434;
-$colorLight:		#b4b5b5;
-$colorVeryLight:	#ebecec;
-$colorRed:			#e74444;
+$fontColor: 		#373C40;
+$gray: 				#A0A1A3;
+$lightGray:			#E5E5E5;
 
 $facebookBlue:		#3b5998;
 $twitterBlue:		#55acee;
 $instagramBlue:		#517fa4;
 
-$linkNormal: 		#678bd5;
+$linkNormal: 		$fontColor;
 $linkActive: 		#7198e9;
-$linkVisited: 		#6284ca;
-
-$buttonNormal:		$colorDark;
-$buttonHover:		$colorMedium;
-$buttonActive:		black;
+$linkVisited: 		$gray;
 
 $buttonRedNormal:	#e74444;
 $buttonRedHover:	#f94949;
@@ -59,22 +53,11 @@ $buttonRedActive:	#d53f3f;
 
 // Sizes
 $typeDefault:		100%;		// 16px
-$typeOptimal:		1.25em;		// 20px
-$typeMedium:		1.5em;		// 24px
-$typeLarger:		2em;		// 32px
-$typeLarge:			2.5em;		// 40px
-$typeVeryLarge:		4.2em;		// 64px
-
-$sizeTiny:			0.3rem;		// 5px
-$sizeSmall:			0.5rem;		// 8px
-$sizeDefault:		1rem;		// 16px
-$sizeMedium:		1.5rem;		// 24px
-$sizeLarger:		2rem;		// 32px
-$sizeMax:			43.75rem;	// 700px
+$widthMobile:		70%;
 
 // Fonts
-$fontBody: 			"pt-sans", Georgia, serif;
-$fontH1:			"futura-pt", "Helvetica Neue", Helvetica, sans-serif;
+$fontBody: 			"pt-serif", Georgia, serif;
+$fontHeadings:			"futura-pt", "Helvetica Neue", Helvetica, sans-serif;
 
 .bold {
 	font-weight: 700;
