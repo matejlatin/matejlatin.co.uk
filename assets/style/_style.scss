@@ -24,3 +24,11 @@ ul.elsewhere  {
 		padding: 0 15px;
 	}
 }
+
+h3:hover {
+	color: lighten($fontColor, 15%);
+}
+
+h3:active {
+	color: black;
+}
