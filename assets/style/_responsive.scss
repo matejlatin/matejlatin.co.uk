@@ -3,3 +3,41 @@
 		max-width: 25rem;
 	}
 }
+
+@media screen and (orientation: landscape){
+	body, html {
+		padding: 5% 0;
+	}
+
+	footer {
+		padding: 15% 0 4%;
+	}
+}
+
+@media screen and (orientation: landscape) and (min-width: 700px){
+	body, html {
+		padding: 7% 0;
+	}
+
+	h1 {
+		font-size: 1.75rem;
+	}
+}
+
+@media screen and (min-width: 1280px){
+	body, html {
+		padding: 5% 0;
+	}
+
+	footer {
+		padding: 10% 0 0%;
+	}
+
+	html {
+		font-size: 18px;
+	}
+
+	h1 {
+		font-size: 1.75rem;
+	}
+}
