@@ -64,6 +64,10 @@ h3 {
 	line-height: 1.3;
 }
 
+section + section {
+	margin-top: 2rem;
+}
+
 a {
 	h3 {
 		text-decoration: none;
@@ -85,6 +89,14 @@ p {
 
 	a:visited {
 		color: $linkVisited;
+	}
+
+	&.intro {
+		margin-bottom: 0;
+	}
+
+	&:not(.intro){
+		text-indent: 2rem;
 	}
 }
 
