@@ -63,7 +63,7 @@ h2 {
 h3 {
 	font-size: 1.5rem;
 	line-height: 1.3;
-	transition: all 0.3s;
+	transition: all 0.2s;
 }
 
 section + section {
@@ -78,6 +78,10 @@ a {
 
 .dropcap {
 	padding-right: 5px!important;
+}
+
+.uppercase {
+	text-transform: uppercase;
 }
 
 p {

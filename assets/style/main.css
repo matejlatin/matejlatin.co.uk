@@ -629,7 +629,7 @@ ul.elsewhere li {
 }
 
 h3:hover {
-  color: #5a6369;
+  text-decoration: underline;
 }
 
 h3:active {
@@ -699,7 +699,7 @@ h2:after {
 h3 {
   font-size: 1.5rem;
   line-height: 1.3;
-  transition: all 0.3s;
+  transition: all 0.2s;
 }
 
 section + section {
@@ -712,6 +712,10 @@ a h3 {
 
 .dropcap {
   padding-right: 5px !important;
+}
+
+.uppercase {
+  text-transform: uppercase;
 }
 
 p {

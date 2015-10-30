@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"trans",
+				"transition: "
+			],
+			[
+				"min",
+				"min-width: "
+			],
+			[
+				"text",
+				"text-indent: "
+			],
+			[
 				"mar",
 				"margin-right: "
 			],
@@ -71,7 +83,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 14841,
+				"buffer_size": 18596,
 				"line_ending": "Unix"
 			}
 		},
@@ -95,7 +107,7 @@
 			"file": "assets/style/_style.scss",
 			"settings":
 			{
-				"buffer_size": 255,
+				"buffer_size": 333,
 				"line_ending": "Unix"
 			}
 		},
@@ -111,7 +123,7 @@
 			"file": "assets/style/_typography.scss",
 			"settings":
 			{
-				"buffer_size": 1654,
+				"buffer_size": 1812,
 				"line_ending": "Unix"
 			}
 		},
@@ -119,7 +131,7 @@
 			"file": "assets/style/_responsive.scss",
 			"settings":
 			{
-				"buffer_size": 71,
+				"buffer_size": 497,
 				"line_ending": "Unix",
 				"name": "@media (min-width: 32rem;){"
 			}
@@ -161,6 +173,26 @@
 				"Emmet: Wrap With Abbreviation"
 			],
 			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"a",
+				"About"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
 				"jqu",
 				"Snippet: jquery"
 			],
@@ -178,10 +210,6 @@
 			],
 			[
 				"thml",
-				"Set Syntax: HTML"
-			],
-			[
-				"html",
 				"Set Syntax: HTML"
 			],
 			[
@@ -369,7 +397,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -378,15 +406,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14841,
+						"buffer_size": 18596,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8327,
-								8327
+								2597,
+								2597
 							]
 						],
 						"settings":
@@ -395,10 +423,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2952.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -428,7 +456,7 @@
 						"translation.y": 4112.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -456,7 +484,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -465,26 +493,27 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 255,
+						"buffer_size": 333,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								247,
-								247
+								331,
+								331
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -514,7 +543,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -523,15 +552,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1654,
+						"buffer_size": 1812,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								638,
-								638
+								1103,
+								1103
 							]
 						],
 						"settings":
@@ -540,10 +569,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 199.0,
+						"translation.y": 724.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -552,15 +581,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 71,
+						"buffer_size": 497,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								44,
-								44
+								314,
+								314
 							]
 						],
 						"settings":
@@ -601,7 +630,7 @@
 						"translation.y": 284.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -627,10 +656,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 356.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
