@@ -1,6 +1,7 @@
 body, html {
 	color: $fontColor;
 	font: $typeDefault $fontBody;
+	text-rendering: optimizeLegibility;
 	line-height: 1.7;
 	-moz-font-feature-settings: "smcp";
 	-moz-font-feature-settings: "liga=1, dlig=1";

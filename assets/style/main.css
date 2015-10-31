@@ -639,6 +639,7 @@ h3:active {
 body, html {
   color: #373C40;
   font: 100% "pt-serif", Georgia, serif;
+  text-rendering: optimizeLegibility;
   line-height: 1.7;
   -moz-font-feature-settings: "smcp";
   -moz-font-feature-settings: "liga=1, dlig=1";
