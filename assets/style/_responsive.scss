@@ -1,6 +1,14 @@
 @media (min-width: 32rem){
-	p, h2, h3, small {
+	p, h2, h3, small, hr {
 		max-width: 25rem;
+	}
+
+	p:not(.intro){
+		text-indent: 1.5rem;
+	}
+
+	.buttons {
+		max-width: 150px;
 	}
 }
 
@@ -21,6 +29,43 @@
 
 	h1 {
 		font-size: 1.75rem;
+	}
+
+	// Mailchimp form
+	.subscribe {
+		form {
+			max-width: 400px;
+			margin: 2rem auto;
+		}
+
+		.mergeTable {
+			float: left;
+		}
+
+		.submit_container {
+			float: left;
+		}
+
+		input[type='email'] {
+			width: 290px;
+			padding: 8px 15px;
+		}
+
+		input[type='submit'] {
+			margin-top: 0;
+			width: 100px;
+			margin-left: 10px;
+			padding: 11px 15px 10px;
+		}
+	}
+
+	#msgContent {
+		padding: 5%;
+		max-width: 80%;
+
+		.button {
+			margin: 5% auto 0;
+		}
 	}
 }
 

@@ -70,7 +70,7 @@ Pixels		Ems			Ems @ 16
   opacity: 0;
 }
 
-body, article, section, footer, header, div, input, nav, article ol, article ul {
+body, article, section, footer, header, div, input, .subscribe input[type='email'], .subscribe input[type='submit'], nav, article ol, article ul {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -329,6 +329,8 @@ samp {
  */
 button,
 input,
+.subscribe input[type='email'],
+.subscribe input[type='submit'],
 optgroup,
 select,
 textarea {
@@ -367,8 +369,16 @@ select {
  */
 button,
 html input[type="button"],
+html .subscribe input[type="button"][type='email'],
+.subscribe html input[type="button"][type='email'],
+html .subscribe input[type="button"][type='submit'],
+.subscribe html input[type="button"][type='submit'],
 input[type="reset"],
-input[type="submit"] {
+.subscribe input[type="reset"][type='email'],
+.subscribe input[type="reset"][type='submit'],
+input[type="submit"],
+.subscribe input[type="submit"][type='email'],
+.subscribe input[type="submit"][type='submit'] {
   -webkit-appearance: button;
   /* 2 */
   cursor: pointer;
@@ -379,7 +389,11 @@ input[type="submit"] {
  * Re-set default cursor for disabled elements.
  */
 button[disabled],
-html input[disabled] {
+html input[disabled],
+html .subscribe input[disabled][type='email'],
+.subscribe html input[disabled][type='email'],
+html .subscribe input[disabled][type='submit'],
+.subscribe html input[disabled][type='submit'] {
   cursor: default;
 }
 
@@ -387,7 +401,9 @@ html input[disabled] {
  * Remove inner padding and border in Firefox 4+.
  */
 button::-moz-focus-inner,
-input::-moz-focus-inner {
+input::-moz-focus-inner,
+.subscribe input[type='email']::-moz-focus-inner,
+.subscribe input[type='submit']::-moz-focus-inner {
   border: 0;
   padding: 0;
 }
@@ -396,7 +412,7 @@ input::-moz-focus-inner {
  * Address Firefox 4+ setting `line-height` on `input` using `!important` in
  * the UA stylesheet.
  */
-input {
+input, .subscribe input[type='email'], .subscribe input[type='submit'] {
   line-height: normal;
 }
 
@@ -407,8 +423,10 @@ input {
  * 1. Address box sizing set to `content-box` in IE 8/9/10.
  * 2. Remove excess padding in IE 8/9/10.
  */
-input[type="checkbox"],
-input[type="radio"] {
+input[type="checkbox"], .subscribe input[type="checkbox"][type='email'], .subscribe input[type="checkbox"][type='submit'],
+input[type="radio"],
+.subscribe input[type="radio"][type='email'],
+.subscribe input[type="radio"][type='submit'] {
   box-sizing: border-box;
   /* 1 */
   padding: 0;
@@ -420,8 +438,10 @@ input[type="radio"] {
  * `font-size` values of the `input`, it causes the cursor style of the
  * decrement button to change from `default` to `text`.
  */
-input[type="number"]::-webkit-inner-spin-button,
-input[type="number"]::-webkit-outer-spin-button {
+input[type="number"]::-webkit-inner-spin-button, .subscribe input[type="number"][type='email']::-webkit-inner-spin-button, .subscribe input[type="number"][type='submit']::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button,
+.subscribe input[type="number"][type='email']::-webkit-outer-spin-button,
+.subscribe input[type="number"][type='submit']::-webkit-outer-spin-button {
   height: auto;
 }
 
@@ -430,7 +450,7 @@ input[type="number"]::-webkit-outer-spin-button {
  * 2. Address `box-sizing` set to `border-box` in Safari and Chrome
  *    (include `-moz` to future-proof).
  */
-input[type="search"] {
+input[type="search"], .subscribe input[type="search"][type='email'], .subscribe input[type="search"][type='submit'] {
   -webkit-appearance: textfield;
   /* 1 */
   -moz-box-sizing: content-box;
@@ -444,8 +464,10 @@ input[type="search"] {
  * Safari (but not Chrome) clips the cancel button when the search input has
  * padding (and `textfield` appearance).
  */
-input[type="search"]::-webkit-search-cancel-button,
-input[type="search"]::-webkit-search-decoration {
+input[type="search"]::-webkit-search-cancel-button, .subscribe input[type="search"][type='email']::-webkit-search-cancel-button, .subscribe input[type="search"][type='submit']::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration,
+.subscribe input[type="search"][type='email']::-webkit-search-decoration,
+.subscribe input[type="search"][type='submit']::-webkit-search-decoration {
   -webkit-appearance: none;
 }
 
@@ -636,6 +658,96 @@ h3:active {
   color: black;
 }
 
+hr {
+  padding: 1rem 0;
+  border: none;
+  background-image: linear-gradient(to bottom, #E5E5E5 2px, transparent 2px);
+  background-position: left 50%;
+  background-repeat: no-repeat;
+  background-size: 40px;
+  max-width: 70%;
+}
+
+/* Mailchimp */
+.subscribe input, .subscribe input[type='email'], .subscribe input[type='submit'] {
+  border: 2px solid #E5E5E5;
+  border-radius: 0 !important;
+  -webkit-appearance: none !important;
+  padding: 10px 15px 10px 17px;
+  width: 100%;
+  font-size: 14px;
+}
+.subscribe input[type='email'] {
+  background: white;
+}
+.subscribe input[type='submit'] {
+  background: #172838;
+  color: white;
+  margin-top: 10px;
+  transition: all 0.3s;
+  border: none;
+  font-family: "futura-pt", "Helvetica Neue", Helvetica, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  text-align: center;
+}
+.subscribe input[type='submit']:hover {
+  background: #26425c;
+}
+.subscribe input[type='submit']:active {
+  background: #010102;
+}
+.subscribe form {
+  margin: 10% auto;
+  width: 80%;
+}
+
+.curtain {
+  position: fixed;
+  display: block;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(180, 181, 181, 0.6);
+  z-index: 9;
+}
+
+.msgContainer {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#msgContent {
+  background: white;
+  max-width: 90%;
+  margin: 0 auto;
+  z-index: 10;
+  text-align: center;
+  padding: 10% 5% 5%;
+}
+#msgContent .button {
+  margin: 10% auto 0;
+}
+#msgContent p a:before {
+  white-space: pre;
+  content: '\A';
+}
+
+.button {
+  display: block;
+  background: #172838;
+  color: white;
+  padding: 5px 15px;
+  transition: all 0.3s;
+}
+.button:hover {
+  background: #26425c;
+}
+.button:active {
+  background: #010102;
+}
+
 body, html {
   color: #373C40;
   font: 100% "pt-serif", Georgia, serif;
@@ -734,7 +846,7 @@ p.intro {
   margin-bottom: 0;
 }
 p:not(.intro) {
-  text-indent: 2rem;
+  text-indent: 1rem;
 }
 
 h3, small {
@@ -758,9 +870,26 @@ footer {
   padding-bottom: 10%;
 }
 
+.mailing-list p, #msg p {
+  text-indent: 0;
+  text-align: center;
+}
+
+#msg h2 {
+  margin-top: 1rem;
+}
+
 @media (min-width: 32rem) {
-  p, h2, h3, small {
+  p, h2, h3, small, hr {
     max-width: 25rem;
+  }
+
+  p:not(.intro) {
+    text-indent: 1.5rem;
+  }
+
+  .buttons {
+    max-width: 150px;
   }
 }
 @media screen and (orientation: landscape) {
@@ -779,6 +908,35 @@ footer {
 
   h1 {
     font-size: 1.75rem;
+  }
+
+  .subscribe form {
+    max-width: 400px;
+    margin: 2rem auto;
+  }
+  .subscribe .mergeTable {
+    float: left;
+  }
+  .subscribe .submit_container {
+    float: left;
+  }
+  .subscribe input[type='email'] {
+    width: 290px;
+    padding: 8px 15px;
+  }
+  .subscribe input[type='submit'] {
+    margin-top: 0;
+    width: 100px;
+    margin-left: 10px;
+    padding: 11px 15px 10px;
+  }
+
+  #msgContent {
+    padding: 5%;
+    max-width: 80%;
+  }
+  #msgContent .button {
+    margin: 5% auto 0;
   }
 }
 @media screen and (min-width: 1280px) {

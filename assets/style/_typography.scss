@@ -103,7 +103,7 @@ p {
 	}
 
 	&:not(.intro){
-		text-indent: 2rem;
+		text-indent: 1rem;
 	}
 }
 
@@ -126,4 +126,17 @@ footer {
 	text-transform: uppercase;
 	letter-spacing: 0.15em;
 	padding-bottom: 10%;
+}
+
+.mailing-list, #msg {
+	p {
+		text-indent: 0;
+		text-align: center;
+	}
+}
+
+#msg {
+	h2 {
+		margin-top: 1rem;
+	}
 }

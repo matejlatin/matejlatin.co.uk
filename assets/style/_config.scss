@@ -38,6 +38,7 @@ Pixels		Ems			Ems @ 16
 $fontColor: 		#373C40;
 $gray: 				#A0A1A3;
 $lightGray:			#E5E5E5;
+$darkBlue:			#172838;
 
 $facebookBlue:		#3b5998;
 $twitterBlue:		#55acee;
@@ -47,17 +48,13 @@ $linkNormal: 		$fontColor;
 $linkActive: 		#7198e9;
 $linkVisited: 		$gray;
 
-$buttonRedNormal:	#e74444;
-$buttonRedHover:	#f94949;
-$buttonRedActive:	#d53f3f;
-
 // Sizes
 $typeDefault:		100%;		// 16px
 $widthMobile:		70%;
 
 // Fonts
 $fontBody: 			"pt-serif", Georgia, serif;
-$fontHeadings:			"futura-pt", "Helvetica Neue", Helvetica, sans-serif;
+$fontHeadings:		"futura-pt", "Helvetica Neue", Helvetica, sans-serif;
 
 .bold {
 	font-weight: 700;
