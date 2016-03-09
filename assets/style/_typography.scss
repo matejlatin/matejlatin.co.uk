@@ -2,7 +2,7 @@ body, html {
 	color: $fontColor;
 	font: $typeDefault $fontBody;
 	text-rendering: optimizeLegibility;
-	line-height: 1.7;
+	line-height: 1.6;
 	-moz-font-feature-settings: "smcp";
 	-moz-font-feature-settings: "liga=1, dlig=1";
     -ms-font-feature-settings: "liga", "dlig";
@@ -82,7 +82,7 @@ a {
 }
 
 .uppercase {
-	text-transform: uppercase;
+	font-family: "ff-meta-serif-sc-web-pro", "ff-meta-serif-web-pro", Georgia, serif;
 }
 
 p {
@@ -114,7 +114,6 @@ h3, small {
 }
 
 small {
-	font-family: "pt-serif-caption", "pt-serif", Georgia, sans-serif;
 	font-size: 0.75rem;
 	line-height: 1.5;
 	padding: 5px 0;

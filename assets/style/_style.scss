@@ -56,6 +56,7 @@ hr {
 	input[type='email'] {
 		@extend input;
 		background: white;
+		font-size: 16px;
 	}
 	input[type='email']:focus {
 		// box-shadow: 0px 0px 0px 1px #E5E5E5 inset;

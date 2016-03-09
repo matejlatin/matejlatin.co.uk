@@ -679,6 +679,7 @@ hr {
 }
 .subscribe input[type='email'] {
   background: white;
+  font-size: 16px;
 }
 .subscribe input[type='submit'] {
   background: #172838;
@@ -750,9 +751,9 @@ hr {
 
 body, html {
   color: #373C40;
-  font: 100% "pt-serif", Georgia, serif;
+  font: 100% "ff-meta-serif-web-pro", Georgia, serif;
   text-rendering: optimizeLegibility;
-  line-height: 1.7;
+  line-height: 1.6;
   -moz-font-feature-settings: "smcp";
   -moz-font-feature-settings: "liga=1, dlig=1";
   -ms-font-feature-settings: "liga", "dlig";
@@ -828,7 +829,7 @@ a h3 {
 }
 
 .uppercase {
-  text-transform: uppercase;
+  font-family: "ff-meta-serif-sc-web-pro", "ff-meta-serif-web-pro", Georgia, serif;
 }
 
 p {
@@ -856,7 +857,6 @@ h3, small {
 }
 
 small {
-  font-family: "pt-serif-caption", "pt-serif", Georgia, sans-serif;
   font-size: 0.75rem;
   line-height: 1.5;
   padding: 5px 0;
@@ -922,7 +922,7 @@ footer {
   }
   .subscribe input[type='email'] {
     width: 290px;
-    padding: 8px 15px;
+    padding: 10px 15px 8px;
   }
   .subscribe input[type='submit'] {
     margin-top: 0;
@@ -950,7 +950,7 @@ footer {
   }
 
   html {
-    font-size: 18px;
+    font-size: 19px;
   }
 
   h1 {
