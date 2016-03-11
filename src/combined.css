@@ -830,6 +830,7 @@ a h3 {
 
 .uppercase {
   font-family: "ff-meta-serif-sc-web-pro", "ff-meta-serif-web-pro", Georgia, serif;
+  text-transform: lowercase;
 }
 
 p {
