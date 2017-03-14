@@ -83,3 +83,15 @@ footer {
     }
   }
 }
+
+h2 a {
+  color: $color-font-body;
+
+  &:hover {
+    text-decoration: underline;
+    color: $color-font-body;
+  }
+  &:visited:hover {
+    color: $color-font-body;
+  }
+}

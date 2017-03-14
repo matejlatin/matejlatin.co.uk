@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A tale of a colour blind designer
-date:   2016-01-25 19:56:54 +0000
+date:   2016-07-07 19:56:54 +0000
 author: Matej Latin
 category: articles
 tags:
