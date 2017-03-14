@@ -1,0 +1,30 @@
+<div id="msg" class="hidden">
+  <div class="curtain fullScreen">
+    <div class="table fullScreen">
+      <div class="msgContainer fullScreen">
+        <div id="msgContent">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="site-footer">
+  <a href="/about-site">About this site</a> &mdash; <a href="http://twitter.com/matejlatin">Follow me on Twitter</a>
+  <p>&copy; matejlatin.co.uk 2017</p>
+</footer>
+<script type="text/javascript">
+  $('.menu-icon').on('click', function(){
+    console.log('click menu');
+    $('#nav').removeClass();
+    $('#menu').removeClass().addClass('fadeIn animated');
+    $('.menu').removeClass('hide2');
+  });
+  $('.close-icon').on('click', function(){
+    console.log('click close');
+    $('#menu').removeClass().addClass('fadeOut animated').delay(300).queue(function(next){
+      $('.menu').addClass('hide2');
+      next();
+    });
+    // $('.menu').addClass('hide2');
+  });
+</script>

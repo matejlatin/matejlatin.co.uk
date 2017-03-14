@@ -1,0 +1,1144 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addClass	jQuery"
+			],
+			[
+				"img",
+				"img	Markdown image"
+			],
+			[
+				"padd",
+				"padding: "
+			],
+			[
+				"a",
+				"a	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 913,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/home.html",
+			"settings":
+			{
+				"buffer_size": 802,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/modules/_figure.scss",
+			"settings":
+			{
+				"buffer_size": 2007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 424,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_flexbox-grid.scss",
+			"settings":
+			{
+				"buffer_size": 12125,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/modules/_list.scss",
+			"settings":
+			{
+				"buffer_size": 99,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1484,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/main.scss",
+			"settings":
+			{
+				"buffer_size": 981,
+				"line_ending": "Unix",
+				"name": "---"
+			}
+		},
+		{
+			"file": "_sass/_gutenberg-config.scss",
+			"settings":
+			{
+				"buffer_size": 2509,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 809,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/about-author.html",
+			"settings":
+			{
+				"buffer_size": 617,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/subscribe.html",
+			"settings":
+			{
+				"buffer_size": 1068,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2017-01-13-shit-burger.md",
+			"settings":
+			{
+				"buffer_size": 2383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 1482,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 1735,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/footer.html",
+			"settings":
+			{
+				"buffer_size": 676,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/modules/_heading.scss",
+			"settings":
+			{
+				"buffer_size": 2711,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/layout/_base.scss",
+			"settings":
+			{
+				"buffer_size": 2734,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 237.0,
+		"last_filter": "reind",
+		"selected_items":
+		[
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"snippet",
+				"Snippet: Full bleed image"
+			],
+			[
+				"Snippet: ",
+				"Snippet: jquery"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package syn",
+				"Package Syncing: Enable Syncing"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_posts"
+	],
+	"file_history":
+	[
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/modules/_heading.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_includes/head.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_includes/full-bleed-image.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_includes/image.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/modules/_anchor.scss",
+		"/Users/matej.latin/Library/Application Support/Sublime Text 3/Packages/User/markdown-image.sublime-snippet",
+		"/Users/matej.latin/Library/Application Support/Sublime Text 3/Packages/User/full-bleed-image.sublime-snippet",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/layout/_base.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/modules/_text.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_layouts/tag_index.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/layout/_footer.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/helpers/_alignment.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_layouts/post.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/personal notes.md",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/articles.md",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/modules/_code.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_includes/footer.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_includes/header.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_includes/related-posts.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_posts/2017-01-13-shit-burger.md",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/modules/_quote.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/modules/_horizontal-rule.scss",
+		"/Users/matej.latin/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_layouts/default.html",
+		"/Users/matej.latin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/modules/_figure.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_includes/about-author.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/_flexbox-grid.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/modules/_article.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/about.md",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/main.js",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/mixins/_margin.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_includes/subscribe.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_includes/google-analytics.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/mixins/_font-size.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/mixins/_padding.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/mixins/_line-height.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/gutenberg.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_includes/featured-in.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_posts/2017-01-13-shit-cake.md",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/Gemfile",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_sass/flexbox-grid.scss",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_layouts/home.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/subscribed.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/almost-done.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_site/robots.txt",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/404.html",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/Gemfile.lock",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_plugins/_tag_gen.rb",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_posts/2017-01-13-shit-sandwich.md",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_posts/2017-01-13-shit-burger copy.md",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_posts/2017-01-12-the-shit-burger.markdown",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_posts/2017-01-07-the-shit-sandwich.markdown",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_posts/2017-01-13-the-shit-pancake.markdown",
+		"/Users/matej.latin/Personal/new-matejlatin.co.uk/_posts/2017-01-07-welcome-to-jekyll.markdown",
+		"/Users/matej.latin/Desktop/Foresee notes",
+		"/Users/matej.latin/Library/Application Support/Sublime Text 3/Packages/User/Package Syncing.sublime-settings",
+		"/Users/matej.latin/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Package Syncing.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".hide",
+			".row",
+			"-5em",
+			"."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								910,
+								910
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_sass/modules/_figure.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1998,
+								1998
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 827.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_sass/_flexbox-grid.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1830,
+								1830
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 629.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_sass/modules/_list.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 99,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1112,
+								1112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "assets/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 981,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								979,
+								979
+							]
+						],
+						"settings":
+						{
+							"auto_name": "---",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_sass/_gutenberg-config.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1290,
+								1290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "_includes/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "_includes/about-author.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 617,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "_includes/subscribe.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "_posts/2017-01-13-shit-burger.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1285,
+								1285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "_includes/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								515
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1735,
+								1735
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "_includes/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								601,
+								601
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "_sass/modules/_heading.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "_sass/layout/_base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1548,
+								1548
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1047.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "new-matejlatin.co.uk.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"heading",
+				"_sass/modules/_heading.scss"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
+			],
+			[
+				"main",
+				"main.js"
+			],
+			[
+				"base",
+				"_sass/layout/_base.scss"
+			],
+			[
+				"header",
+				"_includes/header.html"
+			],
+			[
+				"ancho",
+				"_sass/modules/_anchor.scss"
+			],
+			[
+				"subscrib",
+				"_includes/subscribe.html"
+			],
+			[
+				"flex",
+				"_sass/_flexbox-grid.scss"
+			],
+			[
+				"defa",
+				"_layouts/default.html"
+			],
+			[
+				"help",
+				"_sass/helpers/_alignment.scss"
+			],
+			[
+				"about",
+				"_includes/about-author.html"
+			],
+			[
+				"headin",
+				"_sass/modules/_heading.scss"
+			],
+			[
+				"code",
+				"_sass/modules/_code.scss"
+			],
+			[
+				"ode",
+				"_sass/modules/_code.scss"
+			],
+			[
+				"figure",
+				"_sass/modules/_figure.scss"
+			],
+			[
+				"pers",
+				"personal notes.md"
+			],
+			[
+				"artic",
+				"articles.md"
+			],
+			[
+				"tag",
+				"_layouts/tag_index.html"
+			],
+			[
+				"person",
+				"personal notes.md"
+			],
+			[
+				"quot",
+				"_sass/modules/_quote.scss"
+			],
+			[
+				"anchor",
+				"_sass/modules/_anchor.scss"
+			],
+			[
+				"home",
+				"_layouts/home.html"
+			],
+			[
+				"post",
+				"_layouts/post.html"
+			],
+			[
+				"hori",
+				"_sass/modules/_horizontal-rule.scss"
+			],
+			[
+				"text",
+				"_sass/modules/_text.scss"
+			],
+			[
+				"rela",
+				"_includes/related-posts.html"
+			],
+			[
+				"list",
+				"_sass/modules/_list.scss"
+			],
+			[
+				"hor",
+				"_sass/modules/_horizontal-rule.scss"
+			],
+			[
+				"relate",
+				"_includes/related-posts.html"
+			],
+			[
+				"main.sj",
+				"main.js"
+			],
+			[
+				"articl",
+				"_sass/modules/_article.scss"
+			],
+			[
+				"margin",
+				"_sass/mixins/_margin.scss"
+			],
+			[
+				"font",
+				"_sass/mixins/_font-size.scss"
+			],
+			[
+				"mixin",
+				"_sass/mixins/_padding.scss"
+			],
+			[
+				"font-s",
+				"_sass/mixins/_font-size.scss"
+			],
+			[
+				"guten",
+				"_sass/_gutenberg-config.scss"
+			],
+			[
+				"line",
+				"_sass/mixins/_line-height.scss"
+			],
+			[
+				"gutenb",
+				"_sass/gutenberg.scss"
+			],
+			[
+				"subscri",
+				"_includes/subscribe.html"
+			],
+			[
+				"subsc",
+				"_includes/subscribe.html"
+			],
+			[
+				"ind",
+				"index.md"
+			],
+			[
+				"robot",
+				"_site/robots.txt"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"gem",
+				"Gemfile.lock"
+			],
+			[
+				"articles",
+				"articles.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

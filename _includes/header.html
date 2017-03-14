@@ -1,0 +1,32 @@
+<header class="site-header" role="banner">
+
+<div class="wrapper fixed">
+
+    <a class="site-title lowercase" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+    <p class="hide-mobile about-paragraph">Lead UX/UI designer at Auto Trader, minimalist, typography&nbsp;geek.</p>
+
+    <div class="menu-icon hide-desktop">
+      <svg width="24" height="16" viewBox="0 0 24 16" xmlns="http://www.w3.org/2000/svg"><title>Combined Shape</title><path d="M0 0h24v2H0V0zm0 7h24v2H0V7zm0 7h24v2H0v-2z" fill="#2F2F2F" fill-rule="evenodd"/></svg>
+    </div>
+
+    <nav id="nav" class="site-nav hide-mobile">
+
+      <div id="menu" class="hide">
+        <div class="menu hide2">
+          <span class="close-icon hide-desktop">
+            <svg width="23" height="22" viewBox="0 0 23 22" xmlns="http://www.w3.org/2000/svg"><title>Combined Shape</title><path d="M11.5 9.586L1.954.04.54 1.454 10.086 11 .54 20.546l1.414 1.414 9.546-9.546 9.546 9.546 1.414-1.414L12.914 11l9.546-9.546L21.046.04 11.5 9.586z" fill="#FFF" fill-rule="evenodd"/></svg>
+          </span>
+          <div class="menu-list">
+            {% assign current = page.url | downcase | split: '/' %}
+            <a href="/" {% if page.layout == 'home' %}class='active'{% endif %}>Home</a>
+            <a href="/about" {% if page.title == 'About' %}class='active'{% endif %}>About</a>
+            <a href="/personal-notes" {% if page.title == 'Personal notes' %}class='active'{% endif %}>Personal notes</a>
+            <a href="/articles" {% if page.title == 'Articles' %}class='active'{% endif %}>Articles</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+  </div>
+
+</header>

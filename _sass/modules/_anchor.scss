@@ -1,0 +1,85 @@
+/* Links
+========================================================================== */
+
+$color-link-normal: #194377;
+$color-link-hover: $color-link-normal;
+$color-link-active: lighten($color-link-normal, 15);
+$color-link-visited: $color-font-body;
+
+a {
+  background: transparent;
+  color: $color-link-normal;
+  transition: all .3s;
+
+  &:active,
+  &:hover {
+    outline: 0;
+  }
+
+  &:hover {
+    color: $color-link-hover;
+  }
+
+  &:visited {
+    color: $color-link-visited;
+
+    &:hover {
+      color: $color-link-hover;
+    }
+  }
+
+  &:active {
+    color: $color-link-active;
+  }
+}
+
+.post-meta, figcaption {
+  a {
+    color: $color-medium-gray;
+    text-decoration: underline!important;
+
+    &:active,
+    &:hover,
+    &:visited {
+      color: $color-medium-gray;
+    }
+  }
+}
+
+footer {
+  a {
+    color: $color-font-body;
+
+    &:active,
+    &:hover,
+    &:visited {
+      color: $color-font-body;
+    }
+  }
+}
+
+.post-list {
+  a {
+    text-decoration: none;
+  }
+}
+
+.reversefootnote {
+  font-family: sans-serif;
+  color: $color-medium-gray;
+    text-decoration: underline!important;
+
+    &:active,
+    &:hover,
+    &:visited {
+      color: $color-medium-gray;
+    }
+}
+
+.menu-list a {
+  @media screen and (min-width: $breakpoint) {
+    &:hover {
+      color: $color-font-body;
+    }
+  }
+}

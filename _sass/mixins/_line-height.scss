@@ -1,0 +1,4 @@
+// Line-height
+@mixin line-height($number) {
+  line-height: #{ $number * $leading-rem + 'rem'};
+}

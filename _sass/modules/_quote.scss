@@ -1,0 +1,54 @@
+blockquote {
+  font-style: italic;
+  padding-left: 1.4375rem;
+  // font-size: 95%;
+
+  @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
+    padding-left: 2rem;
+  }
+
+}
+
+cite {
+  display: block;
+  font-style: normal;
+}
+
+// Quotes
+figure blockquote {
+  @include padding(1, 0);
+
+  @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
+    $leading: $leading-desktop;
+    $leading-rem: $leading-rem-desktop;
+
+    @import '../mixins/padding';
+
+    @include padding(2, 0, 1);
+  }
+
+  p {
+    @include font-size(1.75);
+    @include line-height(1.5);
+    @include margin-bottom(0.5);
+    font-weight: 600;
+    font-style: normal;
+    max-width: none;
+
+    @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
+      $leading: $leading-desktop;
+      $leading-rem: $leading-rem-desktop;
+
+      @import '../mixins/font-size';
+      @import '../mixins/line-height';
+
+      @include font-size(1.8);
+      @include line-height(1.5);
+      @include margin-bottom(0.5);
+    }
+
+  }
+  cite {
+    margin-bottom: 0;
+  }
+}

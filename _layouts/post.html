@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date_to_string }}</time>{% if page.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %} —{% for tag in page.tags %} <a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.last == false %},{% endif %} {% endfor %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+
+  {% if page.intro %}
+  <p class="attention-grabber">{{ page.intro }}</p>
+  {% endif %}
+
+    {{ content }}
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
+</article>
+{% include related-posts.html %}
+{% include about-author.html %}
+{% include subscribe.html %}

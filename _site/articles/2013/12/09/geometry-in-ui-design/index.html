@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Geometry in UI design | Matej Latin</title>
+  <meta name="description" content="Aligning interface elements in Photoshop is pretty easy as it comes with the pre-defined aligning options. And for the 95% those are all you really need. Wha...">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/articles/2013/12/09/geometry-in-ui-design/">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="/main.js"></script>
+  <script src="https://use.typekit.net/tlj3dwk.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  
+  <!-- Begin Jekyll SEO tag v2.1.0 -->
+<title>Geometry in UI design - Matej Latin</title>
+<meta property="og:title" content="Geometry in UI design" />
+<meta name="description" content="Aligning interface elements in Photoshop is pretty easy as it comes with the pre-defined aligning options. And for the 95% those are all you really need. What can you do in those 5% examples when you can’t use these options? Well, it actually depends a lot on what you’re working on. Let’s see a specific example." />
+<meta property="og:description" content="Aligning interface elements in Photoshop is pretty easy as it comes with the pre-defined aligning options. And for the 95% those are all you really need. What can you do in those 5% examples when you can’t use these options? Well, it actually depends a lot on what you’re working on. Let’s see a specific example." />
+<link rel="canonical" href="http://localhost:4000/articles/2013/12/09/geometry-in-ui-design/" />
+<meta property="og:url" content="http://localhost:4000/articles/2013/12/09/geometry-in-ui-design/" />
+<meta property="og:site_name" content="Matej Latin" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2013-12-09T19:56:54+00:00" />
+<script type="application/ld+json">
+{"@context": "http://schema.org",
+"@type": "BlogPosting",
+"headline": "Geometry in UI design",
+"datePublished": "2013-12-09T19:56:54+00:00",
+"description": "Aligning interface elements in Photoshop is pretty easy as it comes with the pre-defined aligning options. And for the 95% those are all you really need. What can you do in those 5% examples when you can’t use these options? Well, it actually depends a lot on what you’re working on. Let’s see a specific example.",
+"url": "http://localhost:4000/articles/2013/12/09/geometry-in-ui-design/"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+<body>
+
+  <div class="row">
+    <div class="col-xs-12 col-md-3 no-margin">
+      <header class="site-header" role="banner">
+
+<div class="wrapper fixed">
+
+    <a class="site-title lowercase" href="/">Matej Latin</a>
+    <p class="hide-mobile about-paragraph">Lead UX/UI designer at Auto Trader, minimalist, typography&nbsp;geek.</p>
+
+    <div class="menu-icon hide-desktop">
+      <svg width="24" height="16" viewBox="0 0 24 16" xmlns="http://www.w3.org/2000/svg"><title>Combined Shape</title><path d="M0 0h24v2H0V0zm0 7h24v2H0V7zm0 7h24v2H0v-2z" fill="#2F2F2F" fill-rule="evenodd"/></svg>
+    </div>
+
+    <nav id="nav" class="site-nav hide-mobile">
+
+      <div id="menu" class="hide">
+        <div class="menu hide2">
+          <span class="close-icon hide-desktop">
+            <svg width="23" height="22" viewBox="0 0 23 22" xmlns="http://www.w3.org/2000/svg"><title>Combined Shape</title><path d="M11.5 9.586L1.954.04.54 1.454 10.086 11 .54 20.546l1.414 1.414 9.546-9.546 9.546 9.546 1.414-1.414L12.914 11l9.546-9.546L21.046.04 11.5 9.586z" fill="#FFF" fill-rule="evenodd"/></svg>
+          </span>
+          <div class="menu-list">
+            
+            <a href="/" >Home</a>
+            <a href="/about" >About</a>
+            <a href="/personal-notes" >Personal notes</a>
+            <a href="/articles" >Articles</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+    </div>
+
+    <div class="col-xs-12 col-md-9 no-margin">
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Geometry in UI design</h1>
+    <p class="post-meta"><time datetime="2013-12-09T19:56:54+00:00" itemprop="datePublished">09 Dec 2013</time> by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Matej Latin</span></span> — <a class="tag_list_link" href="/tag/UI">UI</a>,  <a class="tag_list_link" href="/tag/Design">Design</a> </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+
+  
+  <p class="attention-grabber">I found myself using geometry while designing user interfaces quite often, so I decided to share a simple example I was working on the other day.</p>
+  
+
+    <p>Aligning interface elements in Photoshop is pretty easy as it comes with the pre-defined aligning options. And for the 95% those are all you really need. What can you do in those 5% examples when you can’t use these options? Well, it actually depends a lot on what you’re working on. Let’s see a specific example.</p>
+
+<h2 id="aligning-an-icon-to-the-center-of">Aligning an icon to the center of…</h2>
+<p>the quarter of a circle. This was my most recent example when I had to use geometry to get that pixel perfect UI element.</p>
+
+<p>I was working on a confirmation window, which was inside a circle. Yes, we’re trying out all sorts of cool stuff at Wondermags. What we want to do is ask the user if he’s sure of the action he’s about to execute. We give him an explanation of what will happen and options to confirm or cancel.
+Here’s a quick sketch for this window:</p>
+
+<figure class="image">
+  <img src="/assets/images/geometry-01.jpeg" alt="A very rough sketch :)" />
+  <figcaption>A very rough sketch :) </figcaption>
+</figure>
+
+<p>So the problem we’re trying to solve here is how to properly align the two icons to the center of each of the buttons at the bottom half (confirm and cancel). If you use the align to vertical and align to horizontal center in Photoshop, this is what you’ll get:</p>
+
+<figure class="image">
+  <img src="/assets/images/geometry-02.png" alt="Icons are not properly aligned to the actual center of the buttons." />
+  <figcaption>Icons are not properly aligned to the actual center of the buttons. </figcaption>
+</figure>
+
+<p>Now this doesn’t look right at all and it certainly looks very strange to say the least. Photoshop aligns it like this because it still treats it as a rectangle, not a quarter of the circle (there’s no difference for Photoshop).</p>
+
+<figure class="image">
+  <img src="/assets/images/geometry-03.png" alt="For Photoshop, this is still a rectangle." />
+  <figcaption>For Photoshop, this is still a rectangle. </figcaption>
+</figure>
+
+<h2 id="square-area-is-the-answer">Square area is the answer</h2>
+<p>I was thinking, what would be the easiest and most precise way to align it right to the actual center. Here’s where geometry comes handy. I figured that the key here could be the square area of the quarter of the circle. All I had to do is calculate the square area of it and draw a rectangle with the same square area to use as a guide. But first, I had to find out what dimensions I had to use.</p>
+
+<figure class="image">
+  <img src="/assets/images/geometry-04.png" alt="This is the square area that interests me (dashed area)." />
+  <figcaption>This is the square area that interests me (dashed area). </figcaption>
+</figure>
+
+<p>The formula for calculating square area of a circle is A=π*r^2. But in my case I was only using quarter of the circle. So my formula was:</p>
+
+<p>A = π * r^2 / 4</p>
+
+<p>π is a standard which is 3.1416 and r is the radius, which in my case is 145 pixels (also half of the width of the circle).</p>
+
+<p>I made the calculations and the square area of the rectangle I had to draw was 16,513 pixels.</p>
+
+<p>But the square area info doesn’t help me much. I can’t draw a rectangle in Photoshop so that I would set the square area of it. What I need is the width of the rectangle. And to get it, I just had to add the square root to my formula.</p>
+
+<p>A = √(π * r^2 / 4)</p>
+
+<p>The end result is 128.5 and lots of decimals. Now I could draw a square on top of my quarter of the circle with width set to 128 pixels and align it to the top left corner. The center of this square is the actual center of my button. This is what my icon needs to be aligned to.</p>
+
+<figure class="image">
+  <img src="/assets/images/geometry-05.png" alt="Rectangle with the same square area as the quarter of the circle." />
+  <figcaption>Rectangle with the same square area as the quarter of the circle. </figcaption>
+</figure>
+
+<p>I aligned the icon to the horizontal and vertical centers of the guide rectangle on top of my circle.</p>
+
+<figure class="image">
+  <img src="/assets/images/geometry-06.png" alt="Aligned the icon to the center of the guide square." />
+  <figcaption>Aligned the icon to the center of the guide square. </figcaption>
+</figure>
+
+<p>Applied the same process for the other button and that’s it. Pixel perfect alignment, pixel perfect user interface design.</p>
+
+<figure class="image">
+  <img src="/assets/images/geometry-07.png" alt="Pixel perfect UI." />
+  <figcaption>Pixel perfect UI. </figcaption>
+</figure>
+
+<p>Here’s the comparison of before and after:</p>
+
+<figure class="image">
+  <img src="/assets/images/geometry-08.gif" alt="Before and after: wrong and right." />
+  <figcaption>Before and after: wrong and right. </figcaption>
+</figure>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>I would like to highlight two major points of this article. One is that geometry and mathematics in general can help you a lot in pixel perfect user interface design and web design. You just have to find the right way to figure it out.</p>
+
+<p>The other one is that if you do something, do it properly. If you have to design an interface, go for the pixel perfection or don’t do it at all. This is what separates average interface designers from the best ones. Put some extra work in it, even more than necessary if you can.</p>
+
+<figure>
+  <blockquote><p>Try, fail, think, learn.</p>
+    
+  </blockquote>
+</figure>
+
+  </div>
+
+  
+</article>
+<section>
+  <h1 class="section-title">Related posts</h1>
+  
+
+  <ul>
+    
+    
+      
+      
+        
+      
+    
+      
+      
+        
+      
+        
+          <li>
+            <a href="/personal-notes/2016/12/08/a-two-step-no-bullshit-guide-to-sketching/">A two-step, no bullshit guide to sketching</a>
+            <span class="light-font"> — 08 Dec 2016</span>
+          </li>
+          
+          
+    
+      
+      
+        
+      
+        
+          <li>
+            <a href="/personal-notes/2016/11/03/my-sketches-arent-perfect/">My sketches aren’t perfect</a>
+            <span class="light-font"> — 03 Nov 2016</span>
+          </li>
+          
+          
+    
+      
+      
+        
+      
+        
+          <li>
+            <a href="/personal-notes/2016/10/13/you-are-not-who-you-think-you-are/">You are not who you think you are</a>
+            <span class="light-font"> — 13 Oct 2016</span>
+          </li>
+          
+          
+    
+      
+        
+
+    
+    
+  </ul>
+</section>
+<section>
+  <h1 class="section-title">About the author</h1>
+  <div class="row">
+    <div class="col-xs-3 col-md-2">
+      <img src="/assets/images/matej-latin-css-meetup.jpg" class="author">
+    </div>
+    <div class="col-xs-9 col-md-8">
+      <p class="smaller-text no-margin"><em>Matej is a UX/UI designer from Slovenia. He lives in London, UK and works at Auto Trader UK as a Lead UX/UI designer. He created things like <a href="http://betterwebtype.com">Better Web Type</a>, <a href="http://matejlatin.github.io/Gutenberg/">Gutenberg</a> and <a href="http://quotesontype.com">Quotes on Type</a></em>.</p>
+    </div>
+  </div>
+</section>
+<section class="mailing-list subscribe" id="subscribe">
+  <h1 class="section-title">Join my private mailing list</h1>
+  <p>Pick Matej’s brain by subscribing to his personal notes and articles.</p>
+  <form action="http://betterwebtype.us2.list-manage.com/subscribe/post" method="POST" class="cf">
+    <input type="hidden" name="u" value="d2aaa3155cfda7e76c73817a0">
+    <input type="hidden" name="id" value="807f0c73c7">
+
+    <div id="mergeTable" class="mergeTable cf">
+      <div class="mergeRow dojoDndItem mergeRow-email" id="mergeRow-0">
+        <div class="field-group">
+          <div class="field">
+            <label for="mce-FNAME">First name </label>
+            <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="e.g. John" autocapitalize="on" required>
+          </div>
+          <div class="field">
+            <label for="MERGE0">Email address </label>
+            <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="e.g. john@gmail.com" required>
+          </div>
+          <div class="submit_container clear cf field">
+            <input type="submit" class="button" name="submit" value="Join the list">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="hide2">
+      <input type="text" name="b_d2aaa3155cfda7e76c73817a0_4a267a6451" tabindex="-1" value="">
+    </div>
+  </form>
+</section>
+        </div>
+      </main>
+
+      <div id="msg" class="hidden">
+  <div class="curtain fullScreen">
+    <div class="table fullScreen">
+      <div class="msgContainer fullScreen">
+        <div id="msgContent">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="site-footer">
+  <a href="/about-site">About this site</a> &mdash; <a href="http://twitter.com/matejlatin">Follow me on Twitter</a>
+  <p>&copy; matejlatin.co.uk 2017</p>
+</footer>
+<script type="text/javascript">
+  $('.menu-icon').on('click', function(){
+    console.log('click menu');
+    $('#nav').removeClass();
+    $('#menu').removeClass().addClass('fadeIn animated');
+    $('.menu').removeClass('hide2');
+  });
+  $('.close-icon').on('click', function(){
+    console.log('click close');
+    $('#menu').removeClass().addClass('fadeOut animated').delay(300).queue(function(next){
+      $('.menu').addClass('hide2');
+      next();
+    });
+    // $('.menu').addClass('hide2');
+  });
+</script>
+    </div>
+  </div>
+
+</body>
+
+</html>

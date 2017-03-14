@@ -1,0 +1,50 @@
+// Contain overflow in all browsers.
+pre {
+  overflow: auto;
+  background: $color-light-gray;
+}
+
+// Address odd `em`-unit font size rendering in all browsers.
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+}
+
+code {
+  // @include padding-equal(1);
+
+  background: $color-light-gray;
+  color: $color-medium-blue;
+  font-family: monaco, consolas, monospace;
+  padding: 1px 3px;
+  margin-bottom: 0;
+  @include font-size(0.9);
+
+  @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
+    $leading: $leading-desktop;
+    $leading-rem: $leading-rem-desktop;
+
+    @import '../mixins/padding';
+
+    padding: 1px 3px;
+  }
+
+}
+
+pre {
+  display: block;
+  width: 100%;
+  // margin-left: -2em;
+  // margin-right: -2em;
+}
+
+.highlight code {
+  padding: 2rem;
+  background: $color-light-gray;
+  display: block;
+  width: 100%;
+  // margin-left: -2em;
+  // margin-right: -2em;
+}

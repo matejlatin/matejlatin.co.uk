@@ -1,0 +1,126 @@
+figcaption {
+  @include line-height(1);
+  color: $color-medium-gray;
+  display: block;
+  font-size: .8125rem;
+  font-style: italic;
+  margin-bottom: 0;
+
+  @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
+    $leading: $leading-desktop;
+    $leading-rem: $leading-rem-desktop;
+
+    @import '../mixins/line-height';
+
+    @include line-height(1);
+    margin-bottom: 0;
+  }
+
+}
+
+figure {
+  display: block;
+}
+
+figure > img {
+  @include margin-bottom(0.5);
+}
+
+figure.floatLeft,
+figure.floatRight {
+
+  @media screen and (min-width: $breakpoint) {
+    $leading: $leading-desktop;
+    $leading-rem: $leading-rem-desktop;
+
+    @import '../mixins/margin';
+    @import '../mixins/padding';
+
+    max-width: 20rem;
+    margin-bottom: 0;
+
+    @if $paragraph-indent == true {
+      @include padding-equal(1);
+      @include margin-bottom(0);
+    } @else {
+      @include padding(0, 1);
+    }
+
+  }
+
+  blockquote {
+
+    @media screen and (min-width: $breakpoint) {
+      $leading: $leading-desktop;
+      $leading-rem: $leading-rem-desktop;
+
+      @import '../mixins/margin';
+      @import '../mixins/padding';
+
+      @include padding-equal(0);
+      text-align: left;
+
+      @if $paragraph-indent == true {
+        @include margin-top(1);
+      }
+
+    }
+
+    p {
+
+      @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
+        $leading: $leading-desktop;
+        $leading-rem: $leading-rem-desktop;
+
+        @import '../mixins/font-size';
+        @import '../mixins/line-height';
+
+        @include font-size(1.2);
+        @include line-height(1);
+      }
+
+    }
+
+  }
+
+}
+
+.highlight {
+  // width: 100%;
+  margin-left: -2em;
+  margin-right: -2em;
+
+  @media screen and (min-width: $breakpoint) {
+    margin-left: 0;
+    margin-right: -11%;
+  }
+}
+
+.emoji {
+  display: inline!important;
+  margin-bottom: 0;
+}
+
+.full-bleed-image {
+  margin-left: -2em;
+  margin-right: -2em;
+
+  @media screen and (min-width: $breakpoint) {
+    margin-left: 0;
+    margin-right: -11%;
+    // width: 100%;
+    // overflow: hidden;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  figcaption {
+    margin: 0 2rem;
+
+    @media screen and (min-width: $breakpoint) {
+      margin: 0;
+    }
+  }
+}

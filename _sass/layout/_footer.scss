@@ -1,0 +1,10 @@
+footer {
+  display: block;
+  @include margin-top(3);
+
+  body > & {
+    margin: 0 auto;
+    width: 80%;
+  }
+
+}

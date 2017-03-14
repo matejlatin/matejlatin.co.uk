@@ -1,0 +1,261 @@
+/* Defaults
+   ========================================================================== */
+
+body,
+html {
+
+  @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
+    margin: 0;
+    width: 100%;
+    max-width: none;
+  }
+
+}
+
+// Font defaults
+html {
+  box-sizing: border-box;
+  font-size: #{$base-font-size};
+  font-family: $font-body;
+  background: #fff;
+  color: $color-font-body;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+
+  @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
+    font-size: #{$base-font-size-desktop / 100 + 'rem'};
+  }
+
+}
+
+// Line-height & margin reset
+* {
+  @include line-height(1);
+  @include margin(0, 0, 1);
+
+  @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
+    $leading: $leading-desktop;
+    $leading-rem: $leading-rem-desktop;
+
+    @import '../mixins/line-height';
+    @import '../mixins/margin';
+
+    @include line-height(1);
+    @include margin-bottom(1);
+    // margin-left: auto;
+    // margin-right: auto;
+  }
+
+}
+
+p,
+.image,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  max-width: #{$max-width * $base-desktop + 'px'};
+  max-width: #{$max-width + 'rem'};
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0 2em;
+  background: #fff;
+  @media screen and (min-width: $breakpoint) {
+    padding: 7%;
+  }
+}
+
+.row,
+.col-xs {
+  margin-bottom: 0!important;
+}
+
+.site-header {
+  padding-top: 2rem;
+}
+
+.menu-icon {
+  position: fixed;
+  top: 2rem;
+  right: 2rem;
+  margin-bottom: 0;
+  padding-top: 5px;
+}
+
+.close-icon {
+  position: fixed;
+  top: 2rem;
+  right: 2rem;
+  margin-bottom: 0;
+}
+
+.menu {
+  background: rgba(0,0,0,.95);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  width: 100%;
+  text-transform: lowercase;
+
+  a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    padding: 1rem 2rem;
+    margin-bottom: 0;
+    @include font-size(2.5);
+    font-weight: 600;
+    text-align: right;
+
+    &:visited, &:hover, &:active {
+      color: #fff;
+    }
+  }
+}
+
+.menu-list {
+  @include margin-top(4);
+}
+
+// Animations
+.hide {
+  opacity: 0;
+}
+
+.hide2 {
+  display: none;
+}
+
+.animated {
+  -webkit-animation-duration: 0.3s;
+  animation-duration: 0.3s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+}
+
+@-webkit-keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+.fadeOut {
+  -webkit-animation-name: fadeOut;
+  animation-name: fadeOut;
+}
+
+.hide-mobile {
+  display: none;
+}
+
+@media screen and (min-width: $breakpoint) {
+  .hide-desktop {
+    display: none;
+  }
+
+  .hide-mobile {
+    display: block;
+  }
+
+  .hide {
+    opacity: 1;
+  }
+
+  .hide2 {
+    display: block;
+
+    input {
+      display: none;
+    }
+  }
+
+  .menu-list {
+    @include margin-top(2);
+
+    a.active {
+      text-decoration: line-through;
+    }
+  }
+
+  .menu {
+    background: none;
+    position: relative;
+
+    a {
+      color: $color-font-body;
+      text-align: left;
+      @include font-size(1.53);
+      display: block;
+      padding: 0;
+      width: auto;
+
+      &:visited, &:hover, &:active {
+        color: $color-font-body;
+      }
+    }
+  }
+
+  .fixed {
+    position: fixed;
+  }
+}
+
+.post-content {
+  max-width: 920px;
+}
+
+.hidden {
+  display: none;
+}
