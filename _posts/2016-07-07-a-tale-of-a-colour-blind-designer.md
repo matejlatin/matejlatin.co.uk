@@ -32,7 +32,7 @@ Years later, I was head of design at Wondermags. We were deciding on button colo
   <p class="indent">“Why not?”, Kurt (another designer on my team) asked.</p>
   <p class="indent">“The contrast, it’s killing my eyes.”, I elaborated.</p>
   <p class="indent">“Really, I don’t see it”, he replied surprised.</p>
-  <p>Kurt then switched on the grayscale view on Skala Preview and it was immediately clear that the contrast between the button and the background was indeed very bad.</p>
+  <p>Kurt then switched on the grayscale view on Skala Preview and it was immediately clear that the contrast between the button and the background was indeed bad.</p>
   <p class="indent">“How did you know that?”, he asked me.</p>
   <p class="indent">“I don’t know, must be because I’m colour blind…”, I replied, not knowing what to expect.</p>
   <p class="indent">“You’re colour blind?!”, he asked surprised.</p>
