@@ -860,7 +860,7 @@ aside {
 html {
   box-sizing: border-box;
   font-size: 16px;
-  font-family: Gibson, Helvetica, Arial, sans-serif;
+  font-family: "canada-type-gibson", Helvetica, Arial, sans-serif;
   background: #fff;
   color: #2f2f2f;
   -ms-text-size-adjust: 100%;
@@ -1671,6 +1671,14 @@ sub {
 
 strong, b {
   font-weight: 600; }
+
+.conversation {
+  margin-bottom: 1.5625rem; }
+  .conversation p {
+    margin-bottom: 0; }
+  .conversation p.indent {
+    margin-bottom: 0;
+    text-indent: -0.5em; }
 
 video {
   display: inline-block;

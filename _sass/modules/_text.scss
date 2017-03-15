@@ -184,3 +184,16 @@ sub {
 strong, b {
   font-weight: 600;
 }
+
+.conversation {
+  @include margin-bottom(1);
+
+  p {
+    margin-bottom: 0;
+  }
+
+  p.indent {
+    margin-bottom: 0;
+    text-indent: -0.5em;
+  }
+}

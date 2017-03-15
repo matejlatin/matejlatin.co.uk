@@ -11,17 +11,31 @@ intro: Wondermags HQ office is located in a small town in Luxembourg. There’s 
 ---
 The owner of the shop is very friendly. He speaks a dozen of languages but always greets me in English as soon as I walk in (he already knows that I don’t speak either French or German — both used in Luxembourg). He offered to shake my hand as he always does and asked how I was doing. I replied with my usual: “I’m OK”, and smiled. At this moment he noticed my book. He must have read the title because he asked me what is it that I do.
 
-“I’m a user experience designer…”, I replied, expecting a follow–up question… <br>
-“A user experience designer? What’s that?”, he asked, as I expected.  <br>
-“I design user experiences…” I started my reply as I was trying to think of an example to explain it better.  <br>
-“OK, but what do you mean by… user experience?”, he asked again even before I was able to came up with my example. At that moment I realized. There was a perfect example right in front of me.  <br>
-“You see this?”, I asked while trying to point to the interaction we were having using my hand…  <br>
-“this is a user experience”, I continued.  <br>
-He was silent and waiting for me to elaborate.  <br>
-“Us, having this chat, you greeting me in English straight–away, offering me a hand shake and asking me how I was… This is a user experience…”, I began to elaborate.  <br>
-“Followed up by a great product that I keep coming here for, means that I have an enjoyable overall user experience every time I come over”.  <br>
-He looked at me with an expression of surprise on his face as he asked:  <br>
-“There’s jobs where you design this?!”
+<div class="conversation">
+
+<p class="indent">“I’m a user experience designer…”, I replied, expecting a follow–up question…</p>
+
+<p class="indent">“A user experience designer? What’s that?”, he asked, as I expected.</p>
+
+<p class="indent">“I design user experiences…” I started my reply as I was trying to think of an example to explain it better.</p>
+
+<p class="indent">“OK, but what do you mean by… user experience?”, he asked again even before I was able to came up with my example. At that moment I realized. There was a perfect example right in front of me.</p>
+
+<p class="indent">“You see this?”, I asked while trying to point to the interaction we were having using my hand…</p>
+
+<p class="indent">“This is similar to a user experience”, I continued.</p>
+
+<p>He was silent and waiting for me to elaborate.</p>
+
+<p class="indent">“Us, having this chat, you greeting me in English straight–away, offering me a hand shake and asking me how I was… This is a user experience…”, I began to elaborate.</p>
+
+<p class="indent">“Followed up by a great product that I keep coming here for, means that I have an enjoyable overall user experience every time I come over”.</p>
+
+<p>He looked at me with an expression of surprise on his face as he asked:</p>
+
+<p class="indent">“There’s jobs where you design this?!”</p>
+
+</div>
 
 For a business owner, coming from an eastern culture, he couldn’t understand that what he does in his everyday with every customer has to be designed. For him, all this comes naturally. No fake smiles, no fake attitude.
 
