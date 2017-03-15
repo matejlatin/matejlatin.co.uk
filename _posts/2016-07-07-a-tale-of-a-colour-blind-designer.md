@@ -8,9 +8,11 @@ tags:
 - UI
 - Design
 ---
-“I don’t see it”, I muttered in frustration. <br>
-“How can you not see it? It’s right here: 12…”, my schoolmate claimed comfortably. <br>
-“I don’t see a 12, I see a 17…”, I replied in a growing frustration.
+<div class="conversation">
+  <p class="indent">“I don’t see it”, I muttered in frustration.</p>
+    <p class="indent">“How can you not see it? It’s right here: 12…”, my schoolmate claimed comfortably.</p>
+    <p class="indent">“I don’t see a 12, I see a 17…”, I replied in a growing frustration.</p>
+</div>
 
 {% include image.html url="/assets/images/colour-blind-test.png" description="" %}
 
@@ -25,17 +27,19 @@ Eventually I started to move away from graphic design and branding projects and 
 ## The Perfect Job
 Years later, I was head of design at Wondermags. We were deciding on button colours and we had a few options. All of them had to work on a red background. We had a blue button and a green one for an interface of the iPad Kiosk app we were working on. 
 
-“Shit, I can’t look at that!”, I commented the green button on a red background. <br>
-“Why not?”, Kurt (another designer on my team) asked. <br>
-“The contrast, it’s killing my eyes.”, I elaborated.  <br>
-“Really, I don’t see it”, he replied surprised.  <br>
-Kurt then switched on the grayscale view on Skala Preview and it was immediately clear that the contrast between the button and the background was indeed very bad.  <br>
-“How did you know that?”, he asked me. <br>
-“I don’t know, must be because I’m colour blind…”, I replied, not knowing what to expect. <br>
-“You’re colour blind?!”, he asked surprised. <br>
-“Yeah…”, I replied as that feeling of frustration started to grow again. <br>
-“Ha… you have a perfect job!”, he replied. <br>
-That comment blew my mind. Until then, I had always looked at my colour blindness as a disability. Like I couldn’t do something everyone else was able to do. But since that conversation, it started to feel more like a superpower actually. Hey, I can spot problematic colour combinations! I can see if the UI elements provide a good enough contrast even for the colour blind people like myself. Sweet!
+<div class="conversation">
+  <p class="indent">“Shit, I can’t look at that!”, I commented the green button on a red background.</p>
+  <p class="indent">“Why not?”, Kurt (another designer on my team) asked.</p>
+  <p class="indent">“The contrast, it’s killing my eyes.”, I elaborated.</p>
+  <p class="indent">“Really, I don’t see it”, he replied surprised.</p>
+  <p>Kurt then switched on the grayscale view on Skala Preview and it was immediately clear that the contrast between the button and the background was indeed very bad.</p>
+  <p class="indent">“How did you know that?”, he asked me.</p>
+  <p class="indent">“I don’t know, must be because I’m colour blind…”, I replied, not knowing what to expect.</p>
+  <p class="indent">“You’re colour blind?!”, he asked surprised.</p>
+  <p class="indent">“Yeah…”, I replied as that feeling of frustration started to grow again.</p>
+  <p class="indent">“Ha… you have a perfect job!”, he replied.</p>
+  <p>That comment blew my mind. Until then, I had always looked at my colour blindness as a disability. Like I couldn’t do something everyone else was able to do. But since that conversation, it started to feel more like a superpower actually. Hey, I can spot problematic colour combinations! I can see if the UI elements provide a good enough contrast even for the colour blind people like myself. Sweet!</p>
+  </div>
 
 ## Addressing Colour Blindness in UX/UI Design
 1 in 12 men is colour blind, according to the stats. This equals to 8% of the male population and 4.5% of overall population in Britain. That’s 2.7 million people just in UK!
