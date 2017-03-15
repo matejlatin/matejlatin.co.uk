@@ -7,7 +7,9 @@ category: personal-notes
 tags:
 - Design
 ---
-“If I had asked people what they wanted, they would have said faster horses” is a quote attributed to Henry Ford. It’s a quote that many people use as an excuse not to do user testing. Because designers and product managers are supposed to be these geniuses that pull ideas out of thin air. Steve Jobs was one of those design/product gurus. All the designer and product manager wannabes have a quote or two from Steve that they hold close to their heart so they feel more secure about themselves. But neither Steve or Henry became famous for their ideas because they would be original. They weren’t. Steve didn’t make the first computer and Henry didn’t make the first car (he made the first car assembly line).
+<div class="conversation">
+  <p class="indent">“If I had asked people what they wanted, they would have said faster horses” is a quote attributed to Henry Ford. It’s a quote that many people use as an excuse not to do user testing. Because designers and product managers are supposed to be these geniuses that pull ideas out of thin air. Steve Jobs was one of those design/product gurus. All the designer and product manager wannabes have a quote or two from Steve that they hold close to their heart so they feel more secure about themselves. But neither Steve or Henry became famous for their ideas because they would be original. They weren’t. Steve didn’t make the first computer and Henry didn’t make the first car (he made the first car assembly line).</p>
+</div>
 
 Whenever someone quotes one of these guys, they try to convince other people in the room that it’s a designer’s job to know what the users want and need. But if there’s no research and no interaction with (potential) customers, how is a designer supposed to know that? It’s not that designers design products for themselves. And if they do, they’re probably not that good at designing anyway. 
 
