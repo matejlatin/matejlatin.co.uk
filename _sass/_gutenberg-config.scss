@@ -5,7 +5,7 @@ $edit-mode: true !default; // [ true / false ] - Enables/disables the grid toggl
 
 // Theme / Fonts
 $theme: custom !default; // [ Merriweather / OpenSans / custom ]
-$custom-font-body: Gibson, Helvetica, Arial, sans-serif !default; // [ "Libre Baskerville", Georgia, serif ]
+$custom-font-body: "canada-type-gibson", Helvetica, Arial, sans-serif !default; // [ "Libre Baskerville", Georgia, serif ]
 $custom-font-headings: null !default;
 
 // Paragraph indenting
