@@ -25,6 +25,10 @@
 <lastmod>2015-12-23T19:56:54+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/articles/2016/01/25/humane-typography-in-the-digital-age/</loc>
+<lastmod>2016-01-25T19:56:54+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/articles/2016/07/07/a-tale-of-a-colour-blind-designer/</loc>
 <lastmod>2016-07-07T20:56:54+01:00</lastmod>
 </url>
@@ -106,6 +110,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/Front-end/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/typography/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/design/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/Productivity/</loc>
