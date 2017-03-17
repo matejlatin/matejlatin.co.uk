@@ -11,7 +11,9 @@ intro: I never had a goal of becoming a designer when I was growing up. Like mos
 ---
 The last thing I remember I wanted to be was a “game designer/developer”. I just got my first PC and gaming was all I did. Then, at some point, I stopped thinking about what I really want to do. The life auto–pilot must have kicked in.
 
-Primary school was a piece of cake, high school was a wake up call. I spent most of my time playing video games, neglecting the school. I’d come home, turn on the PC and start playing Half-Life, Command & Conquer, Civilization. All these games were so time consuming. There was no time for school. My grades in school started to reflect this and I failed a class. I dropped out the next year.
+{% include aside.html note ="I still look back on those years as the best of my life. Video games, music and candy." %}
+
+Primary school was a piece of cake, high school was a wake up call. I spent most of my time playing video games, neglecting school assignments. I’d come home, turn on the PC and start playing Half-Life, Command & Conquer, Civilization. All these games were so time consuming. There was no time for anything else. My grades in school started to reflect this and I failed a class. The next year I dropped out.
 
 But there was something else I used my PC for besides gaming. I was designing websites and setting up eCommerce sites for local clients. I picked up this interest as a kid but I had never thought it’d ever be anything more than a hobby. I was setting up WordPress blogs, Zen Cart web sites and drawing interfaces and websites in Photoshop by the time I finally finished high school.
 
