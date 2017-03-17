@@ -33,7 +33,7 @@ But I really had to quit design this time. The corporation where I worked at req
 
 Well, life isn’t so easy and it certainly isn’t so simple. I hated my new job. I couldn’t stand working at that place. But what do I do? This is what I’m supposed to do right? Get a degree, check. Get a good, well paid job, check. Be happy, … hm…
 
-I restarted doing web design work for clients a few months after I started working at that bank. It was the only thing that made me happy(er). I tried quitting twice but for some reason it stuck with me so I said to myself “fuck it, I’ll commit to it 100% this time”. I quit my well paid job and was going to freelance, just like I did before. I was presented with an opportunity to join Wondermags, a Luxembourgish startup, a week later. This was going to be my first in-house design role. Everything else is history. But it turned out well for me.
+I restarted doing web design work for clients a few months after I started working at that bank. It was the only thing that made me happy(er). I tried quitting twice but for some reason it stuck with me so I said to myself “fuck it, I’ll commit to it 100% this time”. I quit my well paid job and was going to freelance, just like I did before. I was presented with an opportunity to join Wondermags, a Luxembourgish startup, a week later. This was going to be my first in-house design role. The rest is history. But it turned out well for me.
 
 {% include quote-large.html quote="Do what you love → Money → Everything’s alright" %}
 
