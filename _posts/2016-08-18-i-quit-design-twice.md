@@ -15,10 +15,10 @@ Primary school was a piece of cake, high school was a wake up call. I spent most
 
 But there was something else I used my PC for besides gaming. I was designing websites and setting up eCommerce sites for local clients. I picked up this interest as a kid but I had never thought it’d ever be anything more than a hobby. I was setting up WordPress blogs, Zen Cart web sites and drawing interfaces and websites in Photoshop by the time I finally finished high school.
 
-## Getting serious
+## Time to get serious
 After high school, just like almost anyone at my age, I went to study at a local university. “You’ll need a degree to have the slightest chances to get a job” was what everyone kept telling me. Ok, it’s probably time to get serious, is what I thought to myself. I decided to stop all the web design I had been doing and focus solely on studying. I enjoyed designing websites but it was time to quit. It was time to start focusing on what mattered in life: get a degree, get a job, earn money and everything will be alright.
 
-{% include quote-large.html quote="A degree > a “proper job” > money > everything’s alright" %}
+{% include quote-large.html quote="A degree → a “proper job” → money → everything’s alright" %}
 
 What a load of bullshit. I couldn’t stay away from designing websites. By that time, I wasn’t playing video games that much anymore. I unawarely started enjoying web design more. Studying didn’t suffer at all, as I finished top class. But now, I had to find a “proper” job.
 
@@ -33,6 +33,6 @@ Well, life isn’t so easy and it certainly isn’t so simple. I hated my new jo
 
 I restarted doing web design work for clients a few months after I started working at that bank. It was the only thing that made me happy(er). I tried quitting twice but for some reason it stuck with me so I said to myself “fuck it, I’ll commit to it 100% this time”. I quit my well paid job and was going to freelance, just like I did before. I was presented with an opportunity to join Wondermags, a Luxembourgish startup, a week later. This was going to be my first in-house design role. Everything else is history. But it turned out well for me.
 
-{% include quote-large.html quote="Do what you love > Money > Everything’s alright" %}
+{% include quote-large.html quote="Do what you love → Money → Everything’s alright" %}
 
 The lesson of my story: don’t quit what you’re good at. Especially if it makes you happy. Commit to it 100%, no matter what and everything will be alright. Forget everyone else. Forget the money. If you do what you love, the money will follow somehow. If anyone tells you otherwise, ignore them.
