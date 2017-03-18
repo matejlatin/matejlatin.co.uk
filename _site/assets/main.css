@@ -1451,6 +1451,7 @@ hgroup {
       margin-bottom: 1.5625rem; } }
 
 a.site-title {
+  color: #2f2f2f;
   font-size: 1.5rem;
   text-decoration: none;
   font-weight: 600; }
