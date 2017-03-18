@@ -1326,8 +1326,8 @@ h1 {
 
 h2 {
   font-size: 1.6875rem;
-  line-height: 2.34375rem;
-  margin-top: 3.90625rem;
+  line-height: 1.95313rem;
+  margin-top: 2.34375rem;
   margin-bottom: 0.78125rem;
   font-weight: 600; }
 
@@ -1542,7 +1542,8 @@ blockquote {
 
 cite {
   display: block;
-  font-style: normal; }
+  font-style: normal;
+  font-weight: 600; }
 
 figure blockquote {
   padding: 1.5625rem 0rem; }
