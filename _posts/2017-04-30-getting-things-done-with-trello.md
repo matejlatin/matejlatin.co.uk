@@ -11,7 +11,7 @@ intro: Another long weekend ahead. We just had a four-day weekend for the easter
 ---
 Most people will enjoy the nice weather or take a trip. I use this precious time to do some work on my projects. Sounds dull, but deep down it makes me happy. 
 
-I launched a project called Better Web Type in February and my new website shortly after that. Better Web Type is an email course I wanted to do for a while but never really took the time. It required a lot of work and that was one of the reasons why I kept postponing it. Then I learned what are the best ways to move projects forward. It boils down to three things:
+I launched a project called [Better Web Type](https://betterwebtype.com) in February and my new website shortly after that. Better Web Type is an email course I wanted to do for a while but never really took the time. It required a lot of work and that was one of the reasons why I kept postponing it. Then I learned what are the best ways to move projects forward. It boils down to three things:
 
 1. Break big problems down into small chunks that are easier to solve,
 2. Put a deadline to all these small steps,
