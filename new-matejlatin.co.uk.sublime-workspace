@@ -79,7 +79,7 @@
 			"file": "_posts/2017-04-30-getting-things-done-with-trello.md",
 			"settings":
 			{
-				"buffer_size": 7226,
+				"buffer_size": 7417,
 				"line_ending": "Unix"
 			}
 		},
@@ -554,15 +554,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7226,
+						"buffer_size": 7417,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7201,
-								7201
+								622,
+								622
 							]
 						],
 						"settings":
@@ -570,7 +570,7 @@
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 572.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

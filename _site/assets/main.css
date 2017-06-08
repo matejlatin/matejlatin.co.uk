@@ -1104,7 +1104,8 @@ article {
   @media screen and (min-width: 40em) {
     article {
       max-width: 997.5px;
-      max-width: 52.5rem; } }
+      max-width: 52.5rem;
+      margin: 0; } }
 
 audio {
   display: inline-block;
@@ -1230,6 +1231,14 @@ input[type="text"], input[type="submit"] {
   border-radius: 2px;
   font-size: 1rem;
   transition: all 0.3s; }
+  input::-webkit-input-placeholder, input[type="email"]::-webkit-input-placeholder,
+  input[type="text"]::-webkit-input-placeholder, input[type="submit"]::-webkit-input-placeholder {
+    color: #B3B2B2; }
+  input::-moz-placeholder, input[type="email"]::-moz-placeholder,
+  input[type="text"]::-moz-placeholder, input[type="submit"]::-moz-placeholder {
+    color: #B3B2B2; }
+  input:-ms-input-placeholder {
+    color: #B3B2B2; }
   @media screen and (min-width: 64em) {
     input, input[type="email"],
     input[type="text"], input[type="submit"] {
@@ -1251,6 +1260,9 @@ input[type="submit"] {
   font-weight: 600;
   margin-top: 1.5625rem;
   font-size: 1.25rem; }
+  @media screen and (min-width: 64em) {
+    input[type="submit"] {
+      max-width: 250px; } }
   input[type="submit"]:hover {
     cursor: pointer;
     -webkit-box-shadow: 0px 7px 26px 0px rgba(0, 0, 0, 0.23);
@@ -1269,6 +1281,12 @@ label {
 
 .field-group {
   margin-bottom: 0rem; }
+  @media screen and (min-width: 1280px) {
+    .field-group {
+      max-width: 90%; } }
+  @media screen and (min-width: 1467px) {
+    .field-group {
+      max-width: 80%; } }
 
 .field {
   margin: 0; }
@@ -1508,7 +1526,7 @@ svg:not(:root) {
   max-width: 100%; }
   @media screen and (min-width: 64em) {
     .featured {
-      max-width: 557px; } }
+      max-width: 683px; } }
 
 .author {
   margin-right: 0;

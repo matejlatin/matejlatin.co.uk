@@ -6,6 +6,18 @@ input {
   @include font-size(1);
   transition: all 0.3s;
 
+  &::-webkit-input-placeholder {
+    color: #B3B2B2;
+  }
+
+  &::-moz-placeholder {
+    color: #B3B2B2;
+  }
+
+  &:-ms-input-placeholder {
+    color: #B3B2B2;
+  }
+
   @media screen and (min-width: $breakpoint) {
     width: 95%;
   }
@@ -31,6 +43,9 @@ input[type="submit"] {
   font-weight: 600;
   @include margin-top(1);
   @include font-size(1.25);
+  @media screen and (min-width: $breakpoint) {
+    max-width: 250px;
+  }
 
   &:hover {
     cursor: pointer;
@@ -55,6 +70,14 @@ label {
 
 .field-group {
   @include margin-bottom(0);
+
+  @media screen and (min-width: 1280px) {
+    max-width: 90%;
+  }
+
+  @media screen and (min-width: 1467px) {
+    max-width: 80%;
+  }
 }
 
 .field {
