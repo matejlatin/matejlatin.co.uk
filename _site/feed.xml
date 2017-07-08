@@ -1,5 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-08T21:10:51+01:00</updated><id>http://localhost:4000//</id><title type="html">Matej Latin</title><subtitle>Matej Latin is a UX/UI deisgner working for Auto Trader UK in London. He writes about design, minimalism and typography.
-</subtitle><entry><title type="html">Getting things done with Trello</title><link href="http://localhost:4000/articles/2017/04/30/getting-things-done-with-trello/" rel="alternate" type="text/html" title="Getting things done with Trello" /><published>2017-04-30T20:56:54+01:00</published><updated>2017-04-30T20:56:54+01:00</updated><id>http://localhost:4000/articles/2017/04/30/getting-things-done-with-trello</id><content type="html" xml:base="http://localhost:4000/articles/2017/04/30/getting-things-done-with-trello/">&lt;p&gt;Most people will enjoy the nice weather or take a trip. I use this precious time to do some work on my projects. Sounds dull, but deep down it makes me happy. &lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-08T17:00:23+01:00</updated><id>http://localhost:4000//</id><title type="html">Matej Latin</title><subtitle>Matej Latin is a UX/UI deisgner working for Auto Trader UK in London. He writes about design, minimalism and typography.
+</subtitle><entry><title type="html">Better web typography for a better web</title><link href="http://localhost:4000/books/2017/07/07/better-web-typography-for-a-better-web/" rel="alternate" type="text/html" title="Better web typography for a better web" /><published>2017-07-07T20:56:54+01:00</published><updated>2017-07-07T20:56:54+01:00</updated><id>http://localhost:4000/books/2017/07/07/better-web-typography-for-a-better-web</id><content type="html" xml:base="http://localhost:4000/books/2017/07/07/better-web-typography-for-a-better-web/">&lt;figure class=&quot;full-bleed-image&quot;&gt;
+  &lt;img src=&quot;/assets/images/better-web-type-book.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I launched an email course called Better Web Type on 14 February this year. It introduces the topic of typography to people who actually design and build websites—web designers and web developers. Split into 10 daily lessons, it covers topics like rhythm in web typography, how to use modular scales, how to combine typefaces and similar. It was featured in &lt;a href=&quot;https://css-tricks.com/equilateral-triangle-perfect-paragraph/&quot;&gt;CSS-tricks&lt;/a&gt;, as a cover feature in the Net magazine, in the Web Designer magazine, as well as sites like &lt;a href=&quot;https://tympanus.net/codrops/collective/collective-295/&quot;&gt;Codrops&lt;/a&gt; and &lt;a href=&quot;https://www.smashingmagazine.com/2017/06/web-development-reading-list-186/&quot;&gt;Smashing Magazine&lt;/a&gt;. The course is highly-rated with an average of 4.7 out of 5 after more than 700 reviews.&lt;/p&gt;
+
+&lt;p&gt;The students that went through the course loved it so much that they started asking for a book. Writing a book on the same topic was always on my roadmap but the high demand turned into my top priority. The book will be released as an eBook on July 31 and as a paperback shortly after. It’s currently available to &lt;a href=&quot;https://betterwebtype.com/book&quot;&gt;pre-order at Better Web Type&lt;/a&gt;.&lt;/p&gt;</content><author><name>Matej Latin</name></author><category term="books" /><category term="Typography" /><category term="Web-design" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bwt-cover" /></entry><entry><title type="html">Equilateral triangle of a perfect paragraph</title><link href="http://localhost:4000/articles/2017/06/09/equilateral-triangle-of-a-perfect-paragraph/" rel="alternate" type="text/html" title="Equilateral triangle of a perfect paragraph" /><published>2017-06-09T20:56:54+01:00</published><updated>2017-06-09T20:56:54+01:00</updated><id>http://localhost:4000/articles/2017/06/09/equilateral-triangle-of-a-perfect-paragraph</id><content type="html" xml:base="http://localhost:4000/articles/2017/06/09/equilateral-triangle-of-a-perfect-paragraph/">&lt;p&gt;And the lack of knowledge about typography doesn’t come from ignorance. I learned that web designers are commonly either self-taught and haven’t grasped the importance of typography yet, or they actually studied design but typography was just one of the classes they had to attend.&lt;/p&gt;
+
+&lt;p&gt;I created the &lt;a href=&quot;https://betterwebtype.com&quot;&gt;Better Web Type&lt;/a&gt; course to help raise awareness of the important role typography plays on the web. In my opinion, both web designers and web developers should learn the basics—if a designer uses ligatures in her designs but the developer doesn’t even know what ligatures are, how can we expect him to correctly transform the most beautifully designed typography into code? With both roles knowing the basics, we’ll be able to start contributing to a better web by producing better web typography. Together.&lt;/p&gt;
+
+&lt;p&gt;One of the most important things in typography is to shape a seamless reading experience that invites the reader and presents the content in an objective way. To do that, we need to be able to shape perfect paragraphs. There are three keys to doing that, as Josef Mueller-Brockmann—a renowned 20th-century typographer and visual communicator, put it:&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;blockquote&gt;&lt;p&gt;The reader should be able to read the message of a text easily and comfortably. This depends to a not inconsiderable extent on the size of the type, the length of the lines and the leading (line-height).&lt;/p&gt;
+    &lt;cite&gt;—&amp;hairsp;Josef Mueller–Brockmann&lt;/cite&gt;
+  &lt;/blockquote&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The Equilateral triangle of a perfect paragraph article was originally published on &lt;a href=&quot;https://css-tricks.com/equilateral-triangle-perfect-paragraph/&quot;&gt;CSS-Tricks&lt;/a&gt; where you can read the rest. I launched a learning game based on this theory at the same time.&lt;/p&gt;
+
+&lt;figure class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/assets/images/triangle-game.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I hope that as many people as possible come across this game and learn that line-height, font-size, and length of lines always need to be considered together. Try to get the best result and challenge your friends. The more people know about this, the better the web typography will get.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://betterwebtype.com/triangle&quot;&gt;Check out the game here&lt;/a&gt;.&lt;/p&gt;</content><author><name>Matej Latin</name></author><category term="articles" /><category term="Typography" /><category term="Web-design" /><summary type="html">And the lack of knowledge about typography doesn’t come from ignorance. I learned that web designers are commonly either self-taught and haven’t grasped the importance of typography yet, or they actually studied design but typography was just one of the classes they had to attend.</summary></entry><entry><title type="html">Getting things done with Trello</title><link href="http://localhost:4000/articles/2017/04/30/getting-things-done-with-trello/" rel="alternate" type="text/html" title="Getting things done with Trello" /><published>2017-04-30T20:56:54+01:00</published><updated>2017-04-30T20:56:54+01:00</updated><id>http://localhost:4000/articles/2017/04/30/getting-things-done-with-trello</id><content type="html" xml:base="http://localhost:4000/articles/2017/04/30/getting-things-done-with-trello/">&lt;p&gt;Most people will enjoy the nice weather or take a trip. I use this precious time to do some work on my projects. Sounds dull, but deep down it makes me happy. &lt;/p&gt;
 
 &lt;aside&gt;
   &lt;p&gt;Better Web Type has been on my to-do list for almost two years. Mostly because I didn’t know what to do and where to&amp;nbsp;start.&lt;/p&gt;
@@ -184,72 +212,4 @@
 &lt;p&gt;I now do this in my “weekly reading review”—whenever I actually have time to have one. I sit down, take a look at the book and articles that I read that week. I focus on my notes and write a short recap. The recap is not even made of actual sentences. Bullet lists mostly. But it’s enough for me to be able to get back and just enough so what I read actually sticks in my mind.&lt;/p&gt;
 
 &lt;p&gt;I found this systematic process of reading to work well for me. Am I taking it too far? Do you have a similar approach to reading? Share your thoughts with me.&lt;/p&gt;</content><author><name>Matej Latin</name></author><category term="personal-notes" /><category term="Productivity" /><summary type="html">Reading Books
-First of all, I keep a to-read list on Goodreads.com. Whenever I encounter a book that I find interesting, I add it to this list (more than 400 items at the moment). Besides reading I also like to plan. I use Trello for all my planning. I split every year into quarters—periods of three months. Then I write down all the books that I want to read in the upcoming period and create a checklist. With a goal of 40 books per year that’s 10 books per quarter.</summary></entry><entry><title type="html">I quit design twice</title><link href="http://localhost:4000/personal-notes/2016/08/18/i-quit-design-twice/" rel="alternate" type="text/html" title="I quit design twice" /><published>2016-08-18T20:56:54+01:00</published><updated>2016-08-18T20:56:54+01:00</updated><id>http://localhost:4000/personal-notes/2016/08/18/i-quit-design-twice</id><content type="html" xml:base="http://localhost:4000/personal-notes/2016/08/18/i-quit-design-twice/">&lt;p&gt;The last thing I remember I wanted to be was a “game designer/developer”. I just got my first PC and gaming was all I did. Then, at some point, I stopped thinking about what I really want to do. The life auto–pilot must have kicked in.&lt;/p&gt;
-
-&lt;aside&gt;
-  &lt;p&gt;I still look back on those years as the best years of my life. Video games, music and candy.&lt;/p&gt;
-&lt;/aside&gt;
-
-&lt;p&gt;Primary school was a piece of cake, high school was a wake up call. I spent most of my time playing video games, neglecting school assignments. I’d come home, turn on the PC and start playing Half-Life, Command &amp;amp; Conquer, Civilization. All these games were so time consuming. There was no time for anything else. My grades in school started to reflect this and I failed a class. The next year I dropped out.&lt;/p&gt;
-
-&lt;p&gt;But there was something else I used my PC for besides gaming. I was designing websites and setting up eCommerce sites for local clients. I picked up this interest as a kid but I had never thought it’d ever be anything more than a hobby. I was setting up WordPress blogs, Zen Cart web sites and drawing interfaces and websites in Photoshop by the time I finally finished high school.&lt;/p&gt;
-
-&lt;h2 id=&quot;time-to-get-serious&quot;&gt;Time to get serious&lt;/h2&gt;
-&lt;p&gt;After high school, just like almost anyone at my age, I went to study at a local university. “You’ll need a degree to have the slightest chances to get a job” was what everyone kept telling me. Ok, it’s probably time to get serious, is what I thought to myself. I decided to stop all the web design I had been doing and focus solely on studying. I enjoyed designing websites but it was time to quit. It was time to start focusing on what mattered in life: get a degree, get a job, earn money and everything will be alright.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;blockquote&gt;&lt;p&gt;A degree → a “proper job” → money → everything’s alright&lt;/p&gt;
-    
-  &lt;/blockquote&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;What a load of bullshit. I couldn’t stay away from designing websites. By that time, I wasn’t playing video games that much anymore. I unawarely started enjoying web design more. Studying didn’t suffer at all, as I finished top class. But now, I had to find a “proper” job.&lt;/p&gt;
-
-&lt;h2 id=&quot;getting-a-proper-job&quot;&gt;Getting a proper job&lt;/h2&gt;
-&lt;p&gt;I’d just wrapped up studying and I was left with a degree that would secure me a good job. I actually believed that. But, nobody wanted a guy who was fresh from university. Finding a “proper” job proved impossible. At some point I just wanted to start working at a local electronics shop but even they didn’t want me.&lt;/p&gt;
-
-&lt;p&gt;After a while, I finally got a job. It was the best job in the shit hole town where I come from. The best in terms of what a 25 year old guy, fresh from university could get. So I became a Business Process Manager at a local bank which is a part of a large, global group. I had been running my own company until that, doing what I always did—web design.&lt;/p&gt;
-
-&lt;p&gt;But I really had to quit design this time. The corporation where I worked at required me to do so. I wasn’t allowed to run my own company and be employed there at the same time. Alright, no problem with that. I got the best job around, it’s time to fully commit to it. Right?&lt;/p&gt;
-
-&lt;p&gt;Well, life isn’t so easy and it certainly isn’t so simple. I hated my new job. I couldn’t stand working at that place. But what do I do? This is what I’m supposed to do right? Get a degree, check. Get a good, well paid job, check. Be happy, … hm…&lt;/p&gt;
-
-&lt;p&gt;I restarted doing web design work for clients a few months after I started working at that bank. It was the only thing that made me happy(er). I tried quitting twice but for some reason it stuck with me so I said to myself “fuck it, I’ll commit to it 100% this time”. I quit my well paid job and was going to freelance, just like I did before. I was presented with an opportunity to join Wondermags, a Luxembourgish startup, a week later. This was going to be my first in-house design role. The rest is history. But it turned out well for me.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;blockquote&gt;&lt;p&gt;Do what you love → Money → Everything’s alright&lt;/p&gt;
-    
-  &lt;/blockquote&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The lesson of my story: don’t quit what you’re good at. Especially if it makes you happy. Commit to it 100%, no matter what and everything will be alright. Forget everyone else. Forget the money. If you do what you love, the money will follow somehow. If anyone tells you otherwise, ignore them.&lt;/p&gt;</content><author><name>Matej Latin</name></author><category term="personal-notes" /><category term="UX" /><category term="Design" /><summary type="html">The last thing I remember I wanted to be was a “game designer/developer”. I just got my first PC and gaming was all I did. Then, at some point, I stopped thinking about what I really want to do. The life auto–pilot must have kicked in.</summary></entry><entry><title type="html">UX design is not what you think it is</title><link href="http://localhost:4000/personal-notes/2016/08/11/ux-is-not/" rel="alternate" type="text/html" title="UX design is not what you think it is" /><published>2016-08-11T20:56:54+01:00</published><updated>2016-08-11T20:56:54+01:00</updated><id>http://localhost:4000/personal-notes/2016/08/11/ux-is-not</id><content type="html" xml:base="http://localhost:4000/personal-notes/2016/08/11/ux-is-not/">&lt;p&gt;Let’s do a quick test. Go to the &lt;a href=&quot;http://adriengervaix.com/&quot;&gt;following website&lt;/a&gt;. Take a look around. Spend a minute or two on the site. Even a few if you wish. There is no particular information that you should be looking for no task. Already back? Cool. Now try to answer the following questions based on the information that you were able to get from that website. Don’t worry if you’re not a UX designer or a designer at all. In fact, that’s even better. Write down the answers.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Who is Adrien Gervaix and what does he do?&lt;/li&gt;
-  &lt;li&gt;What specific project that he worked on do you remember? Why?&lt;/li&gt;
-  &lt;li&gt;Based on his case studies, what specific tasks does he do on a daily basis as a UX/UI designer?&lt;/li&gt;
-  &lt;li&gt;Again, based on his case studies, what would you say UX design is?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Done? Let me know your answers. I’d love to see your conclusions.&lt;/p&gt;
-
-&lt;p&gt;The reason for this quick test is the ever reinforced misconception of what UX and UX design is. I understand that people (like myself) are thought UX designers, UI designers, developers etc. And there’s no problem with that. thought people need a strong passion to drive them forward. But passion alone is not enough. There needs to be something or someone to guide them in the right direction.&lt;/p&gt;
-
-&lt;p&gt;We need to stop thinking about UX design as static, possibly beautifully designed wireframes and animations. Yes, UX is about wireframes and it is about animations. But it’s much more than that. It’s everything between a sketch on the paper and a fully working beautifully designed product that people enjoy using. They do so because it brings them value. Not because they enjoy the animations or pretty illustrations in it.&lt;/p&gt;
-
-&lt;figure class=&quot;floatRight&quot;&gt;
-  &lt;blockquote&gt;&lt;p&gt;Animations and a nice visual design can enhance a user experience but they alone can’t be one.&lt;/p&gt;
-    
-  &lt;/blockquote&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Adrien’s portfolio website looks great. Aesthetically, I love it! But Adrien has, as he explained here, spent months working on it, (possibly) without asking for feedback in the process. Not to mention that navigation (one of the key elements of UX) is broken and becomes a real pain in the ass after a minute of navigating through the site. Besides, the only UX tool he uses are wireframes. And even those are too pretty to serve their purpose.&lt;/p&gt;
-
-&lt;p&gt;Yes, a website like that will get him lots of cool projects to work on but it won’t be the real kind of UX projects. And that’s bad for the company that he’ll work with, for him and for all the UX designers out there. Because it’s information like this that paints the wrong picture about what UX is. It’s so sad that even these days I still meet a lot of people, designers and non-designers alike, that think that what I do as a UX designer is wireframes and animations. Here’s an overview of what UX design truly is:&lt;/p&gt;
-
-&lt;figure class=&quot;image&quot;&gt;
-  &lt;img src=&quot;/assets/images/ux-overview.png&quot; alt=&quot;The elements of user experience&quot; /&gt;
-  &lt;figcaption&gt;The elements of user experience (&lt;a href=&quot;http://http://www.uxbeginner.com/ux-essentials-lesson-1-defining-user-experience-design/&quot;&gt;Source&lt;/a&gt;)&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Adrian may be early in his design career. And he really seems like a talented designer. But he’ll need to learn a lot more before he can call himself a UX designer. Don’t worry. I called myself a UX/UI designer way too early too. I did some wireframes and put visual designs on top of that. I thought I was doing UX work. Well… I wasn’t. I later learned that. I, just like a lot of designers out there, did that mistake. Don’t be one of them. Find out what UX really is. Join a course or at the very least, read a book called &lt;a href=&quot;https://www.goodreads.com/book/show/1867.The_Elements_of_User_Experience?ac=1&amp;amp;from_search=true&quot;&gt;The Elements of User Experience&lt;/a&gt;.&lt;/p&gt;</content><author><name>Matej Latin</name></author><category term="personal-notes" /><category term="UX" /><summary type="html">Let’s do a quick test. Go to the following website. Take a look around. Spend a minute or two on the site. Even a few if you wish. There is no particular information that you should be looking for no task. Already back? Cool. Now try to answer the following questions based on the information that you were able to get from that website. Don’t worry if you’re not a UX designer or a designer at all. In fact, that’s even better. Write down the answers.</summary></entry></feed>
+First of all, I keep a to-read list on Goodreads.com. Whenever I encounter a book that I find interesting, I add it to this list (more than 400 items at the moment). Besides reading I also like to plan. I use Trello for all my planning. I split every year into quarters—periods of three months. Then I write down all the books that I want to read in the upcoming period and create a checklist. With a goal of 40 books per year that’s 10 books per quarter.</summary></entry></feed>
