@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Better web typography for a better web
-date:   2017-06-07 19:56:54 +0000
+date:   2017-07-31 19:56:54 +0000
 author: Matej Latin
 image: bwt-cover
 category: books
