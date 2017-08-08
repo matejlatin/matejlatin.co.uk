@@ -40,9 +40,6 @@ Let’s think about a real-life scenario. We have two teams:
 
 *Team B:* Allison is a UI designer. She likes to create pretty things and hates when other people make her push pixels around. Emma is a UX designer, she loves creating wireframes and prototypes. She’s comfortable with letting Allison take over from there. Peter is a product manager, he loves coming up with ideas for products and thinks that’s his responsibility. Eric is a full-stack developer as he does both: back- and front-end development.
 
-Let’s give our teams a (broad) problem to solve:  
-**Design and build an application to help people who do product development learn new skills.**
-
 {% include quote-float-right.html quote="The need for T-shaped skills surfaces anywhere problem solving is required across different deep functional knowledge bases or at the juncture of such deep knowledge with an application area." author="Leonard-Barton" %}
 
 Research suggests, that people who have broad skills communicate and work with others better. It makes sense: because Sam from team A knows a bit about front-end development, it’s much easier to talk to web developers and explain what needs to be done. The same goes the other way, John—team A’s full-stack developer knows a bit about design so he can suggest improvements the designer might have missed. Team A is a small squad that has the skills and the mentality required to find out what needs to be built and then go on and build it. Put a good product development process on top of that and the chances of success rise dramatically. 
