@@ -8,5 +8,6 @@ permalink: /about-site/
 ## Made with
 - Gutenberg — A meaningful web typography starter kit,
 - Jekyll as CMS,
-- a custom-made theme for Jekyll
-- and is hosted on GitHub
+- a custom-made theme for Jekyll,
+- is set in Gibson by Canada Type (provided by TypeKit),
+- and is hosted on GitHub.
