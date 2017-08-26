@@ -54,7 +54,9 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+ul,
+ol {
   max-width: #{$max-width * $base-desktop + 'px'};
   max-width: #{$max-width + 'rem'};
 }

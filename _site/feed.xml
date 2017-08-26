@@ -1,5 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-12T14:38:37+01:00</updated><id>http://localhost:4000//</id><title type="html">Matej Latin</title><subtitle>Matej Latin is a UX/UI deisgner working for Auto Trader UK in London. He writes about design, minimalism and typography.
-</subtitle><entry><title type="html">Specialised generalist</title><link href="http://localhost:4000/personal-notes/2017/08/06/specialised-generalist/" rel="alternate" type="text/html" title="Specialised generalist" /><published>2017-08-06T20:56:54+01:00</published><updated>2017-08-06T20:56:54+01:00</updated><id>http://localhost:4000/personal-notes/2017/08/06/specialised-generalist</id><content type="html" xml:base="http://localhost:4000/personal-notes/2017/08/06/specialised-generalist/">&lt;p&gt;Compared to them, I felt mediocre and I was frustrated because of it. You see, I never specialised in anything. Since I was a child, I had a habit of putting things together and create something out of that. I saw things differently from others. Where everyone else saw a cardboard box, I saw a cool military jeep that I could create out of it.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-26T18:22:17+01:00</updated><id>http://localhost:4000//</id><title type="html">Matej Latin</title><subtitle>Matej Latin is a UX/UI deisgner working for Auto Trader UK in London. He writes about design, minimalism and typography.
+</subtitle><entry><title type="html">The day I proved myself wrong</title><link href="http://localhost:4000/personal-notes/2017/08/25/the-day-i-proved-myself-wrong/" rel="alternate" type="text/html" title="The day I proved myself wrong" /><published>2017-08-25T20:56:54+01:00</published><updated>2017-08-25T20:56:54+01:00</updated><id>http://localhost:4000/personal-notes/2017/08/25/the-day-i-proved-myself-wrong</id><content type="html" xml:base="http://localhost:4000/personal-notes/2017/08/25/the-day-i-proved-myself-wrong/">&lt;p&gt;Designers don’t know why a small change to an interface results in a massive drop in a core business metric, product managers don’t know what should go into the backlog and what not, developers don’t know how to estimate the delivery time of the fancy new feature. The whole team behind the product is so clueless that they don’t even know if the new feature brings any value to the users. &lt;/p&gt;
+
+&lt;p&gt;We come up with our pity assumptions and hypothesis and we try to validate them. We try to show that we’re right, that’s what we’re being paid for right? Being smart and all… We’re certain we’re right… until we’re proven wrong. Time and time again. But even then, we doubt the validity of the test and we doubt the meaning of a metric if we need to. So we run another A/B test or more user testing sessions. We spend days or even weeks to get a similar result. Another result that we don’t really know how to interpret. The process feels like making tiny steps in the dark—expecting meaningful results by doing the same thing over and over again. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Certainty is the enemy of growth. Nothing is for certain until it has already happened—and even then, it’s debatable. That’s why accepting the inevitable imperfections of our values is necessary for any growth to take place. Instead of striving for certainty, we should be in constant search of doubt… Instead of looking to be right all the time, we should be looking for how we’re wrong all the time. Because we are. Being wrong opens up to the possibility of change.&lt;br /&gt;
+—Mark Manson&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Our industry is plagued with certainty. Smartass people with thick heads who are certain in their own work because they have been doing it for 10+ years or whatever. I came across many people like that but in a way, we’re all the same. It’s our process of creating something and then proving that it’s correct that is wrong. &lt;/p&gt;
+
+&lt;h2 id=&quot;a-real-life-example&quot;&gt;A real-life example&lt;/h2&gt;
+
+&lt;p&gt;Not long ago, we had a discussion at work. If you go to a typical car ad on Auto Trader today, you’ll see that it’s being sold by a “Trade Seller”.&lt;/p&gt;
+
+&lt;figure class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/assets/images/wrong-01.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A certain group of people inside the company believe that it should be replaced with the actual name of the company selling the car because it would be clearer to the user. I am one of those people. We even had discussions of including that seller information (including their rating) in the search results. So I decided to prove that the “Trade Seller” bit is confusing the users. I was certain that they don’t understand what it means.&lt;/p&gt;
+
+&lt;figure class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/assets/images/wrong-02.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;So I devised two tests with Usability Hub in a way that the results could be easily quantified. I mocked up search results with seller rating in two versions: one with “Trade Seller + rating” and another one with “Actual seller name + rating”. I was looking to answer two questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Do users understand what the “Trade seller / actual seller name mean”?&lt;/li&gt;
+  &lt;li&gt;And  do they understand what is the rating next to it referring to? &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;But in reality, I was certain to prove:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;that people don’t understand what “Trade seller” means and&lt;/li&gt;
+  &lt;li&gt;that they won’t understand that the rating is of the seller when placed next to the “Trade seller” text.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/assets/images/wrong-03.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The results were surprising and humbling. I did find answers to both questions but they were the complete opposite of what I wanted to prove. The results showed that people do understand what “Trade seller” means. Actually, in the test most of them knew exactly what it meant.&lt;/p&gt;
+
+&lt;figure class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/assets/images/wrong-04.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here’s where it gets crazy. Not only did the participants understand what “Trade seller” means. They understood what the rating is of better when it was next to “Trade seller” instead of the actual name of the seller. In the v1 of the test (“Trade seller”), 86% of participants knew what it meant and 93% of them said that the rating is of the seller. In the v2, 100% of participants claimed that the names were the car dealerships that were selling the listed cars but only 46% of them said that the rating is of the seller. The rest assumed it was a rating of the car.&lt;/p&gt;
+
+&lt;figure class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/assets/images/wrong-05.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I proved myself wrong on both accounts. People know what “Trade seller” means and they understand that the rating next to it is of the seller and not of the car (I ran the test two times with a total of 40 participants for each version, just to be sure).&lt;/p&gt;
+
+&lt;aside&gt;
+  &lt;p&gt;The A/B test was already planned and ready to go. I had to stop it, so we could first see if users understand the information correctly.&lt;/p&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;But we only found out about that because of the way the test was devised—qualitative feedback that can be quantified. The initial plan was to simply run a quantitative A/B test and see if it has an effect on our core business metrics. That would never teach us what we learned through this simple test. We couldn’t interpret the result correctly because we wouldn’t know if the users even understand the information presented. But the worst part is: we wouldn’t even know that. We would end up with an uneducated guess and we wouldn’t even realise it.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Always leave room for uncertainty. Not to the point where we’re paralysed by it and scared to make a choice. Decide based on the information you have at the moment but question your solution. Assume it’s wrong and try to prove it’s wrong. Failing is a better way to learn than running A/B tests to (sometimes falsely) confirm the validity of your solution. Forget your ego and forget your entitlement to be correct. Even if you have been doing this for years. Or maybe especially because of that. Things change, we need to remain humble and admit that we don’t understand everything and that we make mistakes. But if we admit it, we can learn from it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;em&gt;The Subtle Art of Not Giving a Fuck&lt;/em&gt; by Mark Manson (&lt;a href=&quot;https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck?ac=1&amp;amp;from_search=true&quot;&gt;source&lt;/a&gt;).&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Matej Latin</name></author><category term="personal-notes" /><category term="Design" /><summary type="html">Designers don’t know why a small change to an interface results in a massive drop in a core business metric, product managers don’t know what should go into the backlog and what not, developers don’t know how to estimate the delivery time of the fancy new feature. The whole team behind the product is so clueless that they don’t even know if the new feature brings any value to the users. </summary></entry><entry><title type="html">Specialised generalist</title><link href="http://localhost:4000/personal-notes/2017/08/06/specialised-generalist/" rel="alternate" type="text/html" title="Specialised generalist" /><published>2017-08-06T20:56:54+01:00</published><updated>2017-08-06T20:56:54+01:00</updated><id>http://localhost:4000/personal-notes/2017/08/06/specialised-generalist</id><content type="html" xml:base="http://localhost:4000/personal-notes/2017/08/06/specialised-generalist/">&lt;p&gt;Compared to them, I felt mediocre and I was frustrated because of it. You see, I never specialised in anything. Since I was a child, I had a habit of putting things together and create something out of that. I saw things differently from others. Where everyone else saw a cardboard box, I saw a cool military jeep that I could create out of it.&lt;/p&gt;
 
 &lt;p&gt;But that was different. Or at least, at that point I thought it was. I was studying management and economics at a local university when I turned my hobby into a small business that was enough to get by. I was doing proper UX/UI design work for clients worldwide. Looking back, I now realise I was doing well. But that didn’t mean much to me. People wouldn’t hire me to draw pretty illustrations and they wouldn’t hire me to do front-end development stuff. They hired me to bring their brands to life (yes back then I did that sort of work too) and design their websites. They hired me to design user experiences and do pretty much everything design-related for them—including building and deploying the websites I designed for their projects.  Believe it or not, that only fueled my frustration.&lt;/p&gt;
 
@@ -253,13 +333,4 @@
 
 &lt;p&gt;There was a lot of research done before we started working on redesigning the product and we didn’t expect to learn much. We were looking for a validation of what we had. But the people that we tested with started coming up with questions. “How do I buy a new car from this page?”, “Where can I see how long the car dealer has been in business?” etc. This were the questions that people haven’t asked until that point. We then explored why they were asking these questions and quickly went back to the drawing board. We updated the clickable wireframe and tested with a few more people. They had the same questions but this time they found the answers. &lt;/p&gt;
 
-&lt;p&gt;People don’t know what they want. That’s true. But they’ll know when something is missing. And you don’t want your product to be a bunch of features that completely miss what users want to do. Designers don’t know what people want. It’s not your job as a designer to know that by default. But it is your job to find out. If you’re designing for them, you have to know what their motivations are. Period. It’s not about the faster horses. It’s about the whys behind the faster horses.&lt;/p&gt;</content><author><name>Matej Latin</name></author><category term="personal-notes" /><category term="Design" /><summary type="html">“If I had asked people what they wanted, they would have said faster horses” is a quote attributed to Henry Ford. It’s a quote that many people use as an excuse not to do user testing. Because designers and product managers are supposed to be these geniuses that pull ideas out of thin air. Steve Jobs was one of those design/product gurus. All the designer and product manager wannabes have a quote or two from Steve that they hold close to their heart so they feel more secure about themselves. But neither Steve or Henry became famous for their ideas because they would be original. They weren’t. Steve didn’t make the first computer and Henry didn’t make the first car (he made the first car assembly line).</summary></entry><entry><title type="html">Breaking through a creative block</title><link href="http://localhost:4000/personal-notes/2016/09/21/breaking-through-a-creative-block/" rel="alternate" type="text/html" title="Breaking through a creative block" /><published>2016-09-21T20:56:54+01:00</published><updated>2016-09-21T20:56:54+01:00</updated><id>http://localhost:4000/personal-notes/2016/09/21/breaking-through-a-creative-block</id><content type="html" xml:base="http://localhost:4000/personal-notes/2016/09/21/breaking-through-a-creative-block/">&lt;p&gt;I’m sure you know these moments too. Working hard on something but not getting anywhere with it. Through all these years I found three approaches that help me through these moments. Most of the times they work. But sometimes they don’t and I ship average work, feel bad about it and can’t wait to get back and improve it. Anyway, here they are.&lt;/p&gt;
-
-&lt;h2 id=&quot;force-my-way-through-with-hard-work&quot;&gt;Force my way through with hard work&lt;/h2&gt;
-&lt;p&gt;How many times have I spent hours of work on a project that needed to be done yesterday but still wasn’t going anywhere. The feeling of frustration grows until you’re fed up and need a break. I usually do take a break but a short one. The work needs to be done in a few hours and there’s nothing left but force my way through. A few hours of hard work after already a few hours of hard work is incredibly tough. But sometimes it’s all that is left. It may produce above average work at best but it will be done. It’s important to leave your perfectionism out of it when you need to take this approach. Momentum is the other important part. Don’t take long breaks. Take more shorter ones instead.&lt;/p&gt;
-
-&lt;h2 id=&quot;work-on-something-else&quot;&gt;Work on something else&lt;/h2&gt;
-&lt;p&gt;This approach will only work if you have the luxury to postpone the work for a little while. Working on one thing for hours will narrow your focus and you won’t be able to see the big picture anymore. You might also need a different perspective on the work but after hours spent on it, you’re too heavily invested. You need to get away from the work and work on something else for a while. Spend an hour or even less trying to find a solution to another problem, then get back to the original task. You’ll fell slightly refreshed and more eager to continue the work. Smaller tasks are the best for intermediate shift of focus. Try to complete at least a few to motivate you even more.&lt;/p&gt;
-
-&lt;h2 id=&quot;sleep-on-it&quot;&gt;Sleep on it&lt;/h2&gt;
-&lt;p&gt;The last approach is not for the rushed projects that need to be done on the same day. This will only work if you can get back to work on another day but might be the most effective. Our subconscious mind is more effective at finding patterns than the conscious one. After spending hours of hard work on a problem your brain will do you a favour of trying to find a solution while you sleep. That’s why it’s much better to study for an exam before you go to sleep, not in the morning just before the exam (tell that to the young version of me). You’ll have a better picture of the problem you’re trying to solve and sometimes even a solution. This approach is great for tougher problems that need time. Others use this approach quite effectively as well. The key is that you need to spend a few hours working hard on the problem. Maybe just before you go to sleep as well. Then let your brain do the heavy lifting.&lt;/p&gt;</content><author><name>Matej Latin</name></author><category term="personal-notes" /><category term="Productivity" /><summary type="html">I’m sure you know these moments too. Working hard on something but not getting anywhere with it. Through all these years I found three approaches that help me through these moments. Most of the times they work. But sometimes they don’t and I ship average work, feel bad about it and can’t wait to get back and improve it. Anyway, here they are.</summary></entry></feed>
+&lt;p&gt;People don’t know what they want. That’s true. But they’ll know when something is missing. And you don’t want your product to be a bunch of features that completely miss what users want to do. Designers don’t know what people want. It’s not your job as a designer to know that by default. But it is your job to find out. If you’re designing for them, you have to know what their motivations are. Period. It’s not about the faster horses. It’s about the whys behind the faster horses.&lt;/p&gt;</content><author><name>Matej Latin</name></author><category term="personal-notes" /><category term="Design" /><summary type="html">“If I had asked people what they wanted, they would have said faster horses” is a quote attributed to Henry Ford. It’s a quote that many people use as an excuse not to do user testing. Because designers and product managers are supposed to be these geniuses that pull ideas out of thin air. Steve Jobs was one of those design/product gurus. All the designer and product manager wannabes have a quote or two from Steve that they hold close to their heart so they feel more secure about themselves. But neither Steve or Henry became famous for their ideas because they would be original. They weren’t. Steve didn’t make the first computer and Henry didn’t make the first car (he made the first car assembly line).</summary></entry></feed>
