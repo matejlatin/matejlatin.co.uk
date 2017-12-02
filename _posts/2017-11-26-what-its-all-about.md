@@ -4,6 +4,7 @@ title:  What it’s all about
 date:   2017-11-25 19:56:54 +0000
 author: Matej Latin
 category: personal-notes
+comments: true
 tags:
 - Startup
 - Design
