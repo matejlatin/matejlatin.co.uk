@@ -40,6 +40,8 @@ Both of them showed zero interest in me as a candidate, none of them even bother
 I didn’t make it to the final round but the way they made me feel caused me to doubt my wish to join the company. The only thing that really attracted me was their big name and the possibility to do product design well. 
 
 ## 4. Looking to get free work through “design tasks”
+A designer told me a story about how he recently applied for a job at a cool investment startup but was asked to do not one, but two design tasks. He completed both of them but was turned down. He was told that they wanted the problems solved in a way that would be unusual to them—whatever that means. I wouldn’t be surprised if that startup ended up using some of the work he did for them for free.
+
 If you’re still asking the designers to do test design tasks to evaluate their capabilities you need to stop. With the little information that you’ll give them, they won’t be able to come up with a viable solution and you’re wasting their time. Plenty has been written about this but here’s a quick recap: the best way to evaluate designers is through an on-site whiteboard challenge where they can interact with other people from the company so they can get the required information to do the job. Acquiring information is a fundamental part of design and by sending a task over email and letting them come up with a solution in isolation is a recipe for disaster. Good design doesn’t happen in isolation. 
 
 ## 5. Not involving other people from the company
