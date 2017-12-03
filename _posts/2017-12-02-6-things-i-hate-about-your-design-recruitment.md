@@ -10,7 +10,7 @@ tags:
 - Design
 ---
 
-Yesterday I read the [6 things I hate about your design CV](https://blog.usejournal.com/6-things-i-hate-about-your-design-cv-349b52e6a5c6). I found myself on the hiring side numerous times already and although a bit disrespectful, the article genuinely offers good advice for designers that are just starting out. Finding and hiring good designers is hard and yes, companies get all sorts of applications. There’s simply a lot of it to get through—many people out there trying to start their design career. 
+Yesterday I read the [6 things I hate about your design CV](https://blog.usejournal.com/6-things-i-hate-about-your-design-cv-349b52e6a5c6) article. I found myself on the hiring side numerous times already and although a bit disrespectful, the article genuinely offers good advice for designers that are just starting out. Finding and hiring good designers is hard and yes, companies get all sorts of applications. There’s simply a lot of it to get through—many people out there trying to start their design career. 
 
 In contrast to the mentioned article, I wanted to look at how companies get things wrong in the design hiring process because, well, there are a lot of them that do it poorly. It’s not as one-sided as it looks, or as some would want you to think.The things in my list are mostly based on my own experiences or inspired by stories other designers told me. 6 things that I hate about your design recruitment, here goes.
 
