@@ -32,6 +32,7 @@ gems:
   - jemoji
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
