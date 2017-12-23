@@ -1389,6 +1389,9 @@ h6 {
   font-weight: 600; }
 
 @media screen and (min-width: 64em) {
+  article.post h2 {
+    margin-top: 3.125rem; }
+
   .no-margin {
     margin: 0; }
 
@@ -1407,7 +1410,7 @@ h6 {
   h3 {
     font-size: 1.375rem;
     line-height: 1.52632rem;
-    margin-top: 3.05263rem;
+    margin-top: 1.52632rem;
     margin-bottom: 0.76316rem; }
 
   h4 {
@@ -1545,6 +1548,9 @@ svg:not(:root) {
   @media screen and (min-width: 64em) {
     .author {
       max-width: 90px; } }
+
+.floatRight img {
+  max-width: 150px; }
 
 ul,
 ol {

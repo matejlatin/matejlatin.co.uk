@@ -30,11 +30,15 @@ $headings: (
   $headings: (
     h1: (6.5, 4, 1, 2),
     h2: (1.6875, 1.25, 0, .5),
-    h3: (1.375, 1, 2, .5),
+    h3: (1.375, 1, 1, .5),
     h4: (1.2, 1, 1.5, .5),
     h5: (1, 1, 2.5, .5),
     h6: (1, 1, 2.5, .5)
   );
+
+  article.post h2 {
+    @include margin-top(2);
+  }
 
   @import '../mixins/font-size';
   @import '../mixins/line-height';
