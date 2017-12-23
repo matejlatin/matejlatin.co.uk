@@ -17,7 +17,7 @@ Last year I challenged myself to read 40 books, this year, I skipped that challe
 
 Anyway, here’s a list of books that I read this year and really liked. They’re not sorted in any particular order and none of them is directly design-related. I would categorise most of them as books about productivity, entrepreneurship, business and life in general.
 
-## $100 Startup
+## The $100 Startup
 {% include image.html url="https://images.gr-assets.com/books/1388254436l/18883826.jpg" description="By Chris Guillebeau" float="Right" %}
 The first book that I read immediately after the new year. I received a Kindle Paperwhite as a Christmas gift and this was the first book that I bought with it. I loved the book so much, that I read it in just a few days.
 
