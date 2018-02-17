@@ -786,7 +786,7 @@ License URL ... https://raw.githubusercontent.com/matejlatin/Gutenberg/master/li
   @media screen and (min-width: 40em) {
     .grid, .grid-double {
       background-size: 100% 29px;
-      background-size: 100% 1.52632rem; } }
+      background-size: 100% 1.5263157895rem; } }
 
 .grid-double {
   background-image: linear-gradient(to bottom, rgba(0, 170, 255, 0.3) 1px, transparent 1px, transparent 2pxpx, rgba(0, 170, 255, 0.2) 2pxpx, transparent 3pxpx, transparent 4pxpx); }
@@ -875,8 +875,8 @@ html {
   margin: 0rem 0rem 1.5625rem; }
   @media screen and (min-width: 40em) {
     * {
-      line-height: 1.52632rem;
-      margin-bottom: 1.52632rem; }
+      line-height: 1.5263157895rem;
+      margin-bottom: 1.5263157895rem; }
       * .no-margin {
         margin: 0; } }
 
@@ -1175,7 +1175,7 @@ figcaption {
   margin-bottom: 0; }
   @media screen and (min-width: 40em) {
     figcaption {
-      line-height: 1.52632rem;
+      line-height: 1.5263157895rem;
       margin-bottom: 0; } }
 
 figure {
@@ -1189,7 +1189,7 @@ figure > img {
   figure.floatRight {
     max-width: 20rem;
     margin-bottom: 0;
-    padding: 0rem 1.52632rem; }
+    padding: 0rem 1.5263157895rem; }
     figure.floatLeft .no-margin,
     figure.floatRight .no-margin {
       margin: 0; } }
@@ -1205,7 +1205,7 @@ figure > img {
   figure.floatLeft blockquote p,
   figure.floatRight blockquote p {
     font-size: 1.2rem;
-    line-height: 1.52632rem; } }
+    line-height: 1.5263157895rem; } }
 
 .highlight {
   margin-left: -2em;
@@ -1288,7 +1288,7 @@ input[type="submit"] {
 label {
   display: block;
   width: 100%;
-  margin-bottom: 0.39063rem; }
+  margin-bottom: 0.390625rem; }
 
 .field-group {
   margin-bottom: 0rem; }
@@ -1355,7 +1355,7 @@ h1 {
 
 h2 {
   font-size: 1.6875rem;
-  line-height: 1.95313rem;
+  line-height: 1.953125rem;
   margin-top: 2.34375rem;
   margin-bottom: 0.78125rem;
   font-weight: 600; }
@@ -1397,44 +1397,44 @@ h6 {
 
   h1 {
     font-size: 6.5rem;
-    line-height: 6.10526rem;
-    margin-top: 1.52632rem;
-    margin-bottom: 3.05263rem; }
+    line-height: 6.1052631579rem;
+    margin-top: 1.5263157895rem;
+    margin-bottom: 3.0526315789rem; }
 
   h2 {
     font-size: 1.6875rem;
-    line-height: 1.90789rem;
+    line-height: 1.9078947368rem;
     margin-top: 0rem;
-    margin-bottom: 0.76316rem; }
+    margin-bottom: 0.7631578947rem; }
 
   h3 {
     font-size: 1.375rem;
-    line-height: 1.52632rem;
-    margin-top: 1.52632rem;
-    margin-bottom: 0.76316rem; }
+    line-height: 1.5263157895rem;
+    margin-top: 1.5263157895rem;
+    margin-bottom: 0.7631578947rem; }
 
   h4 {
     font-size: 1.2rem;
-    line-height: 1.52632rem;
-    margin-top: 2.28947rem;
-    margin-bottom: 0.76316rem; }
+    line-height: 1.5263157895rem;
+    margin-top: 2.2894736842rem;
+    margin-bottom: 0.7631578947rem; }
 
   h5 {
     font-size: 1rem;
-    line-height: 1.52632rem;
-    margin-top: 3.81579rem;
-    margin-bottom: 0.76316rem; }
+    line-height: 1.5263157895rem;
+    margin-top: 3.8157894737rem;
+    margin-bottom: 0.7631578947rem; }
 
   h6 {
     font-size: 1rem;
-    line-height: 1.52632rem;
-    margin-top: 3.81579rem;
-    margin-bottom: 0.76316rem; } }
+    line-height: 1.5263157895rem;
+    margin-top: 3.8157894737rem;
+    margin-bottom: 0.7631578947rem; } }
 h1 + h2 {
   margin-top: 1.5625rem; }
   @media screen and (min-width: 64em) {
     h1 + h2 {
-      margin-top: 1.52632rem; }
+      margin-top: 1.5263157895rem; }
       h1 + h2 .no-margin {
         margin: 0; } }
 
@@ -1446,7 +1446,7 @@ h4 + h5 {
     h2 + h3,
     h3 + h4,
     h4 + h5 {
-      margin-top: 0.76316rem; }
+      margin-top: 0.7631578947rem; }
       h2 + h3 .no-margin,
       h3 + h4 .no-margin,
       h4 + h5 .no-margin {
@@ -1456,7 +1456,7 @@ h5 + h6 {
   margin-top: -0.78125rem; }
   @media screen and (min-width: 64em) {
     h5 + h6 {
-      margin-top: -0.76316rem; }
+      margin-top: -0.7631578947rem; }
       h5 + h6 .no-margin {
         margin: 0; } }
 
@@ -1517,14 +1517,14 @@ hr {
   width: 80px; }
   @media screen and (min-width: 40em) {
     hr {
-      margin-top: 3.05263rem;
+      margin-top: 3.0526315789rem;
       margin-bottom: 0rem;
-      height: 1.52632rem; }
+      height: 1.5263157895rem; }
       hr .no-margin {
         margin: 0; } }
   @media screen and (min-width: 40em) {
     hr {
-      background-size: 100% 1.52632rem;
+      background-size: 100% 1.5263157895rem;
       background-image: linear-gradient(to bottom, transparent 1px, transparent 13.5, #2f2f2f 13.5, #2f2f2f 15.5, transparent 15.5, transparent 29); } }
 
 img {
@@ -1585,7 +1585,7 @@ figure blockquote {
   padding: 1.5625rem 0rem; }
   @media screen and (min-width: 40em) {
     figure blockquote {
-      padding: 3.05263rem 0rem 1.52632rem; } }
+      padding: 3.0526315789rem 0rem 1.5263157895rem; } }
   figure blockquote p {
     font-size: 1.75rem;
     line-height: 2.34375rem;
@@ -1595,7 +1595,7 @@ figure blockquote {
     @media screen and (min-width: 40em) {
       figure blockquote p {
         font-size: 1.8rem;
-        line-height: 2.28947rem;
+        line-height: 2.2894736842rem;
         margin-bottom: 0.78125rem; } }
   figure blockquote cite {
     margin-bottom: 0; }
@@ -1643,7 +1643,7 @@ small {
   font-size: 70%; }
   @media screen and (min-width: 64em) {
     small {
-      line-height: 0.76316rem; } }
+      line-height: 0.7631578947rem; } }
 
 sub,
 sup {
@@ -1704,7 +1704,7 @@ sub {
 .about-paragraph {
   max-width: 225px;
   line-height: 1.25rem;
-  margin-top: 0.39063rem; }
+  margin-top: 0.390625rem; }
 
 strong, b {
   font-weight: 600; }
