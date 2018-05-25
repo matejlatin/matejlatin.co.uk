@@ -9,11 +9,11 @@
 			],
 			[
 				"add",
-				"addClass	jQuery"
+				"addClass\tjQuery"
 			],
 			[
 				"img",
-				"img	Markdown image"
+				"img\tMarkdown image"
 			],
 			[
 				"padd",
@@ -21,7 +21,7 @@
 			],
 			[
 				"a",
-				"a	Tag"
+				"a\tTag"
 			]
 		]
 	},
@@ -32,46 +32,16 @@
 			"settings":
 			{
 				"buffer_size": 814,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_posts/2016-08-18-i-quit-design-twice.md",
+			"file": "index.md",
 			"settings":
 			{
-				"buffer_size": 4592,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/related-posts.html",
-			"settings":
-			{
-				"buffer_size": 1534,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/modules/_heading.scss",
-			"settings":
-			{
-				"buffer_size": 3147,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "articles.md",
-			"settings":
-			{
-				"buffer_size": 519,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/head.html",
-			"settings":
-			{
-				"buffer_size": 1332,
+				"buffer_size": 994,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -80,6 +50,15 @@
 			"settings":
 			{
 				"buffer_size": 7417,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/modules/_text.scss",
+			"settings":
+			{
+				"buffer_size": 3073,
 				"line_ending": "Unix"
 			}
 		},
@@ -87,7 +66,7 @@
 			"file": "_includes/image.html",
 			"settings":
 			{
-				"buffer_size": 234,
+				"buffer_size": 327,
 				"line_ending": "Unix"
 			}
 		},
@@ -96,62 +75,6 @@
 			"settings":
 			{
 				"buffer_size": 14205,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/modules/_list.scss",
-			"settings":
-			{
-				"buffer_size": 99,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 1423,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/_gutenberg-config.scss",
-			"settings":
-			{
-				"buffer_size": 2573,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/post.html",
-			"settings":
-			{
-				"buffer_size": 1048,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/header.html",
-			"settings":
-			{
-				"buffer_size": 1645,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "main.js",
-			"settings":
-			{
-				"buffer_size": 1735,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/layout/_base.scss",
-			"settings":
-			{
-				"buffer_size": 3534,
 				"line_ending": "Unix"
 			}
 		}
@@ -163,10 +86,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 237.0,
-		"last_filter": "reind",
+		"height": 400.0,
+		"last_filter": "packag",
 		"selected_items":
 		[
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"reind",
 				"Indentation: Reindent Lines"
@@ -202,13 +133,9 @@
 			[
 				"packa",
 				"Package Control: List Packages"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			]
 		],
-		"width": 475.0
+		"width": 440.0
 	},
 	"console":
 	{
@@ -229,11 +156,22 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/matej.latin/Git/matejlatin.co.uk",
-		"/Users/matej.latin/Git/matejlatin.co.uk/_posts"
+		"/Users/matejlatin/git/matejlatin.co.uk"
 	],
 	"file_history":
 	[
+		"/Users/matejlatin/git/matejlatin.co.uk/_posts/2016-08-18-i-quit-design-twice.md",
+		"/Users/matejlatin/git/matejlatin.co.uk/_includes/related-posts.html",
+		"/Users/matejlatin/git/matejlatin.co.uk/_sass/modules/_heading.scss",
+		"/Users/matejlatin/git/matejlatin.co.uk/articles.md",
+		"/Users/matejlatin/git/matejlatin.co.uk/_includes/head.html",
+		"/Users/matejlatin/git/matejlatin.co.uk/_sass/layout/_base.scss",
+		"/Users/matejlatin/git/matejlatin.co.uk/main.js",
+		"/Users/matejlatin/git/matejlatin.co.uk/_includes/header.html",
+		"/Users/matejlatin/git/matejlatin.co.uk/_layouts/post.html",
+		"/Users/matejlatin/git/matejlatin.co.uk/_sass/_gutenberg-config.scss",
+		"/Users/matejlatin/git/matejlatin.co.uk/_config.yml",
+		"/Users/matejlatin/git/matejlatin.co.uk/_sass/modules/_list.scss",
 		"/Users/matej.latin/Git/matejlatin.co.uk/_posts/2017-04-30-how-i-use-trello-to-get-things-done.md",
 		"/Users/matej.latin/Git/matejlatin.co.uk/_includes/quote-large.html",
 		"/Users/matej.latin/Git/matejlatin.co.uk/_sass/modules/_quote.scss",
@@ -333,7 +271,7 @@
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -369,7 +307,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -399,112 +337,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_posts/2016-08-18-i-quit-design-twice.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4592,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4164,
-								4164
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_includes/related-posts.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1534,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								96,
-								96
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_sass/modules/_heading.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3147,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2705,
-								2705
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "articles.md",
+					"buffer": 1,
+					"file": "index.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 519,
+						"buffer_size": 994,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								214,
-								334
+								972,
+								972
 							]
 						],
 						"settings":
@@ -519,37 +369,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "_includes/head.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1332,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								159,
-								159
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
+					"buffer": 2,
 					"file": "_posts/2017-04-30-getting-things-done-with-trello.md",
 					"semi_transient": false,
 					"settings":
@@ -561,8 +381,8 @@
 						"selection":
 						[
 							[
-								622,
-								622
+								927,
+								927
 							]
 						],
 						"settings":
@@ -577,20 +397,50 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "_includes/image.html",
+					"buffer": 3,
+					"file": "_sass/modules/_text.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 234,
+						"buffer_size": 3073,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_includes/image.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
 							]
 						],
 						"settings":
@@ -601,11 +451,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 5,
 					"file": "_sass/_flexbox-grid.scss",
 					"semi_transient": false,
 					"settings":
@@ -623,7 +473,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -631,213 +481,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "_sass/modules/_list.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 99,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								97,
-								97
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1423,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "_sass/_gutenberg-config.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2573,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "_layouts/post.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1048,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								596,
-								596
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "_includes/header.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1645,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1735,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1735,
-								1735
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "_sass/layout/_base.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3534,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1047.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -891,6 +535,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"text",
+				"_sass/modules/_text.scss"
+			],
+			[
+				"inde",
+				"index.md"
+			],
+			[
+				"base",
+				"_sass/layout/_base.scss"
+			],
 			[
 				"image",
 				"_includes/image.html"
@@ -984,20 +640,12 @@
 				"_posts/2015-12-23-kebab-shop-ux.md"
 			],
 			[
-				"text",
-				"_sass/modules/_text.scss"
-			],
-			[
 				"footer",
 				"_includes/footer.html"
 			],
 			[
 				"main",
 				"main.js"
-			],
-			[
-				"base",
-				"_sass/layout/_base.scss"
 			],
 			[
 				"header",
@@ -1160,7 +808,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": false,
-	"side_bar_width": 150.0,
+	"side_bar_width": 232.0,
 	"status_bar_visible": false,
 	"template_settings":
 	{
