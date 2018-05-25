@@ -37,4 +37,4 @@ All this is something I had before but I never really appreciated it until I exp
 Working remotely comes with its own set of challenges but can also give you a better control over your life. That’s something that really matters to me and that’s what ultimately lead me to make a decision to go back to working like this.
 
 ---
-How is your work life? Do you work in an office or remotely? How is it working out for you? Share your thoughts with me in the comments bellow.
+How is your work life? Do you work in an office or remotely? How is it working out for you? Share your thoughts with me in the [comments bellow](#comments).
