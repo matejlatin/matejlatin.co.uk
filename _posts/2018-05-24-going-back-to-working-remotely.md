@@ -28,7 +28,7 @@ Five years into it and I had enough. How the hell do people manage to do this fo
 ## How does working remotely help?
 I had worked remotely before when I freelanced but it was never full-time. And it was never for a fully-remote company. The only difference in my routine is that now I actually manage to stick with it. I still get up early, exercise, read, get to work at the same time, have lunch at the same time and wrap up work at roughly the same time as well. Without commuting, I now have more energy to spend on actually working. In general, I have more time to spend with my family (my wife and our cat for now) and I also have enough energy to spend working on my own things in the evening—without burning out.
 
-{% include quote-float-right.html quote="No standups, few meetings and unlike most remote companies, no need for my working hours to overlap with the colleagues from across the ocean." %}
+{% include quote-float-right.html quote="No standups, few meetings and no need for my working hours to overlap with the colleagues from across the ocean." %}
 
 Working for a company like GitLab also helps a lot. Because we work on a tool that helps people collaborate asynchronously, we’re encouraged to work asynchronously ourselves. That means no standups, only few meetings and unlike most remote companies, no need for my working hours to overlap with the colleagues from across the ocean. The other day I washed my car in the morning and it wasn’t a problem even though it took me a couple of hours (believe it or not, I really enjoy washing my car 😅). I’m now in the coffee shop writing this post and I’ll go home shortly after and spend a few hours working and actually being productive.
 
