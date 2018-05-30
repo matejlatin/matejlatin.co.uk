@@ -1540,7 +1540,7 @@ svg:not(:root) {
   max-width: 100%; }
   @media screen and (min-width: 64em) {
     .featured {
-      max-width: 683px; } }
+      max-width: 898px; } }
 
 .author {
   margin-right: 0;
