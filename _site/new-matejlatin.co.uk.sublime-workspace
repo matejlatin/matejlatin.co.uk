@@ -46,10 +46,10 @@
 			}
 		},
 		{
-			"file": "_posts/2018-06-23-standups-suck.md",
+			"file": "main.js",
 			"settings":
 			{
-				"buffer_size": 1134,
+				"buffer_size": 2219,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -64,27 +64,37 @@
 			}
 		},
 		{
-			"file": "_includes/quote-float-right.html",
+			"file": "contact.md",
 			"settings":
 			{
-				"buffer_size": 174,
+				"buffer_size": 257,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_sass/modules/_text.scss",
+			"file": "_includes/footer.html",
 			"settings":
 			{
-				"buffer_size": 3073,
+				"buffer_size": 1060,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/image.html",
+			"file": "_layouts/about.html",
 			"settings":
 			{
-				"buffer_size": 327,
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/quote-float-right.html",
+			"settings":
+			{
+				"buffer_size": 174,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -170,6 +180,11 @@
 	],
 	"file_history":
 	[
+		"/Users/matejlatin/git/matejlatin.co.uk/_posts/2018-06-23-standups-suck.md",
+		"/Users/matejlatin/git/matejlatin.co.uk/_includes/footer.html",
+		"/Users/matejlatin/git/matejlatin.co.uk/_includes/head.html",
+		"/Users/matejlatin/git/matejlatin.co.uk/_includes/image.html",
+		"/Users/matejlatin/git/matejlatin.co.uk/_sass/modules/_text.scss",
 		"/Users/matejlatin/git/matejlatin.co.uk/index.md",
 		"/Users/matejlatin/git/matejlatin.co.uk/_sass/modules/_image.scss",
 		"/Users/matejlatin/git/matejlatin.co.uk/_includes/featured-in.html",
@@ -183,7 +198,6 @@
 		"/Users/matejlatin/git/matejlatin.co.uk/_includes/related-posts.html",
 		"/Users/matejlatin/git/matejlatin.co.uk/_sass/modules/_heading.scss",
 		"/Users/matejlatin/git/matejlatin.co.uk/articles.md",
-		"/Users/matejlatin/git/matejlatin.co.uk/_includes/head.html",
 		"/Users/matejlatin/git/matejlatin.co.uk/_sass/layout/_base.scss",
 		"/Users/matejlatin/git/matejlatin.co.uk/_layouts/post.html",
 		"/Users/matejlatin/git/matejlatin.co.uk/_sass/_gutenberg-config.scss",
@@ -288,7 +302,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -303,6 +317,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"http:",
 			".hide",
 			".row",
 			"-5em",
@@ -324,7 +339,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -354,7 +369,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -382,35 +397,40 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "_posts/2018-06-23-standups-suck.md",
+					"file": "main.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1134,
+						"buffer_size": 2219,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								735,
-								735
+								113,
+								113
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"SL.296.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -432,6 +452,70 @@
 						],
 						"settings":
 						{
+							"SL.291.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "contact.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_includes/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"SL.307.region_keys":
+							[
+							],
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -444,7 +528,38 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 6,
+					"file": "_layouts/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"SL.306.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
 					"file": "_includes/quote-float-right.html",
 					"semi_transient": false,
 					"settings":
@@ -468,65 +583,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_sass/modules/_text.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3073,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								299,
-								299
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_includes/image.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 327,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								327,
-								327
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
@@ -563,6 +620,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -581,16 +642,28 @@
 		"selected_items":
 		[
 			[
+				"foot",
+				"_includes/footer.html"
+			],
+			[
+				"about",
+				"_layouts/about.html"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"main",
+				"main.js"
+			],
+			[
 				"imag",
 				"_sass/modules/_image.scss"
 			],
 			[
 				"featur",
 				"_includes/featured-in.html"
-			],
-			[
-				"main",
-				"main.js"
 			],
 			[
 				"hea",
@@ -627,10 +700,6 @@
 			[
 				"image",
 				"_includes/image.html"
-			],
-			[
-				"head",
-				"_includes/head.html"
 			],
 			[
 				"articl",
@@ -691,10 +760,6 @@
 			[
 				"article",
 				"articles.md"
-			],
-			[
-				"about",
-				"_layouts/about.html"
 			],
 			[
 				"colour",
