@@ -49,7 +49,7 @@
 			"file": "_posts/2018-06-23-standups-suck.md",
 			"settings":
 			{
-				"buffer_size": 1130,
+				"buffer_size": 1134,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -391,15 +391,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1130,
+						"buffer_size": 1134,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								441,
-								441
+								735,
+								735
 							]
 						],
 						"settings":
@@ -874,7 +874,7 @@
 	"show_tabs": true,
 	"side_bar_visible": false,
 	"side_bar_width": 232.0,
-	"status_bar_visible": false,
+	"status_bar_visible": true,
 	"template_settings":
 	{
 	}
