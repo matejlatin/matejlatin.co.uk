@@ -5,6 +5,8 @@ permalink: /about-site/
 ---
 <p class="attention-grabber">The sole purpose of this website is to share my thoughts and findings with my fellow designers and developers. This website will never feature promoted content or any form of advertising.</p>
 
+If you find any spelling errors or anything else wrong with the website, [get in touch](/contact).
+
 ## Made with
 - [Gutenberg](http://matejlatin.github.io/Gutenberg/) — A meaningful web typography starter kit,
 - [Jekyll](https://jekyllrb.com/) as CMS,
