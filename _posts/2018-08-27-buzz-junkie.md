@@ -13,7 +13,9 @@ intro: A short story about overcoming my addiction to meaninglessness of social 
 
 It’s early in the morning, probably around 7 because it’s still quite dark outside. I’m reading a book and trying to relax a bit before another busy day, my phone is resting on the table not too far away from me, but still out of reach. The book is about stoicism and a lot of topics in it are about having control over our lives.
 
-“Buzzz, buzzz!” The phone suddenly comes to life with vibrating sounds and light emitting from the screen that turns on. As it does, it slightly brightens up the room with its blueish glow.
+<div class="conversation">
+  <p class="indent">“Buzzz, buzzz!” The phone suddenly comes to life with vibrating sounds and light emitting from the screen that turns on. As it does, it slightly illuminates the dark room with its blueish glow.</p>
+</div>
 
 A wave of emotions hits me. Excitement, mixed with a bit of fear and anticipation—is it someone who needs my help? Someone from my subscribers telling me about their story? Is it someone sending me feedback about my book? I jump from my armchair and frantically rush to press the button to turn the screen back on. The moments seem like minutes before I finally get to see what the notifications is. It’s Twitter. “Rob White just liked a photo by Hung Lee…” What?! Who the fuck are these people and why the fuck should I care? You disturbed my morning routine, made me get up from the chair, destroyed my focus, made me feel anxious and interrupted me while reading the book and this is what I get in return?!
 
