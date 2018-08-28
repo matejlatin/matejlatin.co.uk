@@ -33,7 +33,7 @@ figure blockquote {
     @include line-height(1.5);
     @include margin-bottom(0.5);
     // font-weight: 600;
-    font-style: normal;
+    font-style: italic;
     max-width: none;
 
     @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
