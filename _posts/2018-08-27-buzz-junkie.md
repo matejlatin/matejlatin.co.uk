@@ -8,7 +8,7 @@ comments: true
 tags:
 - Day-to-day
 - Productivity
-intro: A short story about overcoming my addiction to meaninglessness of social media and smart phones.
+intro: A short story about overcoming my addiction to the meaninglessness of social media and smart phones.
 ---
 
 It’s early in the morning, probably around 7 because it’s still quite dark outside. I’m reading a book and trying to relax a bit before another busy day, my phone is resting on the table not too far away from me, but still out of reach. The book is about stoicism and a lot of topics in it are about having control over our lives.
