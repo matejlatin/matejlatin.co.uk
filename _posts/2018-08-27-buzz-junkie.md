@@ -21,7 +21,7 @@ It’s early in the morning, probably around 7 because it’s still quite dark o
 
 A wave of emotions hits me. Excitement, mixed with a bit of fear and anticipation—is it someone who needs my help? Someone from my subscribers telling me about their story? Is it someone sending me feedback about my book? I jump from my armchair and frantically rush to press the button to turn the screen back on. The moments seem like minutes before I finally get to see what the notifications is. It’s Twitter. “Rob White just liked a photo by Hung Lee…” What?! Who the fuck are these people and why the fuck should I care? You disturbed my morning routine, made me get up from the chair, destroyed my focus, made me feel anxious and interrupted me while reading the book and this is what I get in return?!
 
-{% include quote-float-right.html quote="What?! Who the fuck are these people and why the fuck should I care?" %}
+{% include quote-float-right.html quote="What?! Who the fuck are these people and why the fuck should I&nbsp;care?" %}
 
 I used to take my phone everywhere with me—always in my side pocket. I would jump on it like a starved lion jumps on a fresh piece of meat whenever it buzzed. I would check in on it even when it didn’t buzz. Shit, sometimes I would even check it a couple of times in a single minute. I always expected something important and meaningful to show up on that screen but most of the time, the screen was either full of junk or worse—empty. When it was empty I would go on and unlock the phone and start checking in on every app that I commonly used. *There’s gotta be something there but the notification probably didn’t come through*, is what I was thinking.
 
