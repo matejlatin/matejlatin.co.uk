@@ -24,7 +24,7 @@ After high school, just like almost anyone at my age, I went to study at a local
 
 What a load of bullshit. I couldn’t stay away from designing websites. By that time, I wasn’t playing video games that much anymore. I unawarely started enjoying web design more. Studying didn’t suffer at all, as I finished top of the class, but now it was time to find a “proper” job.
 
-## Getting a proper job
+## Getting a “proper” job
 I’d just wrapped up studying and I was left with a degree that would secure me a good job. I actually believed that. But nobody wanted a clueless twenty-something guy who was fresh out of university so finding a “proper” job proved impossible. At some point I became so desperate, that I just wanted to start working at a local electronics shop but even they didn’t want me.
 
 After a while, I finally got a job. It was the best job in the shithole town where I come from. The best in terms of what a guy like me could wish for.  So I became a Business Process Manager at a local bank which is a part of a large, global group. I had been running my own company until then, doing what I always did—web design.
