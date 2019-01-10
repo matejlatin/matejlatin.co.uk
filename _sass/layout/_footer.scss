@@ -1,10 +1,15 @@
 footer {
+  font-size: 15px;
   display: block;
-  @include margin-top(3);
 
   body > & {
     margin: 0 auto;
     width: 80%;
   }
 
+}
+
+.hide-mobile footer {
+  position: fixed;
+  bottom: 30px;
 }

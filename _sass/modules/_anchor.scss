@@ -1,17 +1,17 @@
 /* Links
 ========================================================================== */
 
-$color-link-normal: #F2545B;
-$color-link-hover: $color-font-body;
-$color-link-active: $color-link-normal;
-$color-link-visited: $color-link-normal;
+$color-link-normal: #254C79;
+$color-link-hover: $color-link-normal;
+$color-link-active: darken($color-link-normal, 10%);
+$color-link-visited: darken($color-link-normal, 10%);
 
-a {
+article a {
   background: transparent;
   color: $color-link-normal;
-  transition: color, border-color .3s;
+  transition: all .2s;
   text-decoration: none;
-  border-bottom: 3px solid #fff;
+  // border-bottom: 1px solid #fff;
 
   &:active,
   &:hover {
@@ -20,7 +20,8 @@ a {
 
   &:hover {
     color: $color-link-hover;
-    border-bottom: 3px solid $color-link-normal;
+    // border-bottom: 1px solid $color-link-hover;
+    text-decoration: underline;
   }
 
   &:visited {

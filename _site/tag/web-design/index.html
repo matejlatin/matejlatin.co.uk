@@ -69,7 +69,7 @@
       <header class="site-header" role="banner">
 
 <div class="wrapper fixed">
-
+  <img src="/favicon/apple-icon-152x152.png" alt="Matej Latin" width="76" class="hide-mobile">
     <a class="site-title lowercase" href="/">Matej Latin</a>
     <p class="hide-mobile about-paragraph">UX designer, author, minimalist, bookworm, typography geek.</p>
 
@@ -99,6 +99,40 @@
   </div>
 
 </header>
+
+<div class="hide-mobile">
+  <div id="msg" class="hidden">
+  <div class="curtain fullScreen">
+    <div class="table fullScreen">
+      <div class="msgContainer fullScreen">
+        <div id="msgContent">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="site-footer">
+  <a href="/contact">Contact</a> &ndash; <a href="/about-site">About site</a> &ndash; <a rel="alternate" type="application/rss+xml" href="https://matejlatin.co.uk/feed.xml">RSS</a> &ndash; <a href="http://twitter.com/matejlatin">Twitter</a>
+  <p>&copy; matejlatin.co.uk 2019</p>
+</footer>
+<script type="text/javascript">
+  $('.menu-icon').on('click', function(){
+    console.log('click menu');
+    $('#nav').removeClass();
+    $('#menu').removeClass().addClass('fadeIn animated');
+    $('.menu').removeClass('hide2');
+  });
+  $('.close-icon').on('click', function(){
+    console.log('click close');
+    $('#menu').removeClass().addClass('fadeOut animated').delay(300).queue(function(next){
+      $('.menu').addClass('hide2');
+      next();
+    });
+    // $('.menu').addClass('hide2');
+  });
+</script>
+<script id="dsq-count-scr" src="//matejlatin.disqus.com/count.js" async></script>
+</div>
     </div>
 
     <div class="col-xs-12 col-md-9 no-margin">
@@ -340,7 +374,8 @@
         </div>
       </main>
 
-      <div id="msg" class="hidden">
+      <div class="hide-desktop">
+        <div id="msg" class="hidden">
   <div class="curtain fullScreen">
     <div class="table fullScreen">
       <div class="msgContainer fullScreen">
@@ -352,7 +387,7 @@
 </div>
 <footer class="site-footer">
   <a href="/contact">Contact</a> &ndash; <a href="/about-site">About site</a> &ndash; <a rel="alternate" type="application/rss+xml" href="https://matejlatin.co.uk/feed.xml">RSS</a> &ndash; <a href="http://twitter.com/matejlatin">Twitter</a>
-  <p>&copy; matejlatin.co.uk 2018</p>
+  <p>&copy; matejlatin.co.uk 2019</p>
 </footer>
 <script type="text/javascript">
   $('.menu-icon').on('click', function(){
@@ -371,6 +406,7 @@
   });
 </script>
 <script id="dsq-count-scr" src="//matejlatin.disqus.com/count.js" async></script>
+      </div>
     </div>
   </div>
 

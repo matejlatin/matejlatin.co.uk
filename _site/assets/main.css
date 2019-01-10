@@ -1044,11 +1044,15 @@ body {
   clear: both; }
 
 footer {
-  display: block;
-  margin-top: 4.6875rem; }
+  font-size: 15px;
+  display: block; }
   body > footer {
     margin: 0 auto;
     width: 80%; }
+
+.hide-mobile footer {
+  position: fixed;
+  bottom: 30px; }
 
 header {
   display: block; }
@@ -1061,23 +1065,22 @@ section {
 
 /* Links
 ========================================================================== */
-a {
+article a {
   background: transparent;
-  color: #F2545B;
-  transition: color, border-color .3s;
-  text-decoration: none;
-  border-bottom: 3px solid #fff; }
-  a:active, a:hover {
+  color: #254C79;
+  transition: all .2s;
+  text-decoration: none; }
+  article a:active, article a:hover {
     outline: 0; }
-  a:hover {
-    color: #2f2f2f;
-    border-bottom: 3px solid #F2545B; }
-  a:visited {
-    color: #F2545B; }
-    a:visited:hover {
-      color: #2f2f2f; }
-  a:active {
-    color: #F2545B; }
+  article a:hover {
+    color: #254C79;
+    text-decoration: underline; }
+  article a:visited {
+    color: #193352; }
+    article a:visited:hover {
+      color: #254C79; }
+  article a:active {
+    color: #193352; }
 
 .post-meta a, figcaption a {
   color: #85868E;
