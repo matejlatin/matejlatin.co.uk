@@ -28,7 +28,7 @@ google_analytics: UA-36131831-6
 markdown: kramdown
 theme: minima
 permalink: pretty
-gems:
+plugins:
   - jemoji
   - jekyll-seo-tag
   - jekyll-sitemap
