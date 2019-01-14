@@ -5,9 +5,9 @@ permalink: /about/
 ---
 <p class="attention-grabber">I remember how when I was a child, I thought that designers are people that “design clothes”. That was the only perception of design I had.</p>
 
-{% include full-bleed-image.html url="/assets/images/matej-latin.jpg" %}
-
 I joined an after–school class when I was 13. There, I first played around with Front Page. Then I learned the basics of HTML by simply memorizing all the element tags. It felt like magic—I was able to create something out of nothing. But I had been doing that before.
+
+{% include full-bleed-image.html url="/assets/images/matej-latin.jpg" %}
 
 Growing up in a single-parent, working class family in Slovenia we couldn’t afford the toys a child wants. Also, back then, Slovenia just broke free from Yugoslavia. There was no free market and not that many products available under the crumbling socialist regime. But we could watch the Italian TV channels. Italy, being on the other side of the iron curtain, was quite the opposite. Watching cartoons meant that we also saw all the toy commercials that aired at the time. And that was a source of both, my frustration and my inspiration.
 

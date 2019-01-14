@@ -4,6 +4,7 @@ title:  My favourite books of 2017
 date:   2017-12-22 19:56:54 +0000
 author: Matej Latin
 category: personal-notes
+titlemax: 8
 comments: true
 tags:
 - Startup
@@ -26,7 +27,12 @@ Chris Guillebeau (the author) is a guy in his early thirties and never had a “
 ### What’s so good about it?
 Chris is an inspiration. He manages to live a lifestyle he wants and be completely free. He tells stories of other ordinary people that managed to break free. Free of “real jobs”, free of office desks an cubicles, free of all the bullshit. It was this book that inspired me to finally make one of my ideas happen—Better Web Type. You don’t need a lot of money to start your business. You just need to get shit done. And if what you’re selling is helpful to people, they will buy. And you can prove that what you’re saying is valuable by giving away stuff for free. We’ll get back to this concept later in the post.
 
-*Key takeaway: That idea that has been on your mind for the past few years? Go on and do it. “What if it fails?” is probably lurking somewhere in your mind. But what if it doesn’t? There’s nothing to lose.*
+### Key takeaway: 
+
+*That idea that has been on your mind for the past few years? Go on and do it. “What if it fails?” is probably lurking somewhere in your mind. But what if it doesn’t? There’s nothing to lose.*
+
+<div>
+</div>
 
 [$100 Startup on Goodreads →](https://www.goodreads.com/book/show/18883826-the-100-startup)
 
@@ -37,7 +43,11 @@ Chris is an inspiration. He manages to live a lifestyle he wants and be complete
 ### What’s so good about it?
 Jim Collins and his team of researchers spent 5 years researching American companies that stood out in their fields. After 6,000 articles and 2,000 pages of interviews transcript they came up with a list of a dozen of truly great companies. But the really important part was that they had a theory about what made these companies great and wrote down 7 key contributing factors and explored them. Definitely recommend this one but I have to warn you: reading it, you might realise that you work for a shit company.
 
-*Key takeaway: Any company can become a great company but most don’t know how but even if they do, they’re afraid to face the inevitable.*
+### Key takeaway: 
+
+*Any company can become a great company but most don’t know how but even if they do, they’re afraid to face the inevitable.*
+
+<div></div>
 
 [Good to great on Goodreads →](https://www.goodreads.com/book/show/76865.Good_to_Great)
 
@@ -48,7 +58,11 @@ I’ve been wanting to read this one for a while but kinda dreaded it because it
 ### What’s so good about it?
 This is the book that needs to be on your desk if you work in product design & development. Especially if you’re in a small team or maybe even by yourself. It will help you find out if there’s a market for the thing that you’re building. The process is basically split into two steps: customer discovery and customer validation. What I really liked about the edition of the book that I read was that it had sections dedicated to building digital products. I walked away with a much better understanding of how to approach building a product (or even a company), and many ideas I could put to test straight away. 
 
-*Key takeaway: You can find answers to pretty much anything by experimenting early and often.*
+### Key takeaway: 
+
+*You can find answers to pretty much anything by experimenting early and often.*
+
+<div></div>
 
 [The Startup Owner’s Manual on Goodreads →](https://www.goodreads.com/book/show/13557008-the-startup-owner-s-manual)
 
@@ -61,7 +75,11 @@ For decades, we’ve been told that positive thinking is the key to a happy, ric
 
 Mark draws inspiration from minimalism, stoicism (which is something I’ve been reading about a lot lately) and his personal life stories. By the end, I really felt like I knew him personally. A very interesting, inspiring read.
 
-*Key takeaway: You need to choose what’s important in your life and eliminate everything else. It’s hard to bring down a man who doesn’t give a flying fuck.*
+### Key takeaway: 
+
+*You need to choose what’s important in your life and eliminate everything else. It’s hard to bring down a man who doesn’t give a flying fuck.*
+
+<div></div>
 
 [The Subtle Art of Not Giving a Fuck on Goodreads →](https://www.goodreads.com/book/show/29965800-the-subtle-art-of-not-giving-a-f-ck)
 
@@ -72,7 +90,11 @@ I literally stumbled upon this book while browsing on my Kindle. Amazon suggeste
 ### What’s so good about it?
 Nicholas Lovell wrote this book based on his experience from building F2P (free-to-play) video games. But he manages to expand the book into other areas and does it well. His premises: build valuable things and give them away for free. Build a relationship with your customers based on trust and they’ll be ready to spend a lot of money on things that matter to them. The concept is simple: get in a lot of users by giving away stuff for free. Most of them will never buy from you, the majority of those that will buy, will spend an average amount on things you sell. But there will be a small amount of diehard fans that will be willing to spend lots of cash on things that really matter to them—that’s where the name—“The Curve”—comes from.
 
-*Key takeaway: Build your customer relationship on trust and you’ll never have trouble selling your product.*
+### Key takeaway
+
+*Build your customer relationship on trust and you’ll never have trouble selling your product.*
+
+<div></div>
 
 [The Curve on Goodreads →](https://www.goodreads.com/book/show/19018255-the-curve)
 

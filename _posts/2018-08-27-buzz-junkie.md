@@ -13,9 +13,7 @@ intro: A short story about overcoming my addiction to the meaninglessness of soc
 
 It’s early in the morning, probably around 7 because it’s still quite dark outside. I’m reading a book and trying to relax a bit before another busy day, my phone is resting on the table not too far away from me, but still out of reach. The book is about stoicism and a lot of topics in it are about having control over our lives.
 
-<div class="conversation">
-  <p class="indent">“Buzzz, buzzz!” The phone suddenly comes to life with vibrating sounds and light emitting from the screen that turns on. As it does, it slightly illuminates the dark room with its blueish glow.</p>
-</div>
+<p class="indent">“Buzzz, buzzz!” The phone suddenly comes to life with vibrating sounds and light emitting from the screen that turns on. As it does, it slightly illuminates the dark room with its blueish glow.</p>
 
 {% include image.html url="/assets/images/smartphone.jpg" description="Photo by Andrew Guan" %}
 
@@ -29,9 +27,9 @@ I had been doing that for years and never saw anything wrong with it but then on
 
 ## Breaking a habit
 
-{% include quote-float-right.html quote="I feel more relaxed in general, I don’t look for meaningless distractions, I can focus." %}
-
 And I did, I disabled all notifications except messages. I never had the Facebook app on my phone and now it was time to delete a few more. I always used the ‘Do not disturb’ mode that comes with iOS and set it from 10 pm to 7 am. I go to sleep at 10 in the evening and get up at 6 in the morning so that meant I only had one hour of distraction-free time. That’s crazy, why would I allow meaningless shit to agitate me right before I go to sleep? Why would I want to start my day with this meaningless shit? I changed the ‘Do not disturb’ mode to start at 8 pm and end at 9 am. Now nobody can disturb and agitate me two hours before I go to sleep and 3 hours after I wake up. This had a tremendous effect on not feeling anxious all the time. I feel more relaxed in general, I don’t look for meaningless distractions, I can focus.
+
+{% include quote-float-right.html quote="I feel more relaxed in general, I don’t look for meaningless distractions, I can focus." %}
 
 It took some time to get used to these changes. Occasionally, I still felt the urge to check on my phone and I had to make a conscious decision to stop myself from doing it. It *needs to be a* conscious decision until we get used to it, it’s the only way to rewire our brain. I still get that urge sometimes when I glance at my phone lying somewhere, just waiting for me to turn the screen on and see what cool things it has in store for me. Most times I manage to resist the urge, sometimes I give in. It takes a long time to break a habit. But breaking a bad habit is liberating and worth the effort. I don’t feel as anxious and constantly agitated anymore. I feel I finally have peace of mind.
 

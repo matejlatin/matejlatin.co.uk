@@ -4,6 +4,7 @@ title:  Adopting a new habit
 date:   2016-07-14 19:56:54 +0000
 author: Matej Latin
 category: personal-notes
+titlemax: 6
 tags:
 - Productivity
 - Day-to-day

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Equilateral triangle of a perfect paragraph
+title:  The equilateral triangle of a perfect paragraph
 date:   2017-06-09 19:56:54 +0000
 author: Matej Latin
 category: articles
@@ -16,12 +16,14 @@ I created the [Better Web Type](https://betterwebtype.com) course to help raise 
 
 One of the most important things in typography is to shape a seamless reading experience that invites the reader and presents the content in an objective way. To do that, we need to be able to shape perfect paragraphs. There are three keys to doing that, as Josef Mueller-Brockmann—a renowned 20th-century typographer and visual communicator, put it:
 
-{% include quote-large.html quote="The reader should be able to read the message of a text easily and comfortably. This depends to a not inconsiderable extent on the size of the type, the length of the lines and the leading (line-height)." author="Josef Mueller–Brockmann" %}
+>The reader should be able to read the message of a text easily and comfortably. This depends to a not inconsiderable extent on the size of the type, the length of the lines and the leading.
 
 The Equilateral triangle of a perfect paragraph article was originally published on [CSS-Tricks](https://css-tricks.com/equilateral-triangle-perfect-paragraph/) where you can read the rest. I launched a learning game based on this theory at the same time.
 
 {% include image.html url="/assets/images/triangle-game.jpg" %}
 
 I hope that as many people as possible come across this game and learn that line-height, font-size, and length of lines always need to be considered together. Try to get the best result and challenge your friends. The more people know about this, the better the web typography will get.
+
+---
 
 [Check out the game here](https://betterwebtype.com/triangle).

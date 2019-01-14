@@ -6,17 +6,18 @@ $edit-mode: true !default; // [ true / false ] - Enables/disables the grid toggl
 // Theme / Fonts
 $theme: custom !default; // [ Merriweather / OpenSans / custom ]
 $custom-font-body: "canada-type-gibson", Helvetica, Arial, sans-serif !default; // [ "Libre Baskerville", Georgia, serif ]
+$custom-font-body-2: alda, Georgia, serif;
 $custom-font-headings: null !default;
 
 // Paragraph indenting
-$paragraph-indent: false; // [ true / false ]
+$paragraph-indent: true; // [ true / false ]
 
 // Base sizes
 $base-font-size: 100 !default; // In %. Also used for mobile. Number only, no units.
 $base-font-size-desktop: 118.75 !default; // In %. Used to calculate the desktop font size. Number only, no units.
 $line-height: 1.625 !default;
-$line-height-desktop: 1.5 !default;
-$max-width: 35 !default; // Number only, no units. Gets converted to REMs and pixels.
+$line-height-desktop: 1.4 !default;
+$max-width: 32 !default; // Number only, no units. Gets converted to REMs and pixels.
 $breakpoint: 64em;
 
 // Modular Scale

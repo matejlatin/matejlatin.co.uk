@@ -4,6 +4,7 @@ title:  My sketches aren’t perfect
 date:   2016-11-03 19:56:54 +0000
 author: Matej Latin
 category: personal-notes
+titlemax: 8
 tags:
 - UX
 - Design

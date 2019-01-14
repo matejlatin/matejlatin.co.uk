@@ -17,9 +17,7 @@ In contrast to the mentioned article, I wanted to look at how companies get thin
 ## 1. A generic job description
 First of all, if you want to receive good-quality applications, write a decent job description. Don’t take one you find online, make a few changes and expect miracles. Describe what the role is, where it fits in and what is expected of it.
 
-For remote positions: If your team is distributed but, for example, you’re US-based, write specifically if people applying should be US-based as well. Many companies don’t take the time to do this which results in a huge waste of time—on both sides. 
-
-If you put out a shit job description, expect shit applications.
+For remote positions: If your team is distributed but, for example, you’re US-based, write specifically if people applying should be US-based as well. Many companies don’t take the time to do this which results in a huge waste of time—on both sides. If you put out a shit job description, expect shit applications.
 
 ## 2. Lack of respect towards the candidates
 I once applied to a Product Designer role in a well-known company (I won’t mention any names in this article). It wasn’t just a regular application, I had a connection inside the company and I was told by that person that he’ll make sure my application is taken seriously. It turned out I had to wait almost two months to get feedback, where they asked me for more work examples. After I prepared and sent that through, I received a short email from their recruiter. In it, she said that they wanted to invite me to a full-day interview at their headquarters and included a schedule. 

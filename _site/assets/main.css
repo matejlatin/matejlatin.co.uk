@@ -1,5 +1,4 @@
 /* Uncomment and set these variables to customize the grid. */
-@import url("https://use.typekit.net/tlj3dwk.css");
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
@@ -758,11 +757,11 @@ License URL ... https://raw.githubusercontent.com/matejlatin/Gutenberg/master/li
 .no-margin {
   margin: 0; }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 37em) {
   .floatLeft {
     float: left; } }
 
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 37em) {
   .floatCenter {
     margin-left: auto;
     margin-right: auto; } }
@@ -783,16 +782,16 @@ License URL ... https://raw.githubusercontent.com/matejlatin/Gutenberg/master/li
   background-repeat: repeat;
   background-size: 100% 4pxpx;
   background-size: 100% 1.5625rem; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 37em) {
     .grid, .grid-double {
-      background-size: 100% 29px;
-      background-size: 100% 1.5263157895rem; } }
+      background-size: 100% 27px;
+      background-size: 100% 1.4210526316rem; } }
 
 .grid-double {
   background-image: linear-gradient(to bottom, rgba(0, 170, 255, 0.3) 1px, transparent 1px, transparent 2pxpx, rgba(0, 170, 255, 0.2) 2pxpx, transparent 3pxpx, transparent 4pxpx); }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 37em) {
     .grid-double {
-      background-image: linear-gradient(to bottom, rgba(0, 170, 255, 0.3) 1px, transparent 1px, transparent 14.5px, rgba(0, 170, 255, 0.2) 14.5px, transparent 15.5px, transparent 29px); } }
+      background-image: linear-gradient(to bottom, rgba(0, 170, 255, 0.3) 1px, transparent 1px, transparent 13.5px, rgba(0, 170, 255, 0.2) 13.5px, transparent 14.5px, transparent 27px); } }
 
 .toggleWrapper {
   display: block;
@@ -803,10 +802,10 @@ License URL ... https://raw.githubusercontent.com/matejlatin/Gutenberg/master/li
   border-radius: 25px;
   padding: 0 10px 0 20px;
   height: 32px; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 37em) {
     .toggleWrapper {
-      right: 29px;
-      top: 29px; } }
+      right: 27px;
+      top: 27px; } }
 
 .btnToggleGrid {
   background: url("../../assets/images/grid-icons.png") top right no-repeat;
@@ -821,10 +820,10 @@ License URL ... https://raw.githubusercontent.com/matejlatin/Gutenberg/master/li
   text-transform: uppercase;
   font-weight: 700;
   color: #fff; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 37em) {
     .btnToggleGrid {
-      top: 29px;
-      right: 29px; } }
+      top: 27px;
+      right: 27px; } }
   .btnToggleGrid:hover {
     color: #fff; }
   .btnToggleGrid:active {
@@ -836,22 +835,23 @@ License URL ... https://raw.githubusercontent.com/matejlatin/Gutenberg/master/li
 .grid-off {
   background-position-y: -64px; }
 
-aside {
+aside.note {
   display: none; }
-  @media screen and (min-width: 1390px) {
-    aside {
-      display: block;
-      float: right;
-      font-weight: 600; } }
-  aside p {
+  aside.note p {
     font-size: 0.8rem;
     line-height: 19px;
     float: left;
-    max-width: 220px; }
+    max-width: 220px;
+    font-family: "canada-type-gibson", Helvetica, Arial, sans-serif;
+    font-weight: 600; }
 
+@media screen and (min-width: 1390px) {
+  aside.note {
+    display: block;
+    float: right; } }
 /* Defaults
    ========================================================================== */
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 37em) {
   body,
   html {
     margin: 0;
@@ -866,17 +866,17 @@ html {
   color: #2f2f2f;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 37em) {
     html {
       font-size: 1.1875rem; } }
 
 * {
   line-height: 1.5625rem;
   margin: 0rem 0rem 1.5625rem; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 37em) {
     * {
-      line-height: 1.5263157895rem;
-      margin-bottom: 1.5263157895rem; }
+      line-height: 1.4210526316rem;
+      margin-bottom: 1.4210526316rem; }
       * .no-margin {
         margin: 0; } }
 
@@ -889,8 +889,8 @@ h5,
 h6,
 ul,
 ol {
-  max-width: 665px;
-  max-width: 35rem; }
+  max-width: 608px;
+  max-width: 32rem; }
 
 *,
 *::before,
@@ -941,7 +941,7 @@ body {
     display: block;
     width: 100%;
     padding: 1rem 2rem;
-    margin-bottom: 0;
+    margin-bottom: 0.390625rem;
     font-size: 2.5rem;
     font-weight: 600;
     text-align: right; }
@@ -1065,20 +1065,28 @@ section {
 
 /* Links
 ========================================================================== */
+.related-posts a {
+  color: #254C79; }
+  .related-posts a:visited {
+    color: #193352; }
+  .related-posts a:hover {
+    color: #254C79; }
+  .related-posts a:active {
+    color: #193352; }
+
 article a {
   background: transparent;
   color: #254C79;
   transition: all .2s;
-  text-decoration: none; }
+  text-decoration: underline; }
   article a:active, article a:hover {
     outline: 0; }
   article a:hover {
-    color: #254C79;
-    text-decoration: underline; }
+    color: #254C79; }
   article a:visited {
     color: #193352; }
-    article a:visited:hover {
-      color: #254C79; }
+  article a:hover {
+    color: #254C79; }
   article a:active {
     color: #193352; }
 
@@ -1131,10 +1139,10 @@ h2 a {
 article {
   display: block;
   margin: 0 auto; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 37em) {
     article {
-      max-width: 997.5px;
-      max-width: 52.5rem;
+      max-width: 912px;
+      max-width: 48rem;
       margin: 0; } }
 
 audio {
@@ -1165,7 +1173,7 @@ code {
   padding: 1px 3px;
   margin-bottom: 0;
   font-size: 0.9rem; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 37em) {
     code {
       padding: 1px 3px; } }
 
@@ -1192,9 +1200,9 @@ figcaption {
   font-size: .8125rem;
   font-style: italic;
   margin-bottom: 0; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 37em) {
     figcaption {
-      line-height: 1.5263157895rem;
+      line-height: 1.4210526316rem;
       margin-bottom: 0; } }
 
 figure {
@@ -1208,7 +1216,8 @@ figure > img {
   figure.floatRight {
     max-width: 20rem;
     margin-bottom: 0;
-    padding: 0rem 1.5263157895rem; }
+    padding: 1.4210526316rem;
+    margin-bottom: 0rem; }
     figure.floatLeft .no-margin,
     figure.floatRight .no-margin {
       margin: 0; } }
@@ -1216,15 +1225,16 @@ figure > img {
   figure.floatLeft blockquote,
   figure.floatRight blockquote {
     padding: 0rem;
-    text-align: left; }
+    text-align: left;
+    margin-top: 1.4210526316rem; }
     figure.floatLeft blockquote .no-margin,
     figure.floatRight blockquote .no-margin {
       margin: 0; } }
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 37em) {
   figure.floatLeft blockquote p,
   figure.floatRight blockquote p {
     font-size: 1.2rem;
-    line-height: 1.5263157895rem; } }
+    line-height: 1.4210526316rem; } }
 
 .highlight {
   margin-left: -2em;
@@ -1366,8 +1376,8 @@ label {
 /* Headings
    ========================================================================== */
 h1 {
-  font-size: 3.2rem;
-  line-height: 3.125rem;
+  font-size: 2.5rem;
+  line-height: 2.34375rem;
   margin-top: 6.25rem;
   margin-bottom: 1.5625rem;
   font-weight: 600; }
@@ -1382,7 +1392,7 @@ h2 {
 h3 {
   font-size: 1.375rem;
   line-height: 1.5625rem;
-  margin-top: 3.125rem;
+  margin-top: 4.6875rem;
   margin-bottom: 0.78125rem;
   font-weight: 600; }
 
@@ -1408,6 +1418,9 @@ h6 {
   font-weight: 600; }
 
 @media screen and (min-width: 64em) {
+  .home h1 {
+    max-width: 35rem; }
+
   article.post h2 {
     margin-top: 3.125rem; }
 
@@ -1415,45 +1428,45 @@ h6 {
     margin: 0; }
 
   h1 {
-    font-size: 6.5rem;
-    line-height: 6.1052631579rem;
-    margin-top: 1.5263157895rem;
-    margin-bottom: 3.0526315789rem; }
+    font-size: 5rem;
+    line-height: 4.9736842105rem;
+    margin-top: 1.4210526316rem;
+    margin-bottom: 2.8421052632rem; }
 
   h2 {
     font-size: 1.6875rem;
-    line-height: 1.9078947368rem;
+    line-height: 1.7763157895rem;
     margin-top: 0rem;
-    margin-bottom: 0.7631578947rem; }
+    margin-bottom: 0.7105263158rem; }
 
   h3 {
     font-size: 1.375rem;
-    line-height: 1.5263157895rem;
-    margin-top: 1.5263157895rem;
-    margin-bottom: 0.7631578947rem; }
+    line-height: 1.4210526316rem;
+    margin-top: 2.1315789474rem;
+    margin-bottom: 0.7105263158rem; }
 
   h4 {
     font-size: 1.2rem;
-    line-height: 1.5263157895rem;
-    margin-top: 2.2894736842rem;
-    margin-bottom: 0.7631578947rem; }
+    line-height: 1.4210526316rem;
+    margin-top: 2.1315789474rem;
+    margin-bottom: 0.7105263158rem; }
 
   h5 {
     font-size: 1rem;
-    line-height: 1.5263157895rem;
-    margin-top: 3.8157894737rem;
-    margin-bottom: 0.7631578947rem; }
+    line-height: 1.4210526316rem;
+    margin-top: 3.5526315789rem;
+    margin-bottom: 0.7105263158rem; }
 
   h6 {
     font-size: 1rem;
-    line-height: 1.5263157895rem;
-    margin-top: 3.8157894737rem;
-    margin-bottom: 0.7631578947rem; } }
+    line-height: 1.4210526316rem;
+    margin-top: 3.5526315789rem;
+    margin-bottom: 0.7105263158rem; } }
 h1 + h2 {
   margin-top: 1.5625rem; }
   @media screen and (min-width: 64em) {
     h1 + h2 {
-      margin-top: 1.5263157895rem; }
+      margin-top: 1.4210526316rem; }
       h1 + h2 .no-margin {
         margin: 0; } }
 
@@ -1465,7 +1478,7 @@ h4 + h5 {
     h2 + h3,
     h3 + h4,
     h4 + h5 {
-      margin-top: 0.7631578947rem; }
+      margin-top: 0.7105263158rem; }
       h2 + h3 .no-margin,
       h3 + h4 .no-margin,
       h4 + h5 .no-margin {
@@ -1475,7 +1488,7 @@ h5 + h6 {
   margin-top: -0.78125rem; }
   @media screen and (min-width: 64em) {
     h5 + h6 {
-      margin-top: -0.7631578947rem; }
+      margin-top: -0.7105263158rem; }
       h5 + h6 .no-margin {
         margin: 0; } }
 
@@ -1484,7 +1497,7 @@ h6 {
   font-weight: normal; }
 
 h1 {
-  letter-spacing: -0.015em; }
+  letter-spacing: -0.01em; }
 
 hgroup {
   display: block; }
@@ -1523,6 +1536,9 @@ a.site-title {
   .post h1.post-title {
     margin-bottom: 1.5625rem; } }
 
+.post h3 {
+  font-weight: normal; }
+
 hr {
   margin-top: 3.125rem;
   margin-bottom: 0rem;
@@ -1534,17 +1550,17 @@ hr {
   background-size: 100% 1.5625rem;
   background-image: linear-gradient(to bottom, transparent 1px, transparent 1px, #2f2f2f 1px, #2f2f2f 3px, transparent 3px, transparent 4px);
   width: 80px; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 37em) {
     hr {
-      margin-top: 3.0526315789rem;
+      margin-top: 2.8421052632rem;
       margin-bottom: 0rem;
-      height: 1.5263157895rem; }
+      height: 1.4210526316rem; }
       hr .no-margin {
         margin: 0; } }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 37em) {
     hr {
-      background-size: 100% 1.5263157895rem;
-      background-image: linear-gradient(to bottom, transparent 1px, transparent 13.5, #2f2f2f 13.5, #2f2f2f 15.5, transparent 15.5, transparent 29); } }
+      background-size: 100% 1.4210526316rem;
+      background-image: linear-gradient(to bottom, transparent 1px, transparent 12.5, #2f2f2f 12.5, #2f2f2f 14.5, transparent 14.5, transparent 27); } }
 
 img {
   border: 0;
@@ -1581,6 +1597,9 @@ ol {
 .footnotes p {
   margin: 0; }
 
+article.post ul, article.post ol {
+  font-family: alda, Georgia, serif; }
+
 nav {
   display: block; }
 
@@ -1589,32 +1608,34 @@ progress {
   vertical-align: baseline; }
 
 blockquote {
-  font-style: italic;
-  padding-left: 1.4375rem; }
-  @media screen and (min-width: 40em) {
-    blockquote {
-      padding-left: 2rem; } }
+  padding-left: 1rem;
+  padding: 0rem 0rem 0rem 1.5625rem; }
+  blockquote p {
+    max-width: 31rem;
+    font-size: 90%; }
 
 cite {
   display: block;
   font-style: normal;
-  font-weight: 600; }
+  font-weight: 400; }
 
 figure blockquote {
   padding: 1.5625rem 0rem; }
-  @media screen and (min-width: 40em) {
+  @media screen and (min-width: 37em) {
     figure blockquote {
-      padding: 3.0526315789rem 0rem 1.5263157895rem; } }
+      padding: 2.8421052632rem 0rem 1.4210526316rem 1.4210526316rem; } }
   figure blockquote p {
     font-size: 1.75rem;
     line-height: 2.34375rem;
     margin-bottom: 0.78125rem;
-    font-style: italic;
-    max-width: none; }
-    @media screen and (min-width: 40em) {
+    font-family: "canada-type-gibson", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-style: normal !important;
+    max-width: 32; }
+    @media screen and (min-width: 37em) {
       figure blockquote p {
         font-size: 1.8rem;
-        line-height: 2.2894736842rem;
+        line-height: 2.1315789474rem;
         margin-bottom: 0.78125rem; } }
   figure blockquote cite {
     margin-bottom: 0; }
@@ -1630,6 +1651,21 @@ th {
 [hidden],
 template {
   display: none; }
+
+article p {
+  font-family: alda, Georgia, serif;
+  font-weight: 400;
+  font-style: normal;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto; }
+
+.f-f-gibson {
+  font-family: "canada-type-gibson", Helvetica, Arial, sans-serif; }
+
+article .post-meta {
+  font-family: "canada-type-gibson", Helvetica, Arial, sans-serif; }
 
 br {
   margin-bottom: 0; }
@@ -1662,7 +1698,7 @@ small {
   font-size: 70%; }
   @media screen and (min-width: 64em) {
     small {
-      line-height: 0.7631578947rem; } }
+      line-height: 0.7105263158rem; } }
 
 sub,
 sup {
@@ -1678,6 +1714,7 @@ sup {
     text-decoration: none;
     font-style: normal;
     font-weight: 600;
+    font-family: "canada-type-gibson", Helvetica, Arial, sans-serif;
     color: #2f2f2f !important; }
 
 sub {
@@ -1685,15 +1722,30 @@ sub {
 
 /* Paragraph
 ========================================================================== */
+article p + p {
+  margin-top: -1.5625rem;
+  text-indent: 4px;
+  text-indent: 1.5625rem; }
+
+@media screen and (min-width: 64em) {
+  article p + p {
+    margin-top: -1.4210526316rem; } }
+article p + p.indent {
+  text-indent: 1.0210526316rem; }
+
+article p.attention-grabber + p.indent {
+  text-indent: -0.4em; }
+
+.attention-grabber + p {
+  margin-top: 0;
+  text-indent: 0; }
+
 .attention-grabber {
   font-size: 1.2rem; }
   @media screen and (min-width: 64em) {
     .attention-grabber {
-      font-size: 24px; } }
+      font-size: 23px; } }
 
-@media screen and (min-width: 64em) {
-  .no-margin {
-    margin: 0; } }
 .alignLeft {
   text-align: left; }
 
@@ -1722,25 +1774,15 @@ sub {
 
 .about-paragraph {
   max-width: 225px;
-  line-height: 1.25rem;
-  margin-top: 0.390625rem; }
+  line-height: 1.1368421053rem;
+  margin-top: 0.3552631579rem; }
 
 strong, b {
   font-weight: 600; }
 
-.conversation {
-  margin-bottom: 1.5625rem; }
-  .conversation p {
-    margin-bottom: 0; }
-  .conversation p.indent {
-    margin-bottom: 0;
-    text-indent: -0.5em; }
+p.indent {
+  text-indent: -0.4em; }
 
 video {
   display: inline-block;
   vertical-align: baseline; }
-
-/* TODOs:
- - some line heights produce margins with .5 results, seemingly breaking the gird (?),
- - add table and side comments elements,
- */

@@ -1,10 +1,12 @@
 blockquote {
-  font-style: italic;
-  padding-left: 1.4375rem;
-  // font-size: 95%;
+  // margin-left: 1.4375rem;
+  padding-left: 1rem;
+  @include padding(0,0,0,1);
 
-  @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
-    padding-left: 2rem;
+  p {
+    max-width: 31rem;
+    // font-style: italic!important;
+    font-size: 90%;
   }
 
 }
@@ -12,7 +14,7 @@ blockquote {
 cite {
   display: block;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 // Quotes
@@ -25,16 +27,17 @@ figure blockquote {
 
     @import '../mixins/padding';
 
-    @include padding(2, 0, 1);
+    @include padding(2, 0, 1, 1);
   }
 
   p {
     @include font-size(1.75);
     @include line-height(1.5);
     @include margin-bottom(0.5);
-    // font-weight: 600;
-    font-style: italic;
-    max-width: none;
+    font-family: $custom-font-body;
+    font-weight: 600;
+    font-style: normal!important;
+    max-width: $max-width;
 
     @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
       $leading: $leading-desktop;

@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title:  Design, minimalism & typography
-intro:  My name is Matej [mʌt-eɪ]. My story began in a small seaside town in Slovenia. Aged 13, I joined an after-school class where I handcrafted my first website and it changed my life. It made me who I am today&hairsp;—&hairsp;it made me a designer.
+intro:  My name is Matej. My story began in a small seaside town in Slovenia. Aged 13, I joined an after-school class where I handcrafted my first website and it changed my life. It made me who I am today&hairsp;—&hairsp;it made me a designer.
 ---
 
 My passion for simple, clean & usable design took me to a journey through Germany, Luxembourg, England and now Scotland — from where I work remotely as a Senior UX Designer at GitLab.

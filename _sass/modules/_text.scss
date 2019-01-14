@@ -1,3 +1,23 @@
+article {
+  p {
+    font-family: $custom-font-body-2;
+    font-weight: 400;
+    font-style: normal;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+  }
+}
+
+.f-f-gibson {
+  font-family: $custom-font-body;
+}
+
+article .post-meta {
+  font-family: $custom-font-body;
+}
+
 p {
   // hanging-punctuation: first;
 }
@@ -74,6 +94,7 @@ sup {
     text-decoration: none;
     font-style: normal;
     font-weight: 600;
+    font-family: $custom-font-body;
     color: $color-font-body!important;
   }
 }
@@ -87,24 +108,27 @@ sub {
 
 @if $paragraph-indent == true {
 
-  p + p {
+  article p + p {
     @include margin-top(-1);
-    text-indent: #{ $leading + 'px'};
+    text-indent: #{ $leading};
     text-indent: #{ $leading-rem + 'rem'};
-
   }
 
-  .floatLeft + p,
-  .floatRight + p {
+  @media screen and (min-width: $breakpoint) {
+    $leading: $leading-desktop;
+    $leading-rem: $leading-rem-desktop;
 
-    @media screen and (min-width: $breakpoint) {
-      $leading: $leading-desktop;
-      $leading-rem: $leading-rem-desktop;
-
-      text-indent: #{ $leading + 'px'};
-      text-indent: #{ $leading-rem + 'rem'};
+    article p + p {
+      @include margin-top(-1);
     }
+  }
 
+  article p + p.indent {
+    text-indent: #{ $leading-rem - 0.4 + 'rem'};
+  }
+
+  article p.attention-grabber + p.indent {
+    text-indent: -0.4em;
   }
 
   .attention-grabber + p {
@@ -118,26 +142,8 @@ sub {
   @include font-size(1.2);
 
   @media screen and (min-width: $breakpoint) {
-    font-size: 24px;
+    font-size: 23px;
   }
-}
-
-@media screen and (min-width: $breakpoint) {
-  $leading: $leading-desktop;
-  $leading-rem: $leading-rem-desktop;
-
-  @import '../mixins/margin';
-
-  @if $paragraph-indent == true {
-
-    p + p,
-    .floatLeft + p,
-    .floatRight + p {
-      @include margin-top(-1);
-    }
-
-  }
-
 }
 
 // Text Alignment
@@ -186,15 +192,8 @@ strong, b {
   font-weight: 600;
 }
 
-.conversation {
-  @include margin-bottom(1);
 
-  p {
-    margin-bottom: 0;
-  }
-
-  p.indent {
-    margin-bottom: 0;
-    text-indent: -0.5em;
-  }
+p.indent {
+  // margin-bottom: 0;
+  text-indent: -0.4em;
 }

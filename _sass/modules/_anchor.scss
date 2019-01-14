@@ -6,11 +6,27 @@ $color-link-hover: $color-link-normal;
 $color-link-active: darken($color-link-normal, 10%);
 $color-link-visited: darken($color-link-normal, 10%);
 
+.related-posts a {
+  color: $color-link-normal;
+
+  &:visited {
+    color: $color-link-visited;
+  }
+
+  &:hover {
+    color: $color-link-hover;
+  }
+
+  &:active {
+    color: $color-link-active;
+  }
+}
+
 article a {
   background: transparent;
   color: $color-link-normal;
   transition: all .2s;
-  text-decoration: none;
+  text-decoration: underline;
   // border-bottom: 1px solid #fff;
 
   &:active,
@@ -21,15 +37,15 @@ article a {
   &:hover {
     color: $color-link-hover;
     // border-bottom: 1px solid $color-link-hover;
-    text-decoration: underline;
+    // text-decoration: underline;
   }
 
   &:visited {
     color: $color-link-visited;
+  }
 
-    &:hover {
-      color: $color-link-hover;
-    }
+  &:hover {
+    color: $color-link-hover;
   }
 
   &:active {

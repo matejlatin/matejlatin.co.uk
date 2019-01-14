@@ -5,7 +5,11 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    {% if page.titlemax %}
+      <h1 class="post-title" itemprop="name headline" style="max-width: {{ page.titlemax | escape }}em">{{ page.title | escape }}</h1>
+    {% else %}
+      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    {% endif %}
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date_to_string }}</time>{% if page.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}{% if page.comments %}, <a href="#disqus_thread">comments</a>{% endif %} —{% for tag in page.tags %} <a class="tag_list_link" href="/tag/{{ tag | downcase }}/">{{ tag }}</a>{% if forloop.last == false %},{% endif %} {% endfor %}</p>
   </header>
 

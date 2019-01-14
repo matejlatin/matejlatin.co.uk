@@ -1,23 +1,45 @@
 ---
 layout: post
-title:  Judging books by covers
+title:  Judging books by their covers
 date:   2016-07-21 19:56:54 +0000
 author: Matej Latin
 category: personal-notes
 tags:
 - Day-to-day
 ---
-“I don’t trust books like these”, said James. I was surprised by the blunt comment and replied with a short: <br>
-“Why not?” <br>
-“I don’t know… There’s something about the title that turns me off”, James replied. <br>
-“Maybe it’s the cover in general…”, he tried to elaborate. <br>
-“It looks cheap right?”, Sarah joined the conversation.<br>
-“How can a book look cheap”, I replied in astonishment.<br>
-“I don’t know… it looks… self-published?”, she tried to explain.<br>
-“Self-published? But it’s a book by O’Reilly…”, I interrupted.<br>
-“I know, but still…”, Sarah didn’t know what else to say.<br>
-“I kinda like the cover…”, I remarked,<br>
-“…it even has a big red heart on it”, I chuckled as I finished my thought, picking up the book, taking a closer look and briefly showing it to James and Sarah.
+<p class="indent">
+  “I don’t trust books like these”, said James. I was surprised by the blunt comment and replied with a short:
+</p>
+<p class="indent">
+  “Why not?”
+</p>
+<p class="indent">
+  “I don’t know… There’s something about the title that turns me off”, James replied.
+</p>
+<p class="indent">
+  “Maybe it’s the cover in general…”, he tried to elaborate.
+</p>
+<p class="indent">
+  “It looks cheap right?”, Sarah joined the conversation.
+</p>
+<p class="indent">
+  “How can a book look cheap”, I replied in astonishment.
+</p>
+<p class="indent">
+  “I don’t know… it looks… self-published?”, she tried to explain.
+</p>
+<p class="indent">
+  “Self-published? But it’s a book by O’Reilly…”, I interrupted.
+</p>
+<p class="indent">
+  “I know, but still…”, Sarah didn’t know what else to say.
+</p>
+<p class="indent">
+  “I kinda like the cover…”, I remarked,
+</p>
+<p class="indent">
+  “…it even has a big red heart on it”, I chuckled as I finished my thought, picking up the book, taking a closer look and briefly showing it to James and Sarah.
+</p>
 
 This is how I remember a short conversation I had at work not long ago. I was a bit shocked by my colleagues’ bluntness and how quickly they judged the book that had been laying on my desk—Designing Products People Love by Scott Hurff.
 

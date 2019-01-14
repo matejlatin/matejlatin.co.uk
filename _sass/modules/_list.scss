@@ -12,3 +12,9 @@ ol {
 .footnotes p {
   margin: 0;
 }
+
+article.post {
+  ul, ol {
+    font-family: $custom-font-body-2;
+  }
+}

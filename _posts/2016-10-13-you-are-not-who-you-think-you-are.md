@@ -8,13 +8,15 @@ tags:
 - Psychology
 - Design
 ---
-“Sign here and you’ll resign from the technical high school”, said the headmaster as he gave me a disappointed look. It was the resignation letter. I had no choice but sign it. I had skipped way too many classes. I went over the limit and this was the next step in the process. But it wasn’t just about skipping classes. I wasn’t doing well at school at all.
+<p class="indent">
+  “Sign here and you’ll resign from the technical high school”, said the headmaster as he gave me a disappointed look. It was the resignation letter. I had no choice but sign it. I had skipped way too many classes. I went over the limit and this was the next step in the process. But it wasn’t just about skipping classes. I wasn’t doing well at school at all.
+</p>
 
 Everyone was surprised by how my first years of high school went. Until then I never had problems in school. In fact, school never really posed a challenge to me. All I needed to do to get trough the year was a minimal effort. The first year of high school followed a similar fashion. No major problems, completed with minimal effort. Some trouble would arise occasionally but nothing too serious. 
 
 The class teacher figured me out though. She noticed that I’m not investing enough time in school matters and that I could be doing a lot better if I did. Soon she would start to label me as lazy. She literally called me “lazy boy” (she taught English). She did that publicly. Maybe it was her way of trying to wake me up and motivate me. Well, it didn’t work. Quite the opposite.
 
-## Matej is clever but lazy
+## Matej is clever, but lazy
 Being publicly labeled as lazy made things worse. My schoolmates treated me as such and other teachers as well. “Matej is clever but he’s lazy” is what they would say about me. And that triggered the opposite effect of what they wanted to achieve. It made me care about school even less. I had less problems with skipping classes. I eventually failed a year and dropped out soon after that. I was already perceived as a failure so why not act as one as well? It may sound stupid but that’s how people work.
 
 There was an experiment conducted in India. The students from different castes had to take a test. They were split into two groups—one that had to publicly tell what caste they’re from and another where the students didn’t have to do that. The students from the lower castes in the first group performed worse than the students from the higher caste but their lower caste colleagues performed the same as the ones from the higher caste in the other group. This means that the lower caste students that had to publicly disclose their caste subconsciously felt that they had to perform worse than the ones from the higher caste so they did. We are not who we think we are. We are what the environment and the society we live in dictate us to be. You can read more about the experiment here.

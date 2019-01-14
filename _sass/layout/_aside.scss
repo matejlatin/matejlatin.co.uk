@@ -1,17 +1,20 @@
-aside {
+aside.note {
   display: none;
-
-  @media screen and (min-width: 1390px) {
-    display: block;
-    float: right;
-    font-weight: 600;
-    // width: 100%;
-  }
 
   p {
     @include font-size(0.8);
     line-height: 19px;
     float: left;
     max-width: 220px;
+    font-family: $custom-font-body;
+    font-weight: 600;
+  }
+}
+
+@media screen and (min-width: 1390px) {
+  aside.note {  
+    display: block;
+    float: right;
+    // width: 100%;
   }
 }
