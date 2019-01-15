@@ -7,7 +7,7 @@ category: personal-notes
 tags:
 - UX
 - Design
-intro: I never had a goal of becoming a designer when I  growing up. Like most young boys, I wanted to be a jet fighter a pilot, a fireman, a police officer,… whatever I was most interested in at a particular moment. 
+intro: I never had a goal of becoming a designer when I was growing up. Like most young boys, I wanted to be a jet fighter a pilot, a fireman, a police officer,… whatever I was most interested in at a particular moment. 
 ---
 The last thing I remember I wanted to be was a “game designer/developer”. I just got my first PC and playing video games was all I did. Then, at some point, I had stopped thinking about what I really wanted to do. I guess the “life auto–pilot” must have kicked in.
 
