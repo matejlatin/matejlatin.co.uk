@@ -16,7 +16,7 @@
 title: Matej Latin
 email: matejlatin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Matej Latin is a UX/UI designer working for Auto Trader UK in London. He writes about design, minimalism and typography.
+  Matej Latin is a Senior UX designer at GitLab and is based in Edinburgh, UK. He writes about design, minimalism and typography.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://matejlatin.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: matejlatin
