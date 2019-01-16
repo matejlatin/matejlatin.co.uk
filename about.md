@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <p class="attention-grabber">I remember how when I was a child, I thought that designers are people that “design clothes”. That was literally the only perception of design I had.</p>
 
-I joined an after–school class when I was 13. There, I first played around with Front Page. Then I learned the basics of HTML by simply memorizing all the element tags. I remember how cool it was to be able to create something out of nothing—it felt like magic. But thinking about those years now, I realize I had been doing that before.
+I joined an after–school class called Web Design when I was 13. There, I first played around with Front Page. Then I learned the basics of HTML by simply memorizing all the element tags. I remember how cool it was to be able to create something out of nothing—it felt like magic. But thinking about those years now, I realize I had been doing that before.
 
 {% include full-bleed-image.html url="/assets/images/matej-latin.jpg" %}
 
@@ -19,5 +19,9 @@ Now that would be a dream job—playing around with Legos all day ([like these l
 
 I [tried quitting design two times](/personal-notes/2016/08/18/i-quit-design-twice/) but somehow I kept coming back to it. For some reason it stuck with me, like I was meant to do this (I think it simply boils down to the fact that I kept doing what I loved). I entrusted the steering wheel of my life to my curiosity, always did what I thought was right and never looked back. It got me where I thought I should be. Now, I call myself a designer, I am a designer, and no it’s not a hobby anymore. It’s not even a job. It’s a way of life. And I still love it.
 
+### Short bio
+
+Matej is a Senior UX Designer at GitLab and the author of the [Better Web Type](https://betterwebtype.com) project. Originally from Slovenia but his passion for simple and usable design took him on a journey through Germany, Luxembourg, London and all the way to Edinburgh in Scotland. He thrives in the grey area between design and development.
+
 ---
-[@matejlatin](https://twitter.com/matejlatin)
+[@matejlatin](https://twitter.com/matejlatin) | [Profile photo](/matejlatin.png) (600 x 600 px)
