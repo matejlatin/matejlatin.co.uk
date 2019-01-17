@@ -21,7 +21,9 @@ Commuting, not enough sleep, not being productive at work… all these things me
 
 {% include quote-float-right.html quote="What the hell are all these people doing? Sitting there, wasting their lives away…" %}
 
-I remember looking through the tall glass windows from the office that I used to work at. On one side, a gorgeous view of central London, dozens of similar glass buildings on the other. They were so close to ours that I could clearly see people sitting in rows of tables. I couldn’t help but think: “*what the hell are all these people doing? Sitting there, wasting their lives away….  Wait! Do they look at me and think the same thing? I’m sitting there, 8 hours every day with 100 other people distributed among the rows of desks.*” We’re all like chickens—sitting in rows and laying eggs until one day when we stop being useful because our eggs aren’t good enough anymore. We all know what happens then.
+<p class="force-indent">
+  I remember looking through the tall glass windows from the office that I used to work at. On one side, a gorgeous view of central London, dozens of similar glass buildings on the other. They were so close to ours that I could clearly see people sitting in rows of tables. I couldn’t help but think: “<em>what the hell are all these people doing? Sitting there, wasting their lives away….  Wait! Do they look at me and think the same thing? I’m sitting there, 8 hours every day with 100 other people distributed among the rows of desks.</em>” We’re all like chickens—sitting in rows and laying eggs until one day when we stop being useful because our eggs aren’t good enough anymore. We all know what happens then.
+</p>
 
 Five years into it and I had enough. How the hell do people manage to do this for their whole lives? Fuck that, I don’t want to grow old and look back at all the things that could be but never were. All the years spent working my ass of but nothing to show for it. Something had to change and as it seems now, the solution was surprisingly simple.
 
@@ -30,7 +32,9 @@ I had worked remotely before when I freelanced but it was never full-time. And i
 
 {% include quote-float-right.html quote="No standups, few meetings and no need for my working hours to overlap with the colleagues from across the ocean." %}
 
-Working for a company like GitLab also helps a lot. Because we work on a tool that helps people collaborate asynchronously, we’re encouraged to work asynchronously ourselves. That means no standups, only few meetings and unlike most remote companies, no need for my working hours to overlap with the colleagues from across the ocean. The other day I washed my car in the morning and it wasn’t a problem even though it took me a couple of hours (believe it or not, I really enjoy washing my car 😅). I’m now in the coffee shop writing this post and I’ll go home shortly after and spend a few hours working and actually being productive.
+<p class="force-indent">
+  Working for a company like GitLab also helps a lot. Because we work on a tool that helps people collaborate asynchronously, we’re encouraged to work asynchronously ourselves. That means no standups, only few meetings and unlike most remote companies, no need for my working hours to overlap with the colleagues from across the ocean. The other day I washed my car in the morning and it wasn’t a problem even though it took me a couple of hours (believe it or not, I really enjoy washing my car 😅). I’m now in the coffee shop writing this post and I’ll go home shortly after and spend a few hours working and actually being productive.
+</p>
 
 All this is something I had before but I never really appreciated it until I experienced the other side. I started this journey through Europe five years ago, looking for a collaborative and engaging office environment but found the exact opposite. I had to go through that to realise that what I was looking for was something that I already had in the first place. A brick and mortar office doesn’t necessarily mean that you’ll be in good company or productive. And it certainly doesn’t make work more enjoyable (in most cases it’s the opposite).
 

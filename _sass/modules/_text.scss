@@ -197,3 +197,14 @@ p.indent {
   // margin-bottom: 0;
   text-indent: -0.4em;
 }
+
+@media screen and (min-width: $breakpoint) {
+  $leading: $leading-desktop;
+  $leading-rem: $leading-rem-desktop;
+
+  p.force-indent {
+    text-indent: #{ $leading};
+    text-indent: #{ $leading-rem + 'rem'};
+    @include margin-top(-1);
+}
+}

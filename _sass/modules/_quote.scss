@@ -20,6 +20,8 @@ cite {
 // Quotes
 figure blockquote {
   @include padding(1, 0);
+  @include font-size(1.25);
+  @include line-height(1);
 
   @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
     $leading: $leading-desktop;
@@ -31,13 +33,11 @@ figure blockquote {
   }
 
   p {
-    @include font-size(1.75);
-    @include line-height(1.5);
     @include margin-bottom(0.5);
     font-family: $custom-font-body;
     font-weight: 600;
     font-style: normal!important;
-    max-width: $max-width;
+    max-width: #{$max-width + 'em'};
 
     @media screen and (min-width: #{ $max-width + 5 + 'em'}) {
       $leading: $leading-desktop;
