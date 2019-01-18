@@ -166,14 +166,28 @@ a.site-title {
 
 .post-list {
   h2 {
-    margin-bottom: 0;
+    @include margin-bottom(0.25);
   }
 }
 
-.post h1.post-title {
-  @media screen and (min-width: $breakpoint) {
-    @include margin-bottom(1);
+@media screen and (min-width: $breakpoint) {
+  $leading: $leading-desktop;
+  $leading-rem: $leading-rem-desktop;
+
+  .post-list {
+    h2 {
+      @include margin-bottom(0.25);
+    }
   }
+}
+
+@media screen and (min-width: $breakpoint) {
+    $leading: $leading-desktop;
+    $leading-rem: $leading-rem-desktop;
+
+    .post h1.post-title {
+      @include margin-bottom(1);
+    }
 }
 
 .post h3 {

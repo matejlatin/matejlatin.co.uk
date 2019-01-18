@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My favourite books of 2018
-date:   2018-01-22 19:56:54 +0000
+date:   2019-01-22 19:56:54 +0000
 author: Matej Latin
 category: personal-notes
 titlemax: 8
