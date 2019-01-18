@@ -16,7 +16,7 @@ We won’t ask you how many golf balls fit in a bus or how many times a day a cl
 
 I think the [hiring process](https://about.gitlab.com/job-families/engineering/ux-designer/#hiring-process) at GitLab is way simpler and more efficient. A successful candidate has to go through four stages of interviewing before receiving an offer. Altogether, we spend around 2-3 hours with them, so we need to ask the right questions to be efficient.
 
-I'm so confident in the efficiency of these questions that I’m completely okay with sharing these publicly. What you answer matters less than how you answer them.
+I'm so confident in the efficiency of these questions that I’m completely okay with sharing these publicly. *What* you answer matters less than *how* you answer them.
 
 
 
