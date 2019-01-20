@@ -102,6 +102,7 @@ Unhappiness in our lives is often triggered by the things outside of our control
 > Direct your actions properly.  
 > Willingly accept what’s outside your control.  
 > That’s all we need to do.  
+> —Ryan Holiday
 
 Sounds simple, but it takes conscious effort every day to achieve it.
 
