@@ -17,12 +17,12 @@ permalink: /books/
     <img alt="Coding for Designers book cover" src="/assets/images/bwtds-cover.jpg" class="floatLeft" width="120">
     <h2>Better web typography for design&nbsp;systems</h2>
     <p class="no-margin">By Matej Latin</p>
-    <small class="post-meta">Coming in Spring 2019 — <a class="tag_list_link" href="/tag/typography/">Typography</a>, <a class="tag_list_link" href="/tag/front-end/">Front-end</a>, <a class="tag_list_link" href="/tag/web-design/">Web-design</a></small>
+    <small class="post-meta">Coming in Spring 2019 — <a class="tag_list_link" href="/tag/typography/">Typography</a>, <a class="tag_list_link" href="/tag/front-end/">Front-end</a>, <a class="tag_list_link" href="/tag/web-design/">Web-design</a>, <a class="tag_list_link" href="/tag/books/">Books</a></small>
   </div>
   <div class="cf">
     <img alt="Coding for Designers book cover" src="/assets/images/cfd-cover.jpg" class="floatLeft" width="120">
     <h2>Coding for designers</h2>
     <p class="no-margin">By Matej Latin</p>
-    <small class="post-meta">Coming in 2019 — <a class="tag_list_link" href="/tag/front-end/">Front-end</a>, <a class="tag_list_link" href="/tag/web-design/">Web-design</a></small>
+    <small class="post-meta">Coming in 2019 — <a class="tag_list_link" href="/tag/front-end/">Front-end</a>, <a class="tag_list_link" href="/tag/web-design/">Web-design</a>, <a class="tag_list_link" href="/tag/books/">Books</a></small>
   </div>
 </section>

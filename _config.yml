@@ -26,6 +26,7 @@ google_analytics: UA-36131831-6
 
 # Build settings
 markdown: kramdown
+host: 0.0.0.0
 theme: minima
 permalink: pretty
 plugins:

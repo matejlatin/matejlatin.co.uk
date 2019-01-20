@@ -8,6 +8,7 @@ category: books
 tags:
 - Typography
 - Web-design
+- Books
 intro: A book about web typography, based on a course loved by web designers and web developers.
 ---
 

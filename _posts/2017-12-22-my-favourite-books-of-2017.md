@@ -10,6 +10,7 @@ tags:
 - Startup
 - Productivity
 - Day-to-day
+- Books
 intro: I managed to read 19 books this year. Only half of what I managed last year but I knew that would be the case as releasing a project like Better Web Type and my new personal website would consume a lot of my free time.
 
 ---
