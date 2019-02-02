@@ -3,7 +3,7 @@ layout: post
 title:  Open-plan offices are the sweatshops of the west
 date:   2019-02-01 19:56:54 +0000
 author: Matej Latin
-category: personal-notes
+category: articles
 comments: true
 tags:
 - Startup
