@@ -10,7 +10,7 @@ tags:
 - Productivity
 - Remote
 - Psychology
-intro: I initially worked from home as a design consultant but I always wanted to work in a full-time, onsite position. So I traded the comfort of home for a small office in a cosy little town in Luxembourg. 
+intro: I initially worked from home as a design consultant but I always wanted to work in a full-time, on-site position. So I traded the comfort of home for a small office in a cosy little town in Luxembourg. 
 ---
 
 Six years ago, I joined a tiny startup and it was the first time I experienced an open-plan office. There were only three other people working with me in that office and we really got along. We went to lunch together, took walks together, hung out in our free time and built a friendly relationship based on trust. My journey would then take me forward to London where I’d end up working for other, larger startups. Little did I know, that the tiny Luxembourgish company would be the only positive onsite working environment that I’d get to experience in my career.
@@ -22,7 +22,7 @@ After working for a medium-sized startup in London I went on to work for an ente
 </p>
 
 ## Open-plan offices done wrong
-Corporations like these try to emulate the startup working environment by creating such open offices where they throw 100 people in, and tell them to collaborate. They expect cross-pollination of ideas like we’re fucking bees or something. It's not that simple. It kinda works for startups because the teams are usually really small. We’re talking about 5 to 7 people. Collaborating in an open office is great when everyone is working on the same thing, when you’re all on the same mission, when you hang out with them during lunch time, go home together… But when you share your space with people who work on different things (sometimes even in different departments) and constantly distract you with their noisiness *and* nosiness it's a completely different story. 
+Corporations like these try to emulate the startup working environment by creating such open offices where they throw 100 people in, and tell them to collaborate. They expect cross-pollination of ideas like we’re fucking bees or something. It's not that simple. It kinda works for startups because the teams are usually really small. We’re talking about 5 to 7 people. Collaborating in an open-plan office is great when everyone is working on the same thing, when you’re all on the same mission, when you hang out with them during lunch time, go home together… But when you share your space with people who work on different things (sometimes even in different departments) that constantly distract you with their noisiness *and* nosiness it's a completely different story. 
 
 {% include full-bleed-image.html url="/assets/images/open-office.jpg" description="A typical open-plan office. Endless rows of desks, people slouching over laptops with zero privacy and maximum distractions." source="https://unsplash.com/photos/QBpZGqEMsKg" %}
 
@@ -33,7 +33,7 @@ There was an interesting study called *Coding War Games* conducted by Tom Demarc
 
 >that people from the same companies performed at roughly the same level — but that there was an enormous performance gap between organizations. What distinguished programmers at the top-performing companies wasn't greater experience or better pay. It was how much privacy, personal workspace and freedom from interruption they enjoyed. *Sixty-two percent of the best performers said their workspace was sufficiently private compared with only 19 percent of the worst performers.*
 
-There it is: *privacy, personal workspace* and *freedom from interruption*. These are the things that make programmers produce better work, not experience or higher salary. But it seems most companies rather *spend* money hiring highly experienced programmers, pay them high salaries and have them produce mediocre work because they want to *save* money on the office than the other way around. Mindblowing.
+There it is: *privacy, personal workspace* and *freedom from interruption*. These are the things that make programmers produce better work, not experience or higher salary. But it seems most companies rather *spend* money hiring highly experienced programmers, pay them high salaries and have them produce mediocre work because they want to *save* money on the office costs. Mindblowing.
 
 The only way to make the open-plan office work in larger companies would be to keep some walls between sections that divide the office into small working areas where people feel safe and, most of all, comfortable. To create small offices for teams of 5 to 7 people (who work on the same thing/project) where they can collaborate and work undisturbed. Some companies, including Facebook which was the largest advocate for open-plan offices, are starting to revert to something like that. I guess they finally figured out that open-plan offices don’t actually work. And there’s solid research to back that claim.
 
@@ -60,7 +60,7 @@ This answers *why* I always felt so anxious in these types of offices. Being an 
 
 > While employees feel like they’re part of a laid-back, innovative enterprise, the environment ultimately damages workers’ attention spans, productivity, creative thinking, and satisfaction.  Furthermore, a sense of privacy boosts job performance, while the opposite can cause feelings of helplessness.  
 
-Ok, so if research proves that open-plan offices don’t work, why are 80% of office working environments already open-plan? The amount of space per employee shrank from 50 m<sup>2</sup> in the 1970 to less than 20 m<sup>2</sup> in 2010[^4]. Switching to an open-office is a global trend. Why do companies increasingly keep switching to it if it doesn’t actually work?
+Ok, so if research proves that open-plan offices don’t work, why are 80% of office working environments already open-plan? The amount of space per employee shrank from 50 m<sup>2</sup> in the 1970 to less than 20 m<sup>2</sup> in 2010[^4]. Switching to an open-plan office is a global trend. Why do companies increasingly keep switching to it if it doesn’t actually work?
 
 ## The new sweatshops of the west
 We look with horror at the typical sweatshops in Asia that, whether we like it or not, produce most of the products we buy. Rooms, crowded with people (and sometimes children) with no private space, trying to focus in such distracting and sometimes hazardous environment. Trying their best to produce the amount of work that will guarantee them their daily wage. Bad lighting, poor quality of air, limited toilet time, limited breaks. In short, extremely poor and unacceptable working conditions.

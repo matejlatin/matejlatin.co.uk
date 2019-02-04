@@ -1,6 +1,8 @@
 /* Defaults
    ========================================================================== */
 
+$heightBreakpoint: 715px;
+
 body,
 html {
 
@@ -71,7 +73,11 @@ body {
   margin: 0;
   padding: 0 2em;
   background: #fff;
-  @media screen and (min-width: $breakpoint) {
+  padding: 4%;
+}
+
+@media screen and (min-width: $breakpoint) and (min-height: heightBreakpoint) {
+  body {
     padding: 7%;
   }
 }
@@ -129,7 +135,13 @@ body {
 }
 
 .menu-list {
-  @include margin-top(4);
+  margin-top: 0;
+}
+
+@media screen and (min-height: heightBreakpoint){
+  .menu-list {
+    @include margin-top(1);
+  }
 }
 
 // Animations
@@ -224,8 +236,6 @@ body {
   }
 
   .menu-list {
-    @include margin-top(2);
-
     a.active {
       text-decoration: line-through;
     }
@@ -251,6 +261,13 @@ body {
 
   .fixed {
     position: fixed;
+  }
+
+}
+
+@media screen and (min-width: $breakpoint) and (min-height: heightBreakpoint) {
+  .menu-list {
+    @include margin-top(2);
   }
 }
 
