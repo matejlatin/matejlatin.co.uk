@@ -21,3 +21,7 @@ The students that went through the course loved it so much that they started ask
 ---
 
 The book was released as an eBook on July 31 and is available to [order on the Better Web Type website](https://betterwebtype.com/web-typography-book).
+
+<div></div>
+
+The *second edition* of the book was released in February 2019. Digital extras like Sketch files, cheat sheets and similar were added to the book.
