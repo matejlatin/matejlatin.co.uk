@@ -115,12 +115,21 @@ sub {
     text-indent: #{ $leading-rem + 'rem'};
   }
 
+  p.new-line {
+    @include margin-top(0);
+    text-indent: 0;
+  }
+
   @media screen and (min-width: $breakpoint) {
     $leading: $leading-desktop;
     $leading-rem: $leading-rem-desktop;
 
     article p + p {
       @include margin-top(-1);
+    }
+
+    p.new-line {
+      @include margin-top(0);
     }
   }
 
