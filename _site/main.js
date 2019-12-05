@@ -6,7 +6,7 @@ $(document).on('submit', 'form', function(e) {
     data: $this.serialize(),
     dataType: 'json',
     contentType: "application/json; charset=utf-8",
-    headers: { "X-MailerLite-ApiKey": "3c9772b7ecfd84d3c5981afb78d6423e" },
+    headers: { "X-MailerLite-ApiKey": "3c9772b7ecfd84d3c5981afb78d6423e", "Host": "api.mailerlite.com", "Content-Type": "application/json" },
     error: function(err) {
           // $('article, footer').addClass('blurEffect');
           $('#msg').fadeIn(300);
