@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Open-plan offices are the sweatshops of the west
+title:  Open-plan offices are the sweatshops of the West
 date:   2019-02-01 19:56:54 +0000
 author: Matej Latin
 category: articles
@@ -10,7 +10,7 @@ tags:
 - Productivity
 - Remote
 - Psychology
-intro: I initially worked from home as a design consultant but I always wanted to work in a full-time, on-site position. So I traded the comfort of home for a small office in a cosy little town in Luxembourg. 
+intro: I initially worked from home as a design consultant but I always wanted to work in a full-time, on-site position. So I traded the comfort of home for a small office in a cosy little town in Luxembourg.
 ---
 
 Six years ago, I joined a tiny startup and it was the first time I experienced an open-plan office. There were only three other people working with me in that office and we really got along. We went to lunch together, took walks together, hung out in our free time and built a friendly relationship based on trust. My journey would then take me forward to London where I’d end up working for other, larger startups. Little did I know, that the tiny Luxembourgish company would be the only positive onsite working environment that I’d get to experience in my career.
@@ -18,11 +18,11 @@ Six years ago, I joined a tiny startup and it was the first time I experienced a
 {% include quote-float-right.html quote="“No nesting!”, I’m told. I’m expected to move around, sit in different areas each day." %}
 
 <p class="force-indent">
-After working for a medium-sized startup in London I went on to work for an enterprise. The office was the most stylish compared to the previous ones, it was larger and in a recently-built skyscraper just the opposite of the Google headquarters. Beautiful views of downtown London on one side, similar skyscrapers on the other. Long rows of tables everywhere and busy-looking people slouching over their laptops. Lively and even somewhat noisy, but, surprisingly, it all looked strangely bleak. I learned on the first day that the company practices what they call “a clean desk policy”. This simply means that at the end of the day you need to pack your shit up, put it in a box and take it to your little American-high-school-looking locker. “No nesting!”, I’m told. I’m expected to move around, sit in different areas each day. It’s supposed to make me interact with different people in the company. 
+After working for a medium-sized startup in London I went on to work for an enterprise. The office was the most stylish compared to the previous ones, it was larger and in a recently-built skyscraper just the opposite of the Google headquarters. Beautiful views of downtown London on one side, similar skyscrapers on the other. Long rows of tables everywhere and busy-looking people slouching over their laptops. Lively and even somewhat noisy, but, surprisingly, it all looked strangely bleak. I learned on the first day that the company practices what they call “a clean desk policy”. This simply means that at the end of the day you need to pack your shit up, put it in a box and take it to your little American-high-school-looking locker. “No nesting!”, I’m told. I’m expected to move around, sit in different areas each day. It’s supposed to make me interact with different people in the company.
 </p>
 
 ## Open-plan offices done wrong
-Corporations like these try to emulate the startup working environment by creating such open offices where they throw 100 people in and tell them to collaborate. They expect cross-pollination of ideas like we’re fucking bees or something. It's not that simple. It kinda works for startups because the teams are usually really small. We’re talking about 5 to 7 people. Collaborating in an open-plan office is great when everyone is working on the same thing, when you’re all on the same mission, when you hang out with them during lunch time, go home together… But when you share your space with people who work on different things (sometimes even in different departments) that constantly distract you with their noisiness *and* nosiness it's a completely different story. 
+Corporations like these try to emulate the startup working environment by creating such open offices where they throw 100 people in and tell them to collaborate. They expect cross-pollination of ideas like we’re fucking bees or something. It's not that simple. It kinda works for startups because the teams are usually really small. We’re talking about 5 to 7 people. Collaborating in an open-plan office is great when everyone is working on the same thing, when you’re all on the same mission, when you hang out with them during lunch time, go home together… But when you share your space with people who work on different things (sometimes even in different departments) that constantly distract you with their noisiness *and* nosiness it's a completely different story.
 
 {% include full-bleed-image.html url="/assets/images/open-office.jpg" description="A typical open-plan office. Endless rows of desks, people slouching over laptops with zero privacy and maximum distractions." source="https://unsplash.com/photos/QBpZGqEMsKg" %}
 
@@ -40,25 +40,25 @@ The only way to make the open-plan office work in larger companies would be to k
 ## Open-plan offices simply don’t work
 The idea behind the open-plan offices is to encourage collaboration, increase transparency, improve efficiency, and establish a great working relationship between the workers. To quote one of the loudest advocates of open-plan offices, Jack Dorsey, co-founder of Twitter:
 
-> We encourage people to stay out in the open because we believe in serendipity—and people walking by each other teaching new things."  
+> We encourage people to stay out in the open because we believe in serendipity—and people walking by each other teaching new things."
 
 Even the small offices that are reserved for meetings and calls in these kinds of environments are usually surrounded by transparent walls. So even when you’re trying to isolate yourself a bit, everyone can still see you. I guess it’s all in the name of transparency. Collaboration, transparency, efficiency and friendship at work all sounds nice, but is there any research backing this?
 
 There’s research alright, but it’s not backing the claims of the open-plan office advocates. In fact, it proves the opposite. Researches at Harvard found that after switching to an open-plan office:[^2]
 
-> Overall, face-to-face time decreased by around 70 percent across the participating employees, on average, with email use increasing by between 22 percent and 50 percent…   
+> Overall, face-to-face time decreased by around 70 percent across the participating employees, on average, with email use increasing by between 22 percent and 50 percent…
 
 I experienced this myself. I’ve seen people who were sitting opposite of each other communicating through chat messages. All day long. Interestingly, both were wearing noise-cancelling headphones. When I saw that, I felt that it was something that’s perfectly fine to do and adopted it. Another study found that:[^3]
 
-> …many workers in open offices are frustrated by distractions that lead to poorer work performance. Nearly half of the surveyed workers in open offices said the lack of sound privacy was a significant problem for them and more than 30 percent complained about the lack of visual privacy.  
+> …many workers in open offices are frustrated by distractions that lead to poorer work performance. Nearly half of the surveyed workers in open offices said the lack of sound privacy was a significant problem for them and more than 30 percent complained about the lack of visual privacy.
 
 and that:
 
-> …the loss of productivity due to noise distraction … was doubled in open-plan offices compared to private offices.  
+> …the loss of productivity due to noise distraction … was doubled in open-plan offices compared to private offices.
 
 This answers *why* I always felt so anxious in these types of offices. Being an introvert, I found it extremely hard to isolate myself in such noisy environments. Especially because they’re noisy in a bad way. It’s not the same as working in a coffee shop where everything blends into the background. And then here’s the final nail in the coffin for the open-plan offices:
 
-> While employees feel like they’re part of a laid-back, innovative enterprise, the environment ultimately damages workers’ attention spans, productivity, creative thinking, and satisfaction.  Furthermore, a sense of privacy boosts job performance, while the opposite can cause feelings of helplessness.  
+> While employees feel like they’re part of a laid-back, innovative enterprise, the environment ultimately damages workers’ attention spans, productivity, creative thinking, and satisfaction.  Furthermore, a sense of privacy boosts job performance, while the opposite can cause feelings of helplessness.
 
 Ok, so if research proves that open-plan offices don’t work, why are 80% of office working environments already open-plan? The amount of space per employee shrank from 50 m<sup>2</sup> in 1970 to less than 20 m<sup>2</sup> in 2010[^4]. Switching to an open-plan office is a global trend. Why do companies increasingly keep switching to it if it doesn’t actually work?
 
@@ -76,7 +76,7 @@ My journey through all this led me to a simple conclusion. I was my best self, m
 
 ---
 
-[^1]: *Why An Open Office Environment Can Totally Kill Creativity* by Aimee Groth ([source](https://www.businessinsider.com/why-an-open-office-environment-can-totally-kill-creativity-2012-1?r=US&IR=T)). 
-[^2]: *New Harvard Study: Your Open-Plan Office Is Making Your Team Less Collaborative* by Jessica Stillman ([source](https://www.inc.com/jessica-stillman/new-harvard-study-you-open-plan-office-is-making-your-team-less-collaborative.html)). 
-[^3]: *Google got it wrong. The open-office trend is destroying the workplace.* by Lindsey Kaufman ([source](https://www.washingtonpost.com/posteverything/wp/2014/12/30/google-got-it-wrong-the-open-office-trend-is-destroying-the-workplace/?noredirect=on&utm_term=.aaaabe89c4ba)). 
-[^4]: *Quiet. The power of Introverts in a World That Can’t Stop Talking* by Susan Cain ([source](https://www.goodreads.com/book/show/17204619-quiet)). 
+[^1]: *Why An Open Office Environment Can Totally Kill Creativity* by Aimee Groth ([source](https://www.businessinsider.com/why-an-open-office-environment-can-totally-kill-creativity-2012-1?r=US&IR=T)).
+[^2]: *New Harvard Study: Your Open-Plan Office Is Making Your Team Less Collaborative* by Jessica Stillman ([source](https://www.inc.com/jessica-stillman/new-harvard-study-you-open-plan-office-is-making-your-team-less-collaborative.html)).
+[^3]: *Google got it wrong. The open-office trend is destroying the workplace.* by Lindsey Kaufman ([source](https://www.washingtonpost.com/posteverything/wp/2014/12/30/google-got-it-wrong-the-open-office-trend-is-destroying-the-workplace/?noredirect=on&utm_term=.aaaabe89c4ba)).
+[^4]: *Quiet. The power of Introverts in a World That Can’t Stop Talking* by Susan Cain ([source](https://www.goodreads.com/book/show/17204619-quiet)).
