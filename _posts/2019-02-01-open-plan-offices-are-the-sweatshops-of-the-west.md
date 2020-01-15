@@ -10,6 +10,7 @@ tags:
 - Productivity
 - Remote
 - Psychology
+- Work
 intro: I initially worked from home as a design consultant but I always wanted to work in a full-time, on-site position. So I traded the comfort of home for a small office in a cosy little town in Luxembourg.
 ---
 

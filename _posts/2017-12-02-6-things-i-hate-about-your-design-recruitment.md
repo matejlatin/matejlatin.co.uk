@@ -8,6 +8,8 @@ comments: true
 tags:
 - UX
 - Design
+- Job-hunting
+- Recruitment
 ---
 
 Yesterday I read the [6 things I hate about your design CV](https://blog.usejournal.com/6-things-i-hate-about-your-design-cv-349b52e6a5c6) article. I found myself on the hiring side numerous times already and although a bit disrespectful, the article genuinely offers good advice for designers that are just starting out. Finding and hiring good designers is hard and yes, companies get all sorts of applications. There’s simply a lot of it to get through—many people out there trying to start their design career. 
