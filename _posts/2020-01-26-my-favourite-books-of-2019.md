@@ -22,7 +22,7 @@ intro: I continued with my habit of reading for at least 30 minutes a day in 201
 According to my Goodreads’ *[My Year in Books 2019](https://www.goodreads.com/user/year_in_books/2019)* report, I read 24 books last year. That’s five more than the year before but still one short from reaching my goal of 25. I guess I’m slowly getting there. This is a list of my favourite books that I *read* in 2019, not of books that were published in 2019 (although some of them were). And they’re not sorted in any order at all, the same as my lists for [my favourite books of 2017](https://matejlatin.co.uk/personal-notes/2017/12/22/my-favourite-books-of-2017/) and [my favourite books of 2018](https://matejlatin.co.uk/personal-notes/2019/01/18/my-favourite-books-of-2018/) weren’t.
 
 ## Company of One
-{% include image.html url="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534280579l/41144788._SY475_.jpg" description="Company of ONe by Paul Jarvis" float="Right" %}
+{% include image.html url="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534280579l/41144788._SY475_.jpg" description="Company of One by Paul Jarvis" float="Right" %}
 This is the very first book that I read in 2019 as it was released in January and I preordered it. I’ve been following Paul Jarvis for a long time as he’s been an inspiration ever since I stumbled upon him. This is his first book ever but I always liked his writing style and honesty. I’ve also been exploring the entrepreneurship waters for the last few years so I wanted to see what Jarvis’ approach is. Maybe there’s something cool to learn from him.
 
 ### What’s so good about it?
