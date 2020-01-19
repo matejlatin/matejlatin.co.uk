@@ -1,5 +1,12 @@
-{% if include.float %}<figure class="image float{{ include.float }}">{% else %}
-  <figure class="image">{% endif %}
+{% if include.float %}
+  {% if include.border %}<figure class="image float{{ include.float }} img-border">
+  {% else %}<figure class="image float{{ include.float }}">
+  {% endif %}
+{% else %}
+  {% if include.border %}<figure class="image img-border">
+  {% else %}<figure class="image">
+  {% endif %}
+{% endif %}
   <img src="{{ include.url }}" alt="{{ include.description }}">
   <figcaption>{{ include.description }} {% if include.source %}(<a href="{{ include.source }}">Source</a>){% endif %}</figcaption>
 </figure>

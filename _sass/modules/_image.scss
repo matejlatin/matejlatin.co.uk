@@ -31,3 +31,9 @@ svg:not(:root) {
 .floatRight img {
   max-width: 150px;
 }
+
+.img-border {
+  img {
+    border: 1px solid #ccc;
+  }
+}
