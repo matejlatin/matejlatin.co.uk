@@ -36,10 +36,6 @@ $headings: (
     h6: (1, 1, 2.5, .5)
   );
 
-  .home h1 {
-    max-width: 35rem;
-  }
-
   article.post h2 {
     @include margin-top(2);
   }
