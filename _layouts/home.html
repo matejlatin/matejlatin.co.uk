@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <article>
+  <article class="post">
     <p class="section-title f-f-gibson">Latest post</p>
     {% for post in site.posts limit:1 %}
       {% assign reading_time = post.content | strip_html | number_of_words | plus:91 | divided_by:180 %}
