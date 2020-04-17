@@ -138,7 +138,7 @@ body {
   margin-top: 0;
 }
 
-@media screen and (min-height: heightBreakpoint){
+@media screen and (min-height: $heightBreakpoint){
   .menu-list {
     @include margin-top(1);
   }
@@ -265,7 +265,7 @@ body {
 
 }
 
-@media screen and (min-width: $breakpoint) and (min-height: heightBreakpoint) {
+@media screen and (min-width: $breakpoint) and (min-height: $heightBreakpoint) {
   .menu-list {
     @include margin-top(2);
   }
