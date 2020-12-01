@@ -6,6 +6,7 @@ author: Matej Latin
 category: personal-notes
 titlemax: 8
 comments: true
+image: bwt-cover
 tags:
 - Minimalism
 - Business
