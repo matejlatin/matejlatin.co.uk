@@ -10,6 +10,7 @@ image: bwt-cover
 tags:
 - Minimalism
 - Business
+- Better-Web-Type
 intro: This is the period when I usually receive a couple of emails in which people ask me if I’ll have a Black Friday sale for my book. My answer is always “no, I don’t do Black Friday sales” and then I never hear back from them. They never ask why but I decided to write this post and share my thoughts.
 
 ---

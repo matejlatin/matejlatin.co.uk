@@ -8,7 +8,7 @@ titlemax: 8
 comments: true
 tags:
 - Business
-- "Better Web Type"
+- "Better-Web-Type"
 image: bwt-cover
 intro: I love printed books. Most of the books that I buy are in the printed format. I always check if I can find a used copy first, sometimes I find an awesome deal where I get a $15 book for $3! “Recycling” a book like that is good for my wallet and it’s also good for the planet.
 
