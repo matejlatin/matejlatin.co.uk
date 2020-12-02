@@ -28,7 +28,7 @@ Blurb was a bit better, so the very first printed books that I sold were printed
 
 {% include image.html url="/assets/images/bwt-books-stack.jpg" description="The second and improved quality edition of my web typography book printed by Lulu." %}
 
-After I did more research, I discovered Lulu. There, I was able to choose between a glossy and matt finish for the book cover. I chose matt. I could also choose the finish for the interior pages and I chose the coated one. I ordered a couple of test copies and was pleasantly surprised when they arrived. The matt cover finish had a velvety feel to it. It looked and felt sophisticated. The pages were slightly glossy because of the coating and it made the colours stand out. I loved it!
+After I did more research, I discovered Lulu. There, I was able to choose between a glossy and matte finish for the book cover. I chose matte. I could also choose the finish for the interior pages and I chose the coated one. I ordered a couple of test copies and was pleasantly surprised when they arrived. The matte cover finish had a velvety feel to it. It looked and felt sophisticated. The pages were slightly glossy because of the coating and it made the colours stand out. I loved it!
 
 {% include full-bleed-image.html url="/assets/images/bwt-book-details.jpg" description="The detail shots of my web typography book’s interior pages." %}
 
