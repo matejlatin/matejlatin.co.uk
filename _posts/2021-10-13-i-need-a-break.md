@@ -8,13 +8,11 @@ titlemax: 8
 comments: true
 tags:
 - Day-to-day
-# intro: 2020 was a shitty year, there’s no arguing about that. So when I looked back and tried to remember good books that I read in 2020, I had a feeling that there were few. I thought that I wouldn‘t have enough for my annual list of favourite books. But I was wrong.
+intro: I should be resting instead of writing this as it’s been weeks since I started feeling like shit again. I’ve been juggling my full-time job, my personal projects, my private life, and failing at it, for almost a year now.
 
 ---
 
-I should be resting instead of writing this as it’s been weeks since I started feeling like shit again. I’ve been juggling my full-time job, my personal projects, my private life, and failing at it, for almost a year now. It’s almost one year since I “broke down” and I have been struggling ever since. A good week is always followed by two or three bad ones. It’s exhausting.
-
-So I decided to take a break. Or at least try. Me and my family depend on my full-time job so I can’t just stop working. But I need to take a pause and find a new balance. And that means stopping the work on my personal projects for a while. I’ve been running my business on the side for almost 5 years but even before that, I had always worked on personal side projects. There were times where I would regularly work for 13 hours a day. And there were already times where I broke down in a way and had to pause.
+It’s almost one year since I “broke down” and I have been struggling ever since. A good week is always followed by two or three bad ones. It’s exhausting. So I decided to take a break. Or at least try. Me and my family depend on my full-time job so I can’t just stop working. But I need to take a pause and find a new balance. And that means stopping the work on my personal projects for a while. I’ve been running my business on the side for almost 5 years but even before that, I had always worked on personal side projects. There were times where I would regularly work for 13 hours a day. And there were already times where I broke down in a way and had to pause.
 
 Running the Better Web Type website, my new online course UX Buddy and balancing it with my full-time job and private life just isn’t possible any more. We’re also finishing building our house which we hope we’ll move into in December. So all together, it’s too much to handle right now.
 
