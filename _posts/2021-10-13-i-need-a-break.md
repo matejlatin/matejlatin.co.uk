@@ -22,6 +22,10 @@ So I’m taking a break from personal projects. I don’t know for how long but 
 
 I’ll still do another early release of my UX Buddy course in November. So if you’re unhappy at work and want to get a better UX design job, [check it out and join the waitlist](https://uxbuddy.co/).
 
+<br />
+
 I’ll also do a couple more discount sales for the [Better Web Type book](https://betterwebtype.com/web-typography-book/) about which I’ll notify everyone on my mailing list.
+
+---
 
 That’s it, I hope to get some rest in the months ahead. See you in 2022!
