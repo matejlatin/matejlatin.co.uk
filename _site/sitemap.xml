@@ -196,9 +196,6 @@
 <loc>http://matejlatin.co.uk/contact/</loc>
 </url>
 <url>
-<loc>http://matejlatin.co.uk/tag/books/</loc>
-</url>
-<url>
 <loc>http://matejlatin.co.uk/tag/minimalism/</loc>
 </url>
 <url>
@@ -238,6 +235,9 @@
 <loc>http://matejlatin.co.uk/tag/ui/</loc>
 </url>
 <url>
+<loc>http://matejlatin.co.uk/tag/books/</loc>
+</url>
+<url>
 <loc>http://matejlatin.co.uk/tag/business/</loc>
 </url>
 <url>
@@ -245,6 +245,10 @@
 </url>
 <url>
 <loc>http://matejlatin.co.uk/personal-notes/</loc>
+</url>
+<url>
+<loc>http://matejlatin.co.uk/feed.html</loc>
+<lastmod>2022-03-06T10:19:53+01:00</lastmod>
 </url>
 <url>
 <loc>http://matejlatin.co.uk/matej-latin.pdf</loc>
