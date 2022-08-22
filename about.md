@@ -7,7 +7,7 @@ permalink: /about/
 
 I remember how when I was a child, I thought that designers are fancy people that “design clothes”. That was literally the only perception of design I had.
 
-{% include full-bleed-image.html url="/assets/images/matej-latin.jpg" %}
+{% include full-bleed-image.html url="assets/images/matej-latin.jpg" %}
 
 I joined an after–school class called Web Design when I was 13. There, I first played around with Front Page. Then I learned the basics of HTML by simply memorizing all the element tags. I remember how cool it was to be able to create something out of nothing—it felt like magic. But thinking about those years now, I realize I had been doing that before.
 
